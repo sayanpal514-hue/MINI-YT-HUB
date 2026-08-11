@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-11T20:18:36.538844Z",
+    "last_updated": "2026-08-11T21:57:02.123574Z",
     "show_name": "Anione In",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Anione In.",
-    "total_episodes": 30,
+    "total_episodes": 31,
     "episodes": [
         {
             "id": "r0FAuu-EVsk",
@@ -334,6 +334,17 @@
             "uploader": null,
             "category": "anime/anione_in",
             "thumbnail": "https://i.ytimg.com/vi/aCQAcRi-Qwg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCALTkE4Z-TDAOEqr41Xfiv99Bhtw",
+            "channel": null
+        },
+        {
+            "id": "EZ2zukSTBAo",
+            "title": "I Saved Myself with a Potion!: Life in Another World | Episode 4 (EN Sub / JP Dub)【Ani-One India】",
+            "url": "https://www.youtube.com/watch?v=EZ2zukSTBAo",
+            "duration": 781,
+            "view_count": 18000,
+            "uploader": null,
+            "category": "anime/anione_in",
+            "thumbnail": "https://i.ytimg.com/vi/EZ2zukSTBAo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv9TQd_30MswXY88t_2r8RlcNpGg",
             "channel": null
         }
     ]
