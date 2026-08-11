@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Watch - MINI HUB</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="Watch movies on MINI HUB">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="logo">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="#ff2a5f" stroke-width="2"/>
+                <path d="M10 8L16 12L10 16V8Z" fill="#ff2a5f"/>
+            </svg>
+            MINI<span>HUB</span>
+        </a>
+    </nav>
+
+    <div class="player-container">
+        <div class="video-section">
+            <div class="video-wrapper">
+                <iframe id="videoPlayer" src="" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            
+            <div class="video-details">
+                <h1 class="video-title" id="videoTitle">Loading...</h1>
+                <div class="video-stats">
+                    <span id="videoViews">-- views</span>
+                    <span id="videoDate">--</span>
+                </div>
+                
+                <div class="video-uploader">
+                    <div class="uploader-avatar" id="uploaderInitial">?</div>
+                    <div class="uploader-info">
+                        <div style="font-weight: 600; font-size: 1.1rem;" id="uploaderName">Loading...</div>
+                        <div style="color: var(--text-secondary); font-size: 0.9rem;">Verified Channel</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="recommendations">
+            <h3>Up Next</h3>
+            <div class="rec-list" id="recommendationsList">
+                <!-- Recommendations will be injected here via JS -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
