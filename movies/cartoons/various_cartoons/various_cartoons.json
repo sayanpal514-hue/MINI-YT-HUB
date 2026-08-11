@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-11T21:57:02.113423Z",
+    "last_updated": "2026-08-11T22:15:10.954835Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 2,
+    "total_episodes": 3,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -26,6 +26,17 @@
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "oEB3PTtnjX4",
+            "title": "हिंदी Oggy and the Cockroaches 😱 पूल राक्षस 😱 Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=oEB3PTtnjX4",
+            "duration": 3990,
+            "view_count": 4844074,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/oEB3PTtnjX4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe46ydq7n2VrmK5VrlEqmKY43CZg",
             "show_name": "Various Cartoons"
         }
     ]
