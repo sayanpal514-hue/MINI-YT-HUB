@@ -1,12 +1,12 @@
 # MINI YT HUB
 
-MINI YT HUB is a premium, beautifully designed movie and video scrapper platform. It automatically scrapes various categories (like Anime, Cartoons, Bengali, Hollywood, etc.) from official YouTube channels and presents them in a modern, dark-themed user interface.
+MINI YT HUB is a premium, beautifully designed movie and video scrapper platform. It automatically scrapes various categories (like Anime, Cartoons, Bengali,Hindi, Hollywood, etc.) from official YouTube channels and presents them in a modern, dark-themed user interface.
 
 ## 📸 Interface Preview
 
 ![Website Screenshot](./screenshot.png)
 
-*(Note: Replace `screenshot.png` in the repository with your actual website screenshot)*
+
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ MINI YT HUB is a premium, beautifully designed movie and video scrapper platform
    pip install -r requirements.txt
    python main.py
    ```
-   *This will update the JSON files in the `movies/` folder with the latest videos.*
+
 
 2. **Run the Website**:
    Due to CORS policies, you need to run a local web server to fetch the JSON data.
