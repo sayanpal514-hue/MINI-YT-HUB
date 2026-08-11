@@ -5,13 +5,11 @@ on:
     branches:
       - main
   schedule:
-    
     - cron: '*/10 * * * *'
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
-    
-    
+
     permissions:
       contents: write
 
@@ -35,15 +33,8 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          # Set up git config for the bot
           git config --global user.name "sayanpal514-hue"
           git config --global user.email "223531683+sayanpal514-hue@users.noreply.github.com"
-          
-          # Stage all movie JSON files (category folders + combined)
           git add movies/
-          
-          # Check if there are any changes to commit
           git commit -m "Automated update: fetched latest YouTube movies" || echo "No changes to commit"
-          
-          # Push the changes
           git push origin HEAD:main
