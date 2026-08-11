@@ -16,9 +16,9 @@ CATEGORIES = {
     "tamil": "full movie tamil",
     "telugu": "full movie telugu",
     "kannada": "full movie kannada",
-    "bengali": "full movie bengali",          # NEW
-    "hollywood": "hollywood full movie",      # NEW
-    "other": "full movie",                    # NEW (catch‑all)
+    "bengali": "full movie bengali",          
+    "hollywood": "hollywood full movie",      
+    "other": "full movie",                    
     "cartoons": "cartoon full movie for kids",
     "cartoons_auto": "hindi cartoon full episodes",
     "comedy": "hindi comedy videos",
