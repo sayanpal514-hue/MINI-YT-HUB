@@ -4,7 +4,7 @@ MINI YT HUB is a premium, beautifully designed movie and video scrapper platform
 
 ## 📸 Interface Preview
 
-![Website Screenshot](./screenshot.png)
+![Website Screenshot](./Screenshot.png)
 
 
 
