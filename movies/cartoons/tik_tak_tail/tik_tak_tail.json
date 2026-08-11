@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-11T22:15:10.972809Z",
+    "last_updated": "2026-08-11T23:09:11.802848Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 12,
+    "total_episodes": 13,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": 304246,
+            "view_count": 304244,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -125,6 +125,16 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/ncIrHRkzj8s/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEEoTjAP&rs=AOn4CLDn6X-GbSaY4xvg9DeVPh9xaOGQig"
+        },
+        {
+            "id": "xFYSMFbTVjk",
+            "title": "Tik Tak Tail | Carrot Ice Cream Parlour | Cartoons For Kids | WildBrain Happy Kids",
+            "url": "https://www.youtube.com/watch?v=xFYSMFbTVjk",
+            "duration": 796,
+            "view_count": 1240,
+            "uploader": "WildBrain Sunshine City",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/xFYSMFbTVjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLvR-EV6QtfYMLpiXVQAKWzcv6sw"
         }
     ]
 }
