@@ -1,4 +1,4 @@
-name: Daily Movie Scraper
+name: MINI YT
 
 on:
   push:
@@ -31,7 +31,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Python scraper
-        run: python scripts/main.py
+        run: python scraper/main.py
 
       - name: Commit and Push changes
         run: |
