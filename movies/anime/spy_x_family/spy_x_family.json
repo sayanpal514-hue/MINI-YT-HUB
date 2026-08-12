@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T20:20:54.714037Z",
+    "last_updated": "2026-08-12T21:08:23.974317Z",
     "show_name": "Spy X Family",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Spy X Family.",
-    "total_episodes": 2,
+    "total_episodes": 3,
     "episodes": [
         {
             "id": "pRuW10v8Wn4",
@@ -25,6 +25,16 @@
             "uploader": "Otaku Buchi",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/X_eAoF5bQ0k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0WadCDIpQRb_Fdtlt5ExantZB1Q"
+        },
+        {
+            "id": "BCXefCeXE9E",
+            "title": "Anya Funny Moments in Hindi 😂 | Loid Anya and Yor Thug life Moments😎 | Spy x Family Hindi Dubbed",
+            "url": "https://www.youtube.com/watch?v=BCXefCeXE9E",
+            "duration": 842,
+            "view_count": 172684,
+            "uploader": "BladeX OG",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/BCXefCeXE9E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYe87yf9bdEBNuDhgDX5XrFCch2w"
         }
     ]
 }
