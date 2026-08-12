@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T08:41:55.689276Z",
+    "last_updated": "2026-08-12T09:46:48.168604Z",
     "show_name": "Dragon Ball Super",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Super.",
-    "total_episodes": 2,
+    "total_episodes": 3,
     "episodes": [
         {
             "id": "2UUm1axJzMI",
@@ -25,6 +25,16 @@
             "uploader": "Animeverse",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/D1iKisFj9LE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX5fREV9MQHlY081GrmVoOj_N3mw"
+        },
+        {
+            "id": "jR2WBvHCbLA",
+            "title": "Goku Super Sayen Blue VS Golden Freeza Full Battle (Hindi Dubbed)",
+            "url": "https://www.youtube.com/watch?v=jR2WBvHCbLA",
+            "duration": 3381,
+            "view_count": 397279,
+            "uploader": "Legend of the rising warrior",
+            "category": "anime/dragon_ball_super",
+            "thumbnail": "https://i.ytimg.com/vi/jR2WBvHCbLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBajdJech2ebvYy6OZJbZwLTvI--w"
         }
     ]
 }

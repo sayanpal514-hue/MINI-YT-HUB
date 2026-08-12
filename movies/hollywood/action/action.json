@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-12T08:41:55.624436Z",
-    "total_movies": 11,
+    "last_updated": "2026-08-12T09:46:48.125107Z",
+    "total_movies": 15,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -17,7 +17,7 @@
             "title": "Cobra (2026) Full Movie Hindi Dubbed | Action Crime Thriller | Hindi Dub | Hollywood Movie HD",
             "url": "https://www.youtube.com/watch?v=EyyItkmEw_Y",
             "duration": 4928,
-            "view_count": 84321,
+            "view_count": 84423,
             "uploader": "Hollywood Hindi Dub",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/EyyItkmEw_Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw84zGhHmHGB1Yn0zFKW8zKIYI2Q"
@@ -37,7 +37,7 @@
             "title": "NAKED ASSASSIN - New Released Full Hindi Dubbed Movie | Hollywood Action Movie In Hindi | Free Movie",
             "url": "https://www.youtube.com/watch?v=Sslpb9TY4es",
             "duration": 5201,
-            "view_count": 10257846,
+            "view_count": 10258183,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/Sslpb9TY4es/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLfDh9OHtuzrqxnjlzmlFS4oM13Q"
@@ -57,7 +57,7 @@
             "title": "THE ERADICATOR - Full Hollywood Action Movie Hindi Dubbed | Dane, Kent | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=e9EB-fYKYcc",
             "duration": 5308,
-            "view_count": 449876,
+            "view_count": 449965,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/e9EB-fYKYcc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFSoR62JLB4aAyTzFsawinlITkg"
@@ -67,7 +67,7 @@
             "title": "New Hollywood Hindi Dubbed Movie | Revenge Of Moorwen | Action Movie",
             "url": "https://www.youtube.com/watch?v=W6dzLx4LNxY",
             "duration": 6912,
-            "view_count": 620712,
+            "view_count": 620791,
             "uploader": "INFINITY MOVIES",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/W6dzLx4LNxY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIVYuOJ0731eyavArY87J37zL7w"
@@ -77,7 +77,7 @@
             "title": "The Shooter | New Hollywood (2025) Full Movie in Hindi Dubbed | Latest Hollywood  Movie",
             "url": "https://www.youtube.com/watch?v=ozgBjSisD60",
             "duration": 6452,
-            "view_count": 395638,
+            "view_count": 395678,
             "uploader": "Derpfest Production",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/ozgBjSisD60/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAaPwGrqw9cjlh2q2EQN_Tqq0J2g"
@@ -107,10 +107,50 @@
             "title": "THE TARGETER - Full Hollywood Action Movie Hindi Dubbed | Tim F, Mike | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=lDHT5gz77M8",
             "duration": 5974,
-            "view_count": 241075,
+            "view_count": 241102,
             "uploader": "Rising Nova Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/lDHT5gz77M8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtA6qr4KFmbRRYDzg81NPt3acodw"
+        },
+        {
+            "id": "AD7POAou3qo",
+            "title": "LADY XTERMINATOR - Hollywood Action Movie Hindi Dubbed | Hollywood Movie Hindi Dubbed Full Action HD",
+            "url": "https://www.youtube.com/watch?v=AD7POAou3qo",
+            "duration": 4666,
+            "view_count": 3082229,
+            "uploader": "Dimension Pictures",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/AD7POAou3qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWiNG7YIVYJMI360VSj2s2ACB7Yg"
+        },
+        {
+            "id": "T91M5hfX-Ng",
+            "title": "WOLFHOUND - Hollywood Action Movie Hindi Dubbed | Hollywood Action Movies In Hindi Dubbed Full HD",
+            "url": "https://www.youtube.com/watch?v=T91M5hfX-Ng",
+            "duration": 6515,
+            "view_count": 8068490,
+            "uploader": "Dimension Pictures",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/T91M5hfX-Ng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjwpU-Fh6K4rBjK2CzYSVxIKBPaQ"
+        },
+        {
+            "id": "OiyM7fS1-3U",
+            "title": "TOP MISSION - Hollywood Movie Hindi Dubbed | Thomas Gibson, Graham Greene, Louise L | Action Movies",
+            "url": "https://www.youtube.com/watch?v=OiyM7fS1-3U",
+            "duration": 5369,
+            "view_count": 3633859,
+            "uploader": "Hindi Cinema Talkies",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/OiyM7fS1-3U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4U3M8C7YXAytgHckz3wLeP_XxQQ"
+        },
+        {
+            "id": "1cAhrIb-uUw",
+            "title": "THE CHASER - Full Hollywood Action Movie Hindi Dubbed | Sean, Rebecca | Hindi Action Thriller Movie",
+            "url": "https://www.youtube.com/watch?v=1cAhrIb-uUw",
+            "duration": 5462,
+            "view_count": 54960,
+            "uploader": "Rising Nova Hindi",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/1cAhrIb-uUw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD04D0lg1BU1GFQTfySBwfKB6aVBQ"
         }
     ]
 }
