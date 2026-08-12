@@ -4,6 +4,7 @@ import os
 import time
 import re
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ──────────────────────────────────────────────────────────────
 # 1. CATEGORIES (search‑based)
@@ -18,6 +19,8 @@ CATEGORIES = {
     "kannada": "full movie kannada",
     "bengali": "full movie bengali",          
     "hollywood": "hollywood full movie",      
+    "south": "south indian full movie hindi dubbed",
+    "anime": "anime hindi dubbed full movie",
     "other": "full movie",                    
     "cartoons": "cartoon full movie for kids",
     "cartoons_auto": "hindi cartoon full episodes",
@@ -67,6 +70,31 @@ CARTOON_CATEGORIES = {
 }
 
 # ──────────────────────────────────────────────────────────────
+# 2b. ANIME SUB‑CATEGORIES (search‑based, like cartoons)
+# ──────────────────────────────────────────────────────────────
+
+ANIME_CATEGORIES = {
+    "anime/one_piece": "one piece hindi dubbed full episodes",
+    "anime/naruto": "naruto hindi dubbed full episodes",
+    "anime/naruto_shippuden": "naruto shippuden hindi dubbed full episodes",
+    "anime/attack_on_titan": "attack on titan hindi dubbed full episodes",
+    "anime/demon_slayer": "demon slayer hindi dubbed full episodes",
+    "anime/jujutsu_kaisen": "jujutsu kaisen hindi dubbed full episodes",
+    "anime/my_hero_academia": "my hero academia hindi dubbed full episodes",
+    "anime/dragon_ball_z": "dragon ball z hindi dubbed full episodes",
+    "anime/dragon_ball_super": "dragon ball super hindi dubbed full episodes",
+    "anime/bleach": "bleach hindi dubbed full episodes",
+    "anime/death_note": "death note hindi dubbed full episodes",
+    "anime/pokemon_anime": "pokemon anime hindi dubbed full episodes",
+    "anime/doraemon_anime": "doraemon anime hindi episodes",
+    "anime/one_punch_man": "one punch man hindi dubbed full episodes",
+    "anime/tokyo_revengers": "tokyo revengers hindi dubbed full episodes",
+    "anime/black_clover": "black clover hindi dubbed full episodes",
+    "anime/fairy_tail": "fairy tail hindi dubbed full episodes",
+    "anime/spy_x_family": "spy x family hindi dubbed full episodes",
+}
+
+# ──────────────────────────────────────────────────────────────
 # 3. ANIME CHANNELS (direct scraping)
 # ──────────────────────────────────────────────────────────────
 
@@ -101,10 +129,54 @@ MOVIE_CHANNELS = {
 }
 
 # ──────────────────────────────────────────────────────────────
+# 4b. BENGALI MOVIE SUB‑CATEGORIES (search‑based, like cartoons)
+# ──────────────────────────────────────────────────────────────
+
+BENGALI_CATEGORIES = {
+    "bengali/uttam_kumar": "uttam kumar bengali full movie",
+    "bengali/prosenjit": "prosenjit bengali full movie",
+    "bengali/dev": "dev bengali full movie",
+    "bengali/jeet": "jeet bengali full movie",
+    "bengali/svf": "svf bengali full movie",
+    "bengali/comedy": "bengali comedy full movie",
+    "bengali/action": "bengali action full movie",
+    "bengali/family_drama": "bengali family drama full movie",
+    "bengali/romantic": "bengali romantic full movie",
+    "bengali/classic": "old bengali classic full movie uttam kumar suchitra sen",
+    "bengali/mithun": "mithun chakraborty bengali full movie",
+    "bengali/thriller": "bengali thriller full movie",
+}
+
+# ──────────────────────────────────────────────────────────────
+# 4c. HOLLYWOOD MOVIE SUB‑CATEGORIES (search‑based, like cartoons)
+# ──────────────────────────────────────────────────────────────
+
+HOLLYWOOD_CATEGORIES = {
+    "hollywood/action": "hollywood action full movie hindi dubbed",
+    "hollywood/marvel": "marvel movie hindi dubbed full movie",
+    "hollywood/dc": "dc movie hindi dubbed full movie",
+    "hollywood/scifi": "hollywood sci-fi full movie hindi dubbed",
+    "hollywood/horror": "hollywood horror full movie hindi dubbed",
+    "hollywood/thriller": "hollywood thriller full movie hindi dubbed",
+    "hollywood/comedy": "hollywood comedy full movie hindi dubbed",
+    "hollywood/adventure": "hollywood adventure full movie hindi dubbed",
+    "hollywood/animated": "hollywood animated full movie hindi dubbed",
+    "hollywood/fantasy": "hollywood fantasy full movie hindi dubbed",
+    "hollywood/war": "hollywood war full movie hindi dubbed",
+    "hollywood/superhero": "hollywood superhero full movie hindi dubbed",
+}
+
+# ──────────────────────────────────────────────────────────────
 # 5. MERGE ALL SEARCH CATEGORIES
 # ──────────────────────────────────────────────────────────────
 
-ALL_CATEGORIES = {**CATEGORIES, **CARTOON_CATEGORIES}
+ALL_CATEGORIES = {
+    **CATEGORIES,
+    **CARTOON_CATEGORIES,
+    **ANIME_CATEGORIES,
+    **BENGALI_CATEGORIES,
+    **HOLLYWOOD_CATEGORIES,
+}
 
 # ──────────────────────────────────────────────────────────────
 # 6. CONFIGURATION
@@ -112,6 +184,7 @@ ALL_CATEGORIES = {**CATEGORIES, **CARTOON_CATEGORIES}
 
 RESULTS_PER_CATEGORY = 20          # for search‑based categories
 OUTPUT_DIR = "movies"
+MAX_WORKERS = 8                     # parallel yt-dlp requests
 
 # ──────────────────────────────────────────────────────────────
 # 7. HELPER: EXTRACT CARTOON NAME FROM TITLE
@@ -181,83 +254,105 @@ def scrape_channel_videos(channel_url, category, max_results=30):
 # 9. MAIN SCRAPER (search + channels)
 # ──────────────────────────────────────────────────────────────
 
-def scrape_movies():
-    """Scrape movies from YouTube and return them grouped by category."""
-    all_movies = []
-
+def scrape_search_category(category, query):
+    """Run a single ytsearch category. Returns a list of movie dicts."""
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,
         'force_generic_extractor': False,
     }
+    results = []
+    print(f"Searching for {category}...")
+    search_query = f"ytsearch{RESULTS_PER_CATEGORY}:{query}"
 
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        # ── A. Search‑based categories ──
-        for category, query in ALL_CATEGORIES.items():
-            # Skip anime categories because we handle them via channel scraping
-            if category.startswith("anime/"):
-                continue
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            result = ydl.extract_info(search_query, download=False)
+        if result and 'entries' in result:
+            for video in result['entries']:
+                if not video:
+                    continue
 
-            print(f"Searching for {category}...")
-            search_query = f"ytsearch{RESULTS_PER_CATEGORY}:{query}"
+                duration = video.get('duration', 0)
+                short_categories = ["cartoons", "comedy", "taarak_mehta", "yam_hain_hum"]
+                is_short = (
+                    category in short_categories
+                    or category.startswith("cartoons/")
+                    or category.startswith("anime/")   # episodes, not full movies
+                )
+                min_duration = 600 if is_short else 2400   # 10 min vs 40 min
+                if duration and duration < min_duration:
+                    continue
 
+                movie_data = {
+                    "id": video.get('id'),
+                    "title": video.get('title'),
+                    "url": video.get('url'),
+                    "duration": duration,
+                    "view_count": video.get('view_count'),
+                    "uploader": video.get('uploader'),
+                    "category": category,
+                    "thumbnail": (video.get('thumbnails') or [{}])[-1].get('url', '')
+                }
+
+                if movie_data['id'] and movie_data['title']:
+                    if category == "cartoons_auto":
+                        detected_name, new_category = extract_cartoon_name_and_category(movie_data['title'])
+                        movie_data['category'] = new_category
+                        movie_data['show_name'] = detected_name
+
+                    results.append(movie_data)
+
+        print(f"  [{category}] found {len(results)} movies")
+    except Exception as e:
+        print(f"Error scraping category {category}: {e}")
+
+    return results
+
+
+def scrape_movies():
+    """Scrape movies from YouTube (in parallel) and return them grouped by category."""
+    all_movies = []
+
+    # ── Build the full list of independent scrape tasks ──
+    # Each task is (kind, args) so we can dispatch to the right function.
+    tasks = []
+
+    for category, query in ALL_CATEGORIES.items():
+        # anime/* here are search-based sub-categories (e.g. one_piece, naruto).
+        # These are distinct from ANIME_CHANNELS below (channel-based), so no skip needed.
+        tasks.append(("search", category, query))
+
+    for category, channel_url in ANIME_CHANNELS.items():
+        tasks.append(("channel", category, channel_url))
+
+    for category, channel_urls in MOVIE_CHANNELS.items():
+        if not isinstance(channel_urls, list):
+            channel_urls = [channel_urls]
+        for url in channel_urls:
+            tasks.append(("channel", category, url))
+
+    print(f"Dispatching {len(tasks)} scrape tasks across {MAX_WORKERS} workers...")
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {}
+        for task in tasks:
+            kind = task[0]
+            if kind == "search":
+                _, category, query = task
+                fut = executor.submit(scrape_search_category, category, query)
+            else:
+                _, category, url = task
+                fut = executor.submit(scrape_channel_videos, url, category, 30)
+            futures[fut] = task
+
+        for fut in as_completed(futures):
+            task = futures[fut]
             try:
-                result = ydl.extract_info(search_query, download=False)
-                if 'entries' in result:
-                    for video in result['entries']:
-                        if not video:
-                            continue
-
-                        duration = video.get('duration', 0)
-                        # Determine minimum duration based on category type
-                        short_categories = ["cartoons", "comedy", "taarak_mehta", "yam_hain_hum"]
-                        is_short = category in short_categories or category.startswith("cartoons/")
-                        min_duration = 600 if is_short else 2400   # 10 min vs 40 min
-                        if duration and duration < min_duration:
-                            continue
-
-                        movie_data = {
-                            "id": video.get('id'),
-                            "title": video.get('title'),
-                            "url": video.get('url'),
-                            "duration": duration,
-                            "view_count": video.get('view_count'),
-                            "uploader": video.get('uploader'),
-                            "category": category,
-                            "thumbnail": (video.get('thumbnails') or [{}])[-1].get('url', '')
-                        }
-
-                        if movie_data['id'] and movie_data['title']:
-                            # Auto‑detect cartoon name if category is cartoons_auto
-                            if category == "cartoons_auto":
-                                detected_name, new_category = extract_cartoon_name_and_category(movie_data['title'])
-                                movie_data['category'] = new_category
-                                movie_data['show_name'] = detected_name
-
-                            all_movies.append(movie_data)
-                            print(f"[{time.strftime('%X')}] Added movie: {movie_data['title']}")
-                            # sleep removed -- was adding ~15+ min across all categories
-
-            except Exception as e:
-                print(f"Error scraping category {category}: {e}")
-
-        # ── B. Anime channels ──
-        for category, channel_url in ANIME_CHANNELS.items():
-            print(f"Fetching videos from {category}...")
-            videos = scrape_channel_videos(channel_url, category, max_results=30)
-            all_movies.extend(videos)
-            print(f"  Added {len(videos)} videos from {category}")
-
-        # ── C. Movie channels (now each category can have multiple URLs) ──
-        for category, channel_urls in MOVIE_CHANNELS.items():
-            # Ensure we always iterate over a list
-            if not isinstance(channel_urls, list):
-                channel_urls = [channel_urls]
-            for url in channel_urls:
-                print(f"Fetching movies from {category} channel: {url}...")
-                videos = scrape_channel_videos(url, category, max_results=30)
+                videos = fut.result()
                 all_movies.extend(videos)
-                print(f"  Added {len(videos)} movies from {category} channel")
+            except Exception as e:
+                print(f"Task {task} failed: {e}")
 
     # Remove duplicates based on video ID
     unique_movies = {movie['id']: movie for movie in all_movies}.values()
