@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T15:17:44.137087Z",
+    "last_updated": "2026-08-12T16:11:47.327432Z",
     "show_name": "Fairy Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Fairy Tail.",
-    "total_episodes": 19,
+    "total_episodes": 21,
     "episodes": [
         {
             "id": "pGN56s0f3lo",
@@ -21,7 +21,7 @@
             "title": "पोलियाना | Pollyanna in Hindi | @HindiFairyTales",
             "url": "https://www.youtube.com/watch?v=CWKC9Zj5GLQ",
             "duration": 840,
-            "view_count": 5507885,
+            "view_count": 5508020,
             "uploader": "Hindi Fairy Tales",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/CWKC9Zj5GLQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChjYy1Z681Teib1oQ9iXVspvSmxw"
@@ -41,7 +41,7 @@
             "title": "हैमलेट | Hamlet in Hindi | @HindiFairyTales",
             "url": "https://www.youtube.com/watch?v=k7Dkr5IiQ0s",
             "duration": 789,
-            "view_count": 1995694,
+            "view_count": 1995763,
             "uploader": "Hindi Fairy Tales",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/k7Dkr5IiQ0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqo90WBHTIazuVwME3ME3yTWO1Qw"
@@ -51,7 +51,7 @@
             "title": "शाही राज़ | Crown of Secrets in Hindi | @HindiFairyTales",
             "url": "https://www.youtube.com/watch?v=TSo0d9zJhOA",
             "duration": 820,
-            "view_count": 1227521,
+            "view_count": 1227669,
             "uploader": "Hindi Fairy Tales",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/TSo0d9zJhOA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAimhFVDoiEe559oJGavxh2tOpkTg"
@@ -81,7 +81,7 @@
             "title": "हद से ज़्यादा | Too Much in Hindi | @HindiFairyTales",
             "url": "https://www.youtube.com/watch?v=-Aa7EjfjkNs",
             "duration": 740,
-            "view_count": 975591,
+            "view_count": 975615,
             "uploader": "Hindi Fairy Tales",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/-Aa7EjfjkNs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh53hThgoJFog1RHZ2vcfOcA37Dg"
@@ -195,6 +195,26 @@
             "uploader": "99 Romance Theater 久久浪漫剧场",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/uIVWsptzX8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcD_HIzA_WNeZoN9ttMUxxEmBW7Q"
+        },
+        {
+            "id": "DJ7lMKZzjBw",
+            "title": "Poor Girl Who Cannot Lose Her Dignity in Front of a Rich Guy",
+            "url": "https://www.youtube.com/watch?v=DJ7lMKZzjBw",
+            "duration": 1119,
+            "view_count": 424651,
+            "uploader": "Mr Alexter",
+            "category": "anime/fairy_tail",
+            "thumbnail": "https://i.ytimg.com/vi/DJ7lMKZzjBw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGMAC4T73dJg3od7XdfgDsLfOpxw"
+        },
+        {
+            "id": "FV3I0jHu0yA",
+            "title": "Fairy Tail Episode 231 to 235 Explained in Hindi #animeexplainedinhindi #animeexplaininhindi",
+            "url": "https://www.youtube.com/watch?v=FV3I0jHu0yA",
+            "duration": 1040,
+            "view_count": 1134,
+            "uploader": "OtakuVerse",
+            "category": "anime/fairy_tail",
+            "thumbnail": "https://i.ytimg.com/vi/FV3I0jHu0yA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Eoxu6kRz6kLY8KNtqowBk7nxvg"
         }
     ]
 }
