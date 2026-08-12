@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T10:50:32.658795Z",
+    "last_updated": "2026-08-12T11:39:34.496877Z",
     "show_name": "My Hero Academia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for My Hero Academia.",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "id": "9brrbcdbZZs",
@@ -21,7 +21,7 @@
             "title": "My Hero Academia Season 1-6 Explained in hindi full recap",
             "url": "https://www.youtube.com/watch?v=ApU0xOU_PRE",
             "duration": 9631,
-            "view_count": 586688,
+            "view_count": 586708,
             "uploader": "VIPER ANIME",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/ApU0xOU_PRE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCsozVUyuPECoY7ivI5KAch26zYw"
@@ -31,7 +31,7 @@
             "title": "My Hero Academia season 1 Episode 1 Hindi dubbed #cartoonnetwork",
             "url": "https://www.youtube.com/watch?v=pTiNTlJTM4M",
             "duration": 1473,
-            "view_count": 6034,
+            "view_count": 6036,
             "uploader": "SS Edit",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/pTiNTlJTM4M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEFi_3B27-dVGOIv4BNc79U5XdmQ"
@@ -81,10 +81,20 @@
             "title": "kal tak aa jayega !!-- My Hero Academia SEASON 2 EPISODE 25 HINDI DUB",
             "url": "https://www.youtube.com/watch?v=na4UD1YBWeQ",
             "duration": 1403,
-            "view_count": 97,
+            "view_count": 98,
             "uploader": "OJ KAKAROT",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/na4UD1YBWeQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu_AU2-i2CXCCYHdV7AZ5FXH9i2A"
+        },
+        {
+            "id": "5UsAhHI2BWQ",
+            "title": "my hero academia episode 2 Hindi dubbed season 1",
+            "url": "https://www.youtube.com/watch?v=5UsAhHI2BWQ",
+            "duration": 1472,
+            "view_count": 20,
+            "uploader": "filmy world",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/5UsAhHI2BWQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoBZequcZIDw8Uu2ChBT2vlxPruQ"
         }
     ]
 }

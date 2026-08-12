@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T10:50:32.660431Z",
+    "last_updated": "2026-08-12T11:39:34.510504Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 20,
+    "total_episodes": 21,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
@@ -205,6 +205,16 @@
             "uploader": "WildBrain Hero Tower",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/ypjJ4w3mT_w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0OB9MOX0JA630O3fcZ0jKtmcHxg"
+        },
+        {
+            "id": "FWYsS8raDUA",
+            "title": "Tik Tak Tail | Bunny The Artist | Cartoon Compilation | Videos For Kids | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=FWYsS8raDUA",
+            "duration": 849,
+            "view_count": 2960,
+            "uploader": "WildBrain Kids",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/FWYsS8raDUA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmRvMqAZTOxOKGP0IL3RTUPCdY_A"
         }
     ]
 }

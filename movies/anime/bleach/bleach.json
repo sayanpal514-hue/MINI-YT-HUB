@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T10:50:32.660828Z",
+    "last_updated": "2026-08-12T11:39:34.454933Z",
     "show_name": "Bleach",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bleach.",
-    "total_episodes": 11,
+    "total_episodes": 12,
     "episodes": [
         {
             "id": "MbnZyd2OvDg",
@@ -21,7 +21,7 @@
             "title": "Bleach 4 Hell Verse English Dubbed",
             "url": "https://www.youtube.com/watch?v=QrLAMqgYRCw",
             "duration": 5637,
-            "view_count": 337789,
+            "view_count": 337814,
             "uploader": "SJAnime",
             "category": "anime/bleach",
             "thumbnail": "https://i.ytimg.com/vi/QrLAMqgYRCw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9bONDD7psyrVgC585o6iZHGZB7A"
@@ -61,7 +61,7 @@
             "title": "Ordinary Student Becomes SOUL REAPER To Save His Sister in Hindi",
             "url": "https://www.youtube.com/watch?v=3BvHyG3SA_o",
             "duration": 3311,
-            "view_count": 780230,
+            "view_count": 780240,
             "uploader": "Anime Bench",
             "category": "anime/bleach",
             "thumbnail": "https://i.ytimg.com/vi/3BvHyG3SA_o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClPDAbQ-F0v-4BJkQz50BFg4hjkw"
@@ -81,7 +81,7 @@
             "title": "Bleach is BACK with GOD LEVEL ANIMATION!🤯 | Ichigo vs Yhwach | Bleach TYBW Part 4 Ep 1-3 Hindi Dub",
             "url": "https://www.youtube.com/watch?v=o_5qhK43nn8",
             "duration": 1027,
-            "view_count": 55000,
+            "view_count": 55026,
             "uploader": "BBF LIVE",
             "category": "anime/bleach",
             "thumbnail": "https://i.ytimg.com/vi/o_5qhK43nn8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHcMY_398mk93GuszGmas_Ley05A"
@@ -115,6 +115,16 @@
             "uploader": "Animity",
             "category": "anime/bleach",
             "thumbnail": "https://i.ytimg.com/vi/-IsvOcQpoWA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4r7L5DgHPp8O4EfyBvSyUfbtmuQ"
+        },
+        {
+            "id": "gX54LAVbEyk",
+            "title": "BLEACH DOWNFALL ARC | bleach episode 266 to 300 explained in Hindi | Anime in Hindi",
+            "url": "https://www.youtube.com/watch?v=gX54LAVbEyk",
+            "duration": 5921,
+            "view_count": 47432,
+            "uploader": "BaKuWaMeet",
+            "category": "anime/bleach",
+            "thumbnail": "https://i.ytimg.com/vi/gX54LAVbEyk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ4EdXfK8SdeoncPcM4KjVZ97isw"
         }
     ]
 }

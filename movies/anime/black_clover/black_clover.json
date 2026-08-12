@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-12T10:50:32.662290Z",
+    "last_updated": "2026-08-12T11:39:34.503363Z",
     "show_name": "Black Clover",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Black Clover.",
-    "total_episodes": 4,
+    "total_episodes": 5,
     "episodes": [
         {
             "id": "apMLiLgTZQw",
             "title": "Black Clover The Sword of the Wizard King Full Movie in Hindi #blackclovertheswordofthewizardking",
             "url": "https://www.youtube.com/watch?v=apMLiLgTZQw",
             "duration": 6782,
-            "view_count": 160552,
+            "view_count": 160621,
             "uploader": "Madara Otaku Fr",
             "category": "anime/black_clover",
             "thumbnail": "https://i.ytimg.com/vi/apMLiLgTZQw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpE_NwHJt7mg9FB7_kJ55q8jVjwQ"
@@ -21,7 +21,7 @@
             "title": "Black Clover Season 1 Explained (Hindi)",
             "url": "https://www.youtube.com/watch?v=sjzck1Ffq0Q",
             "duration": 18731,
-            "view_count": 4309122,
+            "view_count": 4309155,
             "uploader": "FictionTube",
             "category": "anime/black_clover",
             "thumbnail": "https://i.ytimg.com/vi/sjzck1Ffq0Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXKr8dwMvGduaRv4ICIxQHQ8fVmQ"
@@ -31,7 +31,7 @@
             "title": "(16-30) The Magicless Boy Who Became a God Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=gplux_xJYXU",
             "duration": 22132,
-            "view_count": 2881299,
+            "view_count": 2881578,
             "uploader": "Animidy",
             "category": "anime/black_clover",
             "thumbnail": "https://i.ytimg.com/vi/gplux_xJYXU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRpeDskLRMlInz0eettNDQbG2gMQ"
@@ -41,10 +41,20 @@
             "title": "(1-15) The Magicless Boy Who Became a God Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=c-suugj9xWE",
             "duration": 17073,
-            "view_count": 3687564,
+            "view_count": 3687825,
             "uploader": "Animidy",
             "category": "anime/black_clover",
             "thumbnail": "https://i.ytimg.com/vi/c-suugj9xWE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK_4GDtGLNbdB7QNc7T0oJiGsiew"
+        },
+        {
+            "id": "kFdA_vPBoMQ",
+            "title": "Black Clover Episode 182 Explained in Hindi",
+            "url": "https://www.youtube.com/watch?v=kFdA_vPBoMQ",
+            "duration": 8108,
+            "view_count": 238718,
+            "uploader": "FictionVerse",
+            "category": "anime/black_clover",
+            "thumbnail": "https://i.ytimg.com/vi/kFdA_vPBoMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoVECcfesh7ZxFzSV9irfXuyPDzg"
         }
     ]
 }
