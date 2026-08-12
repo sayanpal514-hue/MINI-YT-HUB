@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T05:55:29.202689Z",
+    "last_updated": "2026-08-12T07:07:52.331110Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 15,
+    "total_episodes": 18,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
@@ -21,7 +21,7 @@
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832,
-            "view_count": 780597,
+            "view_count": 780599,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -155,6 +155,36 @@
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/kBw4vhZeufg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4zaUGCYAtkpDCpW-E1IgbbQTxGA"
+        },
+        {
+            "id": "Alov6gBfe6U",
+            "title": "Tik Tak Tail | Tik Wants To Be Master Chef | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=Alov6gBfe6U",
+            "duration": 835,
+            "view_count": 2738,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/Alov6gBfe6U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDpB70SE9_zGH_MgiCbB-YGJgfHQ"
+        },
+        {
+            "id": "2LqmMWnEHJA",
+            "title": "Tik Tak Tail | Invisible Menace | Funny Videos For Kids| Videos For Kids | WildBrain Cartoon",
+            "url": "https://www.youtube.com/watch?v=2LqmMWnEHJA",
+            "duration": 826,
+            "view_count": 821,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/2LqmMWnEHJA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHPciUbLjF4QSJ5_r3ibvQOM9NNg"
+        },
+        {
+            "id": "6t6QEo7Jg_w",
+            "title": "Tik Tak Tail | Friendship Day | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=6t6QEo7Jg_w",
+            "duration": 848,
+            "view_count": 2163,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/6t6QEo7Jg_w/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEkoWTAP&rs=AOn4CLBWPEeCPbRShOOP8ko6xsG--itvfg"
         }
     ]
 }
