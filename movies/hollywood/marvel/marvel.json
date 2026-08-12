@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-12T14:04:48.826809Z",
-    "total_movies": 18,
+    "last_updated": "2026-08-12T15:17:44.203186Z",
+    "total_movies": 24,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
@@ -37,7 +37,7 @@
             "title": "KINGSMAN Part 1 Hindi Dubbed Movie 2022",
             "url": "https://www.youtube.com/watch?v=dXc7iPfCBZA",
             "duration": 7111,
-            "view_count": 1999572,
+            "view_count": 1999734,
             "uploader": "MovieMorsels",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/dXc7iPfCBZA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAAaEho8fuGO-OcBDTB2-9_3bjqw"
@@ -67,7 +67,7 @@
             "title": "Spider-Man Brand New Day (2026) | Full Movie | Tom Holland | Zendaya | Hindi Dubbed #spiderman ",
             "url": "https://www.youtube.com/watch?v=eOpQoZPbd9E",
             "duration": 7829,
-            "view_count": 19069,
+            "view_count": 21941,
             "uploader": "moviez world • 2.8M views • 2 hours ago ",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/eOpQoZPbd9E/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2XckeQHJsTeDntolhRgJyigpnbQ"
@@ -77,7 +77,7 @@
             "title": "DEFENDERS OF EARTH (2025) New Hollywood Hindi Dubbed Action Adventure Sci-fi Movie | Chinese Movies",
             "url": "https://www.youtube.com/watch?v=ZITFUBMxb-k",
             "duration": 4959,
-            "view_count": 1360950,
+            "view_count": 1361047,
             "uploader": "Dimension Pictures",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/ZITFUBMxb-k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdpCSEYK-8bhGqhUiEyWQsKDHLXw"
@@ -107,7 +107,7 @@
             "title": "KARVEN THE HUNTER 2 FULL MOVIE HINDI DUBBED MOVIE MARVEL CINEMATIC UNIVERSE #marvel",
             "url": "https://www.youtube.com/watch?v=6_oY1NEwYZQ",
             "duration": 4907,
-            "view_count": 191,
+            "view_count": 194,
             "uploader": "       ROCKY UNIVER.X MOVIE CLIPS ",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/6_oY1NEwYZQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd-tR4eYSbHR7krxqQUigjMNKrDg"
@@ -181,6 +181,66 @@
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/jUHBaH3-9RU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9FoLBfsnWAGiHSIvnIzrx1DgatQ"
+        },
+        {
+            "id": "9Tw7oOVaUEE",
+            "title": "DEATH ORDER : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies",
+            "url": "https://www.youtube.com/watch?v=9Tw7oOVaUEE",
+            "duration": 5553,
+            "view_count": 454872,
+            "uploader": "Joy Drama",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/9Tw7oOVaUEE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvQRujJRvOwz0yKnm5ns2Bmkzs5A"
+        },
+        {
+            "id": "0RnnL5IgQEw",
+            "title": "Deva Full Hindi Dubbed New Action Movie 2025 | Deva Full Movie In Hindi | Shahid Kapoor, Pooja Hegde",
+            "url": "https://www.youtube.com/watch?v=0RnnL5IgQEw",
+            "duration": 8554,
+            "view_count": 388301,
+            "uploader": "XYZ Movie Collection and Xʏᴢ Rנ Mᴜsɪᴄツ",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/0RnnL5IgQEw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqlSFR03kWJCsKx5060UD77XFNeQ"
+        },
+        {
+            "id": "GhB32N_1KnQ",
+            "title": "Spider-Man Brand New Day (2026) | Full Movie | Tom Holland | Zendaya | Hindi Dubbed #spiderman",
+            "url": "https://www.youtube.com/watch?v=GhB32N_1KnQ",
+            "duration": 7829,
+            "view_count": 3589,
+            "uploader": "moviez world • 2.8M views • 2 hours ago ",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/GhB32N_1KnQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgbKMiTNlDVmb0vwmm7-67gg8UBw"
+        },
+        {
+            "id": "zWR7zLJSCPA",
+            "title": "Thor Ragnarok Full Movie In Hindi dubbed In Hd #action #scifi #movie #hollywoodmovies",
+            "url": "https://www.youtube.com/watch?v=zWR7zLJSCPA",
+            "duration": 7821,
+            "view_count": 25,
+            "uploader": "Amit kumar",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/zWR7zLJSCPA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUeXD-y06OTBy0DnclwA4N-aIDRQ"
+        },
+        {
+            "id": "yOmIrwD0Mjk",
+            "title": "Spider-Man: Brand New Day (Hindi Dubbed) Full Movie 2026 |Tom Holland & Zendaya | New Marvel Movie",
+            "url": "https://www.youtube.com/watch?v=yOmIrwD0Mjk",
+            "duration": 7423,
+            "view_count": 49,
+            "uploader": "movie Cinema Rok",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/yOmIrwD0Mjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz6hZ5WqukwY-GH5_qPumDcu0p-Q"
+        },
+        {
+            "id": "l6uheNwjJm8",
+            "title": "THE HARD TARGET : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies",
+            "url": "https://www.youtube.com/watch?v=l6uheNwjJm8",
+            "duration": 5400,
+            "view_count": 9759,
+            "uploader": "Joy Drama",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/l6uheNwjJm8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjHlm4ZKz3fwVGVJmNqyF1mE6m_w"
         }
     ]
 }
