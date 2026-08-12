@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-12T09:46:48.176812Z",
+    "last_updated": "2026-08-12T10:50:32.660431Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 19,
+    "total_episodes": 20,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": 304254,
+            "view_count": 304256,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -111,7 +111,7 @@
             "title": "Tik Tak Tail | Tik Falls In Love | Funny Cartoon Compilation | Videos For Kids",
             "url": "https://www.youtube.com/watch?v=ZoBh2aWFYvc",
             "duration": 839,
-            "view_count": 8381,
+            "view_count": 8384,
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/ZoBh2aWFYvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPNR6xhQvfgIMboKxUg-vtj0iWcw"
@@ -195,6 +195,16 @@
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/5iupWuAJa6Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvD-URq-etEMderKsQrTj8FRkjMQ"
+        },
+        {
+            "id": "ypjJ4w3mT_w",
+            "title": "Tik Tak Tail | Friendship Day | Funny Cartoon Compilation | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=ypjJ4w3mT_w",
+            "duration": 848,
+            "view_count": 2234,
+            "uploader": "WildBrain Hero Tower",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/ypjJ4w3mT_w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0OB9MOX0JA630O3fcZ0jKtmcHxg"
         }
     ]
 }

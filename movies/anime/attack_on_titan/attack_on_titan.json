@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T09:46:48.168326Z",
+    "last_updated": "2026-08-12T10:50:32.633478Z",
     "show_name": "Attack On Titan",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Attack On Titan.",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "id": "n3GeKBDWVDI",
@@ -14,7 +14,7 @@
             "view_count": 23501,
             "uploader": "Indian Anime Dubbed",
             "category": "anime/attack_on_titan",
-            "thumbnail": "https://i.ytimg.com/vi/n3GeKBDWVDI/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoSjAP&rs=AOn4CLABPouUzqpZssJO2EMmoy7HDEjQKA"
+            "thumbnail": "https://i.ytimg.com/vi/n3GeKBDWVDI/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoSjAPuAL3GA==&rs=AOn4CLC5NdtzyM6hA0SZ0UPbY5W22TE_cw"
         },
         {
             "id": "kzLvRKaRAfE",
@@ -24,7 +24,7 @@
             "view_count": 1817,
             "uploader": "Devil's Smile",
             "category": "anime/attack_on_titan",
-            "thumbnail": "https://i.ytimg.com/vi/kzLvRKaRAfE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSEKh8bdKFy4s8rSSwF9lCFDblCw"
+            "thumbnail": "https://i.ytimg.com/vi/kzLvRKaRAfE/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCI0HhBlx-oxHH3dyV9Yd9m1PvPDw"
         },
         {
             "id": "654sk9C55w8",
@@ -34,17 +34,17 @@
             "view_count": 49122,
             "uploader": "Animelover07 ",
             "category": "anime/attack_on_titan",
-            "thumbnail": "https://i.ytimg.com/vi/654sk9C55w8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl8RsrlBcuwBsOelna8ViXU6PrkQ"
+            "thumbnail": "https://i.ytimg.com/vi/654sk9C55w8/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAqGzDHbbsv9OTdJIcf9bqJFwbSkw"
         },
         {
             "id": "Ik0wrR04pXw",
             "title": "GIANT Humanoid Creatures Suddenly Appear on Earth and Almost Destroyed Humanity Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Ik0wrR04pXw",
             "duration": 14402,
-            "view_count": 9242235,
+            "view_count": 9242587,
             "uploader": "Animity",
             "category": "anime/attack_on_titan",
-            "thumbnail": "https://i.ytimg.com/vi/Ik0wrR04pXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvlJkm9chxou82XnyjglJJ3e5n0A"
+            "thumbnail": "https://i.ytimg.com/vi/Ik0wrR04pXw/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBNlMTSOsk2PdCKHWUjFInrzrrfhA"
         },
         {
             "id": "2dwZgX90UvA",
@@ -85,6 +85,16 @@
             "uploader": "Avi Ytv",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/q3QSbcsiqeg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOM_dkbLKQzHQXy6Hf7t2dMYSoIg"
+        },
+        {
+            "id": "CRL-1pGiyX0",
+            "title": "ATTACK ON TITAN SEASON 1 EP 1 IN HINDI DUBBED",
+            "url": "https://www.youtube.com/watch?v=CRL-1pGiyX0",
+            "duration": 1542,
+            "view_count": 879,
+            "uploader": "ANIME WORLD",
+            "category": "anime/attack_on_titan",
+            "thumbnail": "https://i.ytimg.com/vi/CRL-1pGiyX0/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIF8oVTAPuAL3GA==&rs=AOn4CLBl9FD6j6CbaxkgvzHNX596FIPLoA"
         }
     ]
 }
