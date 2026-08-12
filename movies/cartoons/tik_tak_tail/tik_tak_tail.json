@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-12T02:06:51.466408Z",
+    "last_updated": "2026-08-12T04:22:55.734921Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 13,
+    "total_episodes": 15,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": 304247,
+            "view_count": 304249,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -135,6 +135,26 @@
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/xFYSMFbTVjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLvR-EV6QtfYMLpiXVQAKWzcv6sw"
+        },
+        {
+            "id": "AytL2hvnADI",
+            "title": "Tik Tak Tail | Kerala Adventure | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
+            "url": "https://www.youtube.com/watch?v=AytL2hvnADI",
+            "duration": 849,
+            "view_count": 444,
+            "uploader": "WildBrain Preschool",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/AytL2hvnADI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiPMWVlLN5kwyGRqp1uV7jfH9e_A"
+        },
+        {
+            "id": "kBw4vhZeufg",
+            "title": "Tik Tak Tail | Robotic Carrot | Cartoons for Children | WildBrain Cartoons",
+            "url": "https://www.youtube.com/watch?v=kBw4vhZeufg",
+            "duration": 837,
+            "view_count": 11235,
+            "uploader": "WildBrain Kids",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/kBw4vhZeufg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4zaUGCYAtkpDCpW-E1IgbbQTxGA"
         }
     ]
 }
