@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-12T18:09:34.121865Z",
-    "total_movies": 28,
+    "last_updated": "2026-08-12T19:23:53.983120Z",
+    "total_movies": 29,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -17,7 +17,7 @@
             "title": "Cobra (2026) Full Movie Hindi Dubbed | Action Crime Thriller | Hindi Dub | Hollywood Movie HD",
             "url": "https://www.youtube.com/watch?v=EyyItkmEw_Y",
             "duration": 4928,
-            "view_count": 84973,
+            "view_count": 85102,
             "uploader": "Hollywood Hindi Dub",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/EyyItkmEw_Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw84zGhHmHGB1Yn0zFKW8zKIYI2Q"
@@ -37,7 +37,7 @@
             "title": "NAKED ASSASSIN - New Released Full Hindi Dubbed Movie | Hollywood Action Movie In Hindi | Free Movie",
             "url": "https://www.youtube.com/watch?v=Sslpb9TY4es",
             "duration": 5201,
-            "view_count": 10260128,
+            "view_count": 10260393,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/Sslpb9TY4es/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLfDh9OHtuzrqxnjlzmlFS4oM13Q"
@@ -57,7 +57,7 @@
             "title": "THE ERADICATOR - Full Hollywood Action Movie Hindi Dubbed | Dane, Kent | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=e9EB-fYKYcc",
             "duration": 5308,
-            "view_count": 450772,
+            "view_count": 451003,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/e9EB-fYKYcc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFSoR62JLB4aAyTzFsawinlITkg"
@@ -67,7 +67,7 @@
             "title": "New Hollywood Hindi Dubbed Movie | Revenge Of Moorwen | Action Movie",
             "url": "https://www.youtube.com/watch?v=W6dzLx4LNxY",
             "duration": 6912,
-            "view_count": 621058,
+            "view_count": 621200,
             "uploader": "INFINITY MOVIES",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/W6dzLx4LNxY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIVYuOJ0731eyavArY87J37zL7w"
@@ -87,7 +87,7 @@
             "title": "EXCHANGE DEAL :: (2026) Jason Statham & Angelina Jolie | Full Action Movie | Full HD",
             "url": "https://www.youtube.com/watch?v=-y9pyYndmG4",
             "duration": 5408,
-            "view_count": 14052,
+            "view_count": 24505,
             "uploader": "ZED Drama",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/-y9pyYndmG4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBc9wuQUTViawCR04dK6iPtJiOuw"
@@ -157,7 +157,7 @@
             "title": "DRUG MAFIA Full Hollywood Movie Hindi Dubbed | Hu Guofang, Zhao Jing, Li Meng | Chinese Action Movie",
             "url": "https://www.youtube.com/watch?v=uzN63h-Li98",
             "duration": 5430,
-            "view_count": 1512138,
+            "view_count": 1513044,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/uzN63h-Li98/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpHVjBW93OHhmZEufYE576EDiH2Q"
@@ -281,6 +281,16 @@
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/dmgn-6OJCeg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCUW3P5hL67SoqE2qwu78aLS4LmQ"
+        },
+        {
+            "id": "EyKWd6pZIOo",
+            "title": "GOD OF TITANS - Full Hollywood Action Movie Hindi Dubbed | Marcus S | Hindi Action Adventure Movie",
+            "url": "https://www.youtube.com/watch?v=EyKWd6pZIOo",
+            "duration": 5647,
+            "view_count": 71062,
+            "uploader": "Rising Nova Premiere",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/EyKWd6pZIOo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvBTMLmYTEfdK0IvT61SSO1l5Yrg"
         }
     ]
 }

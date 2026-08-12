@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-12T18:09:34.129575Z",
+    "last_updated": "2026-08-12T19:23:53.966567Z",
     "show_name": "Inspector Chingum",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Inspector Chingum.",
-    "total_episodes": 52,
+    "total_episodes": 53,
     "episodes": [
         {
             "id": "vJCiPz922ug",
@@ -31,7 +31,7 @@
             "title": "Alien Story--- Inspector Chingum",
             "url": "https://www.youtube.com/watch?v=-aYV9Nku9is",
             "duration": 1150,
-            "view_count": 72792,
+            "view_count": 72798,
             "uploader": "The Kids Zone",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/-aYV9Nku9is/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhjIGMoYzAP&rs=AOn4CLDsz5oQ3Hz1m3yUXhnZyNZbEccxcA"
@@ -211,7 +211,7 @@
             "title": "Sumo Sossa | Ep 37 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
             "url": "https://www.youtube.com/watch?v=DVy5ct9_FyQ",
             "duration": 1269,
-            "view_count": 104132,
+            "view_count": 104140,
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/DVy5ct9_FyQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVHtuY97icYPxVzP8_PO5i7cErWw"
@@ -501,7 +501,7 @@
             "title": "Animated Series | Inspector Chingum | Hindi Cartoons For Kids | Ep 18 | Wow Kidz",
             "url": "https://www.youtube.com/watch?v=2Pn6b1BXWHo",
             "duration": 1288,
-            "view_count": 873632,
+            "view_count": 873634,
             "uploader": "WowKidz",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/2Pn6b1BXWHo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByCMZwuGooN0pHiu_6n0DrPRSQtw"
@@ -525,6 +525,16 @@
             "uploader": "Wow Kidz Comedy",
             "category": "cartoons/inspector_chingum",
             "thumbnail": "https://i.ytimg.com/vi/0nD7iDRbY2A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR2T3DmneBlkaQBFxdGfRJ_kbD9w"
+        },
+        {
+            "id": "KHFBkteyYsU",
+            "title": "Happy Birthday Chingam | Ep 34 | Inspector Chingum | 3D Comedy Cartoon In Hindi | Wow Comedy",
+            "url": "https://www.youtube.com/watch?v=KHFBkteyYsU",
+            "duration": 1174,
+            "view_count": 18989,
+            "uploader": "Wow Kidz Comedy",
+            "category": "cartoons/inspector_chingum",
+            "thumbnail": "https://i.ytimg.com/vi/KHFBkteyYsU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Ikzwg7eQETNaqQvl-ZkzKC3z6w"
         }
     ]
 }
