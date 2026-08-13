@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-13T10:52:42.201307Z",
+    "last_updated": "2026-08-13T11:39:39.100798Z",
     "show_name": "Attack On Titan",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Attack On Titan.",
-    "total_episodes": 15,
+    "total_episodes": 16,
     "episodes": [
         {
             "id": "n3GeKBDWVDI",
@@ -41,7 +41,7 @@
             "title": "GIANT Humanoid Creatures Suddenly Appear on Earth and Almost Destroyed Humanity Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Ik0wrR04pXw",
             "duration": 14402,
-            "view_count": 9248326,
+            "view_count": 9248601,
             "uploader": "Animity",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/Ik0wrR04pXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvlJkm9chxou82XnyjglJJ3e5n0A"
@@ -51,7 +51,7 @@
             "title": "Attack on Titan Season 4 Episode 30 (S4E30) [Hindi Dub] AOT | Mention INDIA ",
             "url": "https://www.youtube.com/watch?v=2dwZgX90UvA",
             "duration": 5092,
-            "view_count": 45678,
+            "view_count": 45709,
             "uploader": "Mention INDIA",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/2dwZgX90UvA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8MSTTvk5QGMGLKCO7jJY-ljNn5w"
@@ -141,10 +141,10 @@
             "title": "Attack on Titan - Episode 43 (S3EP6) [HINDI dub] | Sin IN #anime #levi #eren",
             "url": "https://www.youtube.com/watch?v=HtJhEtr_Nyk",
             "duration": 1435,
-            "view_count": 1835,
+            "view_count": 1842,
             "uploader": "GUSEINDIA",
             "category": "anime/attack_on_titan",
-            "thumbnail": "https://i.ytimg.com/vi/HtJhEtr_Nyk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLActI4KvQ_sMfkNpFqlUufqaFQd4Q"
+            "thumbnail": "https://i.ytimg.com/vi/HtJhEtr_Nyk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAAl9YtAAsC46VIc7Yjw1hjjG1qg"
         },
         {
             "id": "6Nt1GtfIUec",
@@ -155,6 +155,16 @@
             "uploader": "Mention INDIA - हिंदी",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/6Nt1GtfIUec/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDclWznb4-TgGyyQB9P-2_7d85Nlw"
+        },
+        {
+            "id": "Z52lUzfUcAI",
+            "title": "Attack on titan Season 4 Episode 17 #Season4  ##attackontitan #hindi #attackontitanseason4 #Episode1",
+            "url": "https://www.youtube.com/watch?v=Z52lUzfUcAI",
+            "duration": 1255,
+            "view_count": 3005,
+            "uploader": "Anime Hunter",
+            "category": "anime/attack_on_titan",
+            "thumbnail": "https://i.ytimg.com/vi/Z52lUzfUcAI/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoQDAP&rs=AOn4CLCSZB7Y8ISI2giubKlXaZas8TXsHQ"
         }
     ]
 }
