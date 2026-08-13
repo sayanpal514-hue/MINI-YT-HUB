@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-13T08:46:30.682489Z",
+    "last_updated": "2026-08-13T09:54:39.186706Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 3,
+    "total_episodes": 4,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -22,10 +22,10 @@
             "title": "हिन्दी The Daltons 🌵 1H COMPILATION ☀️ Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1Ke29R-tn2s",
             "duration": 3913,
-            "view_count": 14555372,
+            "view_count": 14555503,
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
+            "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAWILMIq-k2_RwrpinfWF537lMwkw",
             "show_name": "Various Cartoons"
         },
         {
@@ -37,6 +37,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/oEB3PTtnjX4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe46ydq7n2VrmK5VrlEqmKY43CZg",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "qH6zJ646SVQ",
+            "title": "Peppa Pig in Hindi 💖 Valentine's Day 2# 💖 हिंदी Kahaniya - Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=qH6zJ646SVQ",
+            "duration": 3802,
+            "view_count": 24132119,
+            "uploader": "पेप्पा पिग हिंदी - आधिकारिक चैनल",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/qH6zJ646SVQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDP84en23wnCVm1UwOyvJgaef9g2Q",
             "show_name": "Various Cartoons"
         }
     ]
