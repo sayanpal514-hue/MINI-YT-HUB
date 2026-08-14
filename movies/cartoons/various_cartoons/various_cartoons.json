@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-14T22:44:20.885428Z",
+    "last_updated": "2026-08-14T23:12:09.202655Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 6,
+    "total_episodes": 7,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -70,6 +70,17 @@
             "uploader": "C4 Cartoon",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/7X7M2-QWR_I/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkPHB1QiUSAHMVxEUB-yHiODPUeg",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "eVoke05WS8Y",
+            "title": "हिंदी Oggy and the Cockroaches 🥺 तिलचट्टों को रिहा करो 🥺 Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=eVoke05WS8Y",
+            "duration": 3928,
+            "view_count": 10511509,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/eVoke05WS8Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwD7JlbWUMZHpOuds-bfkC5p5cgQ",
             "show_name": "Various Cartoons"
         }
     ]

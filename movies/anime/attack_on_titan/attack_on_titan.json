@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-14T22:44:20.896463Z",
+    "last_updated": "2026-08-14T23:12:09.141686Z",
     "show_name": "Attack On Titan",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Attack On Titan.",
-    "total_episodes": 20,
+    "total_episodes": 21,
     "episodes": [
         {
             "id": "n3GeKBDWVDI",
             "title": "Attack on Titan Season 1 Ep1 Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=n3GeKBDWVDI",
             "duration": 1544,
-            "view_count": 24262,
+            "view_count": 24263,
             "uploader": "Indian Anime Dubbed",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/n3GeKBDWVDI/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoSjAP&rs=AOn4CLABPouUzqpZssJO2EMmoy7HDEjQKA"
@@ -31,7 +31,7 @@
             "title": "Season 01 episode 02 full in hindi dubbed.(Attack on Titan). Thanks for watching video.",
             "url": "https://www.youtube.com/watch?v=654sk9C55w8",
             "duration": 1027,
-            "view_count": 49270,
+            "view_count": 49275,
             "uploader": "Animelover07 ",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/654sk9C55w8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl8RsrlBcuwBsOelna8ViXU6PrkQ"
@@ -41,7 +41,7 @@
             "title": "GIANT Humanoid Creatures Suddenly Appear on Earth and Almost Destroyed Humanity Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Ik0wrR04pXw",
             "duration": 14402,
-            "view_count": 9258820,
+            "view_count": 9258832,
             "uploader": "Animity",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/Ik0wrR04pXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvlJkm9chxou82XnyjglJJ3e5n0A"
@@ -51,7 +51,7 @@
             "title": "Attack on Titan Season 4 Episode 30 (S4E30) [Hindi Dub] AOT | Mention INDIA ",
             "url": "https://www.youtube.com/watch?v=2dwZgX90UvA",
             "duration": 5092,
-            "view_count": 46873,
+            "view_count": 46911,
             "uploader": "Mention INDIA",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/2dwZgX90UvA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8MSTTvk5QGMGLKCO7jJY-ljNn5w"
@@ -201,10 +201,20 @@
             "title": "Attack On Titan (2015) Film Explained in Hindi/Urdu Summarized | हिन्दी V4 Movie Explainer",
             "url": "https://www.youtube.com/watch?v=4a4QcQYn92A",
             "duration": 1266,
-            "view_count": 620226,
+            "view_count": 620161,
             "uploader": "V4 Movie Explainer",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/4a4QcQYn92A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLConFpckJQC8qFMvvz-RcnmOL51wA"
+        },
+        {
+            "id": "SxuFl0hnjzk",
+            "title": "GIANT Humanoid Creatures Suddenly Appear on Earth and Almost Destroyed Humanity Explained in Hindi",
+            "url": "https://www.youtube.com/watch?v=SxuFl0hnjzk",
+            "duration": 14402,
+            "view_count": 165496,
+            "uploader": "Zero.00 Explainer",
+            "category": "anime/attack_on_titan",
+            "thumbnail": "https://i.ytimg.com/vi/SxuFl0hnjzk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSXgexyTVX8Kbh6JIiOBq97GD0Xw"
         }
     ]
 }
