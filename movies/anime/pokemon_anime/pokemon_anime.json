@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-14T05:25:00.949170Z",
+    "last_updated": "2026-08-14T06:58:57.800331Z",
     "show_name": "Pokemon Anime",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon Anime.",
-    "total_episodes": 27,
+    "total_episodes": 30,
     "episodes": [
         {
             "id": "1TlOcjJodHw",
@@ -31,7 +31,7 @@
             "title": "Pokémon - I Choose You! | FULL EPISODE 1 | Season 1",
             "url": "https://www.youtube.com/watch?v=z3hMX65Khtg",
             "duration": 1343,
-            "view_count": 15427139,
+            "view_count": 15428467,
             "uploader": "Pokémon TV",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/z3hMX65Khtg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDygnxDeS8UP_8pcJQcw3mruHK1KQ"
@@ -41,7 +41,7 @@
             "title": "POKEMON MOVIE [HINDI DUBBED] FULL 4K QUALITY #viral #movie",
             "url": "https://www.youtube.com/watch?v=_JPnwf7Gwh4",
             "duration": 3637,
-            "view_count": 1707131,
+            "view_count": 1707427,
             "uploader": "Mujeeb_FFx",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/_JPnwf7Gwh4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAa5utRE4EOMJe-7yWNFF-QNyHig"
@@ -171,7 +171,7 @@
             "title": "Pokemon Movie I Choose You Full Movie in hindi dubbed #pokemon #anime",
             "url": "https://www.youtube.com/watch?v=4NrEu5khc4g",
             "duration": 4535,
-            "view_count": 87691,
+            "view_count": 87861,
             "uploader": "nagi_0143",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/4NrEu5khc4g/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARh_IEgoJDAP&rs=AOn4CLBEmtJI8ksfABeJ1SK1wFOE76hqRQ"
@@ -275,6 +275,36 @@
             "uploader": "TNxLE.RMS!",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/jVcAehqB47M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJMSZVAr0Meb0SQAjVLnkrut6p6w"
+        },
+        {
+            "id": "uzI2f-0vmto",
+            "title": "Pokemon Season1 second last episode in Hindi dubbed language",
+            "url": "https://www.youtube.com/watch?v=uzI2f-0vmto",
+            "duration": 1429,
+            "view_count": 286,
+            "uploader": "Cartoon",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/uzI2f-0vmto/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB0gaAAuADigIMCAAQARgaIGAocjAP&rs=AOn4CLDLS-J-AxJjWS_Sju5S4pnSMZiQiQ"
+        },
+        {
+            "id": "Tl641tEv1aQ",
+            "title": "Pokemon XY episode 1 in hindi dubbed.pokemon XY ash new journey.",
+            "url": "https://www.youtube.com/watch?v=Tl641tEv1aQ",
+            "duration": 1237,
+            "view_count": 394,
+            "uploader": "Cool puretoons",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/Tl641tEv1aQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMSXAmCEP-9cM8H-qT4rtL8JbbWw"
+        },
+        {
+            "id": "PEUL-1_zGWI",
+            "title": "Challenge of the Samurai | POKÉMON FULL EPISODE 4 | Season 1",
+            "url": "https://www.youtube.com/watch?v=PEUL-1_zGWI",
+            "duration": 1343,
+            "view_count": 4083984,
+            "uploader": "Pokémon TV",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/PEUL-1_zGWI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe5dyWP1hikOIAoGoRdw63lsytWQ"
         }
     ]
 }
