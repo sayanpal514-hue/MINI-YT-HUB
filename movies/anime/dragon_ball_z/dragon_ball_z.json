@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-14T21:16:05.881161Z",
+    "last_updated": "2026-08-14T21:44:20.102893Z",
     "show_name": "Dragon Ball Z",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Z.",
-    "total_episodes": 34,
+    "total_episodes": 35,
     "episodes": [
         {
             "id": "n1Gdmkmaxn8",
@@ -81,7 +81,7 @@
             "title": "Dragon Ball Z Special Episode:Bardock The Father of Goku(Hindi Dubbed) @GrandWhis0104",
             "url": "https://www.youtube.com/watch?v=oPVvKg-lIzw",
             "duration": 2775,
-            "view_count": 2179,
+            "view_count": 2180,
             "uploader": "Grand Whis",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/oPVvKg-lIzw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMYFqk4PjdSiUZiCwwNRDdGvBocw"
@@ -345,6 +345,16 @@
             "uploader": "DARK AMV-X",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/7K776UKGRYQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJlEnhDr3RW1YZmo-892p2kApb1w"
+        },
+        {
+            "id": "klSy75XPjjc",
+            "title": "Goku vs Gomha Dragon Ball Daima Hindi Dubbed ! Goku super saiyan 4 #goku",
+            "url": "https://www.youtube.com/watch?v=klSy75XPjjc",
+            "duration": 650,
+            "view_count": 3743,
+            "uploader": "GDvdos",
+            "category": "anime/dragon_ball_z",
+            "thumbnail": "https://i.ytimg.com/vi/klSy75XPjjc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZNREuhYoqq2HB1pe6vsvUHjeg0g"
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-14T21:16:05.928393Z",
+    "last_updated": "2026-08-14T21:44:20.032342Z",
     "show_name": "Attack On Titan",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Attack On Titan.",
-    "total_episodes": 19,
+    "total_episodes": 20,
     "episodes": [
         {
             "id": "n3GeKBDWVDI",
@@ -41,7 +41,7 @@
             "title": "GIANT Humanoid Creatures Suddenly Appear on Earth and Almost Destroyed Humanity Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Ik0wrR04pXw",
             "duration": 14402,
-            "view_count": 9258626,
+            "view_count": 9258760,
             "uploader": "Animity",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/Ik0wrR04pXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvlJkm9chxou82XnyjglJJ3e5n0A"
@@ -51,7 +51,7 @@
             "title": "Attack on Titan Season 4 Episode 30 (S4E30) [Hindi Dub] AOT | Mention INDIA ",
             "url": "https://www.youtube.com/watch?v=2dwZgX90UvA",
             "duration": 5092,
-            "view_count": 46883,
+            "view_count": 46911,
             "uploader": "Mention INDIA",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/2dwZgX90UvA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8MSTTvk5QGMGLKCO7jJY-ljNn5w"
@@ -121,7 +121,7 @@
             "title": "Attack On Titan: Requiem | Hindi Dub | Kasukabe Studio",
             "url": "https://www.youtube.com/watch?v=Ra4v9gr3F44",
             "duration": 850,
-            "view_count": 21341,
+            "view_count": 21343,
             "uploader": "Anime Manji",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/Ra4v9gr3F44/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJjUaBFgKPDLqBA4tJt9bSApzqeA"
@@ -191,10 +191,20 @@
             "title": "Entire Story/Timeline of \"Attack on Titan\" Explained in \"23 Minutes\" - HINDI",
             "url": "https://www.youtube.com/watch?v=4YLIyuubN6Y",
             "duration": 1404,
-            "view_count": 262149,
+            "view_count": 262477,
             "uploader": "Binge Momo",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/4YLIyuubN6Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtPX33pKmdEUsBgGuOyHhqOjG4Vw"
+        },
+        {
+            "id": "4a4QcQYn92A",
+            "title": "Attack On Titan (2015) Film Explained in Hindi/Urdu Summarized | हिन्दी V4 Movie Explainer",
+            "url": "https://www.youtube.com/watch?v=4a4QcQYn92A",
+            "duration": 1266,
+            "view_count": 620226,
+            "uploader": "V4 Movie Explainer",
+            "category": "anime/attack_on_titan",
+            "thumbnail": "https://i.ytimg.com/vi/4a4QcQYn92A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLConFpckJQC8qFMvvz-RcnmOL51wA"
         }
     ]
 }

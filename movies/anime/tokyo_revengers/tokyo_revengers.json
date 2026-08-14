@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-14T21:16:05.859712Z",
+    "last_updated": "2026-08-14T21:44:20.082900Z",
     "show_name": "Tokyo Revengers",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tokyo Revengers.",
-    "total_episodes": 27,
+    "total_episodes": 28,
     "episodes": [
         {
             "id": "U73sHghql5A",
             "title": "Tokyo Revengers Season1 Full Movie Hindi Dubbed |Takemichi Ka Time Travel Mission| @Tokyorevengers06",
             "url": "https://www.youtube.com/watch?v=U73sHghql5A",
             "duration": 34150,
-            "view_count": 9163,
+            "view_count": 9187,
             "uploader": "TOKYO REVENGERS 06",
             "category": "anime/tokyo_revengers",
             "thumbnail": "https://i.ytimg.com/vi/U73sHghql5A/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl9miXl7AQW08VUZhGAbw91yzYYw"
@@ -21,7 +21,7 @@
             "title": " 🔥 Tokyo Revengers Season 1 Complete Series Hindi Dub | Full Episodes in HD",
             "url": "https://www.youtube.com/watch?v=GI8n08_lWS8",
             "duration": 33971,
-            "view_count": 842563,
+            "view_count": 842587,
             "uploader": "MAHARAJ PRODUCTION ",
             "category": "anime/tokyo_revengers",
             "thumbnail": "https://i.ytimg.com/vi/GI8n08_lWS8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbbbnX1-bPd4xtOs1xluSPhdgm_Q"
@@ -71,7 +71,7 @@
             "title": "[Hindi Dubbed] Anime ✨ || 💥Tokyo Revengers💥 || Animodub  #Anime #Hindianime #animeedit #cartoon",
             "url": "https://www.youtube.com/watch?v=qoDkJOlqLEY",
             "duration": 8459,
-            "view_count": 51030,
+            "view_count": 51055,
             "uploader": "AnimoDub",
             "category": "anime/tokyo_revengers",
             "thumbnail": "https://i.ytimg.com/vi/qoDkJOlqLEY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtItEkEBzThT5LPP7lzZaZUkfnVg"
@@ -151,7 +151,7 @@
             "title": "Tokyo Revenge Hindi season 1 episode 3",
             "url": "https://www.youtube.com/watch?v=U-ZCAuvYEN4",
             "duration": 1422,
-            "view_count": 257,
+            "view_count": 296,
             "uploader": "YTR Anime 143",
             "category": "anime/tokyo_revengers",
             "thumbnail": "https://i.ytimg.com/vi/U-ZCAuvYEN4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgRIFoocjAP&rs=AOn4CLBnOw39FtehgUJU90e9KNub4xFFIA"
@@ -275,6 +275,16 @@
             "uploader": "Movie Masti",
             "category": "anime/tokyo_revengers",
             "thumbnail": "https://i.ytimg.com/vi/XdG36xuWlsM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAa-NpHv5R1CdQyKe7NDfXfvvn74g"
+        },
+        {
+            "id": "8FiC6DLIzqQ",
+            "title": "Tokyo Revengers Episode 1 English Dub | Reborn",
+            "url": "https://www.youtube.com/watch?v=8FiC6DLIzqQ",
+            "duration": 1432,
+            "view_count": 528653,
+            "uploader": "Crunchyroll",
+            "category": "anime/tokyo_revengers",
+            "thumbnail": "https://i.ytimg.com/vi/8FiC6DLIzqQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdEB2Fwim5S8fTrBUP5xw49LvWUg"
         }
     ]
 }
