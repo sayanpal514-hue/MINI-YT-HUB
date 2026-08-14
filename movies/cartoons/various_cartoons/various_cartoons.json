@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-14T12:27:46.527665Z",
+    "last_updated": "2026-08-14T14:00:33.812128Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 5,
+    "total_episodes": 6,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -22,7 +22,7 @@
             "title": "हिन्दी The Daltons 🌵 1H COMPILATION ☀️ Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1Ke29R-tn2s",
             "duration": 3913,
-            "view_count": 14558142,
+            "view_count": 14558361,
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
@@ -59,6 +59,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/E7tCnT5LFLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5biVqf_mJYBdcqqZ9hbOGEcb7tw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "7X7M2-QWR_I",
+            "title": "Golmaal Jr Humshakals Ka Golmaal (2025) In Hindi Cartoon Movie",
+            "url": "https://www.youtube.com/watch?v=7X7M2-QWR_I",
+            "duration": 2612,
+            "view_count": 180022,
+            "uploader": "C4 Cartoon",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/7X7M2-QWR_I/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkPHB1QiUSAHMVxEUB-yHiODPUeg",
             "show_name": "Various Cartoons"
         }
     ]
