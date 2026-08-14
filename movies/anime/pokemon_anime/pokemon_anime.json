@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-14T18:30:27.912939Z",
+    "last_updated": "2026-08-14T19:34:41.935780Z",
     "show_name": "Pokemon Anime",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon Anime.",
-    "total_episodes": 31,
+    "total_episodes": 33,
     "episodes": [
         {
             "id": "1TlOcjJodHw",
@@ -31,7 +31,7 @@
             "title": "Pokémon - I Choose You! | FULL EPISODE 1 | Season 1",
             "url": "https://www.youtube.com/watch?v=z3hMX65Khtg",
             "duration": 1343,
-            "view_count": 15442485,
+            "view_count": 15444242,
             "uploader": "Pokémon TV",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/z3hMX65Khtg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDygnxDeS8UP_8pcJQcw3mruHK1KQ"
@@ -311,10 +311,30 @@
             "title": "Pokemon sun and moon english dubbed episode 23",
             "url": "https://www.youtube.com/watch?v=rlz_66zmV58",
             "duration": 1230,
-            "view_count": 14997,
+            "view_count": 15010,
             "uploader": "Prateek singh Rathore",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/rlz_66zmV58/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-EcAwxswy19RZEYHJkBOZ75ShjA"
+        },
+        {
+            "id": "ASLpo-MYydE",
+            "title": "Pokemon horizon session 1 episode 1 in Hindi dubbed",
+            "url": "https://www.youtube.com/watch?v=ASLpo-MYydE",
+            "duration": 1396,
+            "view_count": 4015,
+            "uploader": "The World of Pokémon",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/ASLpo-MYydE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKvaQLfHpZN4cmqzLMs3ScGXBclg"
+        },
+        {
+            "id": "PTwKdhyi_kk",
+            "title": "Pokemon ne movie the battle of master in english/Hindi dubbed Full hd Quality 1080p",
+            "url": "https://www.youtube.com/watch?v=PTwKdhyi_kk",
+            "duration": 3637,
+            "view_count": 291455,
+            "uploader": "CARTOON MASTER",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/PTwKdhyi_kk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUqhwjpRYnZfqM4kPyGMf6hjbFLA"
         }
     ]
 }
