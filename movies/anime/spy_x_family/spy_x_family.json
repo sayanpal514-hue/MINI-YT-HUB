@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-15T05:16:28.409698Z",
+    "last_updated": "2026-08-15T05:44:08.194556Z",
     "show_name": "Spy X Family",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Spy X Family.",
-    "total_episodes": 11,
+    "total_episodes": 12,
     "episodes": [
         {
             "id": "pRuW10v8Wn4",
             "title": "Spy x Family Season 1 full Story Explained in Hindi' #spyxfamily",
             "url": "https://www.youtube.com/watch?v=pRuW10v8Wn4",
             "duration": 2732,
-            "view_count": 156625,
+            "view_count": 156637,
             "uploader": "MUSSU EXPLAINER",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/pRuW10v8Wn4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARFkuKIQlo2eIMq9hxXNgby5-2eA"
@@ -115,6 +115,16 @@
             "uploader": "K_drama",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/zd1-4Hl3bm4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpN1KnpeXGAA8rxtcNdPZouxV5NA"
+        },
+        {
+            "id": "fQeXpMk2Nlk",
+            "title": "Spy x Family Season 5 Episode 18 Explained in Hindi | Anya & Damian’s Haunted School Adventure 👻 |",
+            "url": "https://www.youtube.com/watch?v=fQeXpMk2Nlk",
+            "duration": 788,
+            "view_count": 18261,
+            "uploader": "Hunter Verse",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/fQeXpMk2Nlk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG2rDSNGgHSz-0FkQjJA5E4UPu3A"
         }
     ]
 }

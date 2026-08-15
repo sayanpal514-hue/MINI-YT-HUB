@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-08-15T05:16:28.374384Z",
-    "total_movies": 47,
+    "last_updated": "2026-08-15T05:44:08.169047Z",
+    "total_movies": 48,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
             "title": "New Hollywood (2023) Full Movie in Hindi Dubbed | Latest Hollywood Action Movie | The Rock",
             "url": "https://www.youtube.com/watch?v=LGpWtBA_SwE",
             "duration": 7592,
-            "view_count": 639325,
+            "view_count": 639328,
             "uploader": "loans hai",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/LGpWtBA_SwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT-QJ1XGhKyi5SDnzBqMiv1y1dgw"
@@ -17,7 +17,7 @@
             "title": "Avengers Infinity War Full Movie in Hindi Dubbed | Thanos | Thor| Iron Man | Avengers 3 Infinity War",
             "url": "https://www.youtube.com/watch?v=zlD739a7YA8",
             "duration": 7981,
-            "view_count": 930523,
+            "view_count": 930718,
             "uploader": "MoviesLover0",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/zlD739a7YA8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwlud_AGXvBbtVJfqrnbFb_QRsmg"
@@ -157,7 +157,7 @@
             "title": "Spider Man Brand New Day Full Movie in Hindi 2026 | Tom Holland, Jacob Batalon | Commentary & Story",
             "url": "https://www.youtube.com/watch?v=uBVP7CGpafw",
             "duration": 8782,
-            "view_count": 664505,
+            "view_count": 665392,
             "uploader": "MOVIES TOMBI",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/uBVP7CGpafw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnZwI4Ef1XNKsH1f84pbmlVbsYzg"
@@ -447,7 +447,7 @@
             "title": "Avengers: Age of Ultron Movie (2015) Action/Sci-fi | Chris Evans, Jeremy Renner -Film Review & Facts",
             "url": "https://www.youtube.com/watch?v=UgrWdPXtk0c",
             "duration": 8549,
-            "view_count": 6919003,
+            "view_count": 6920961,
             "uploader": "Pee Zee Films",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/UgrWdPXtk0c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOweu9Frl3TttzpyTICmqD9INZXA"
@@ -467,10 +467,20 @@
             "title": "Avengers: Endgame Movie (2019) Action\\Sci-fi | Mark Ruffalo, Ava Russo, Frank Grillo - Film Review",
             "url": "https://www.youtube.com/watch?v=rvAAwjG61Es",
             "duration": 10965,
-            "view_count": 8604023,
+            "view_count": 8608699,
             "uploader": "Pee Zee Films",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/rvAAwjG61Es/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvlqIvpPhJ8il2mun1zpc_0P1M7w"
+        },
+        {
+            "id": "hNf5__nxw5s",
+            "title": "🔴 LIVE! Marvel's Avengers Assemble | Full Episodes",
+            "url": "https://www.youtube.com/watch?v=hNf5__nxw5s",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Marvel HQ",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/hNf5__nxw5s/hq720.jpg?v=69d6a8a7&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFhivqGBfaHcw2wv_Jjvzxx6pzuQ"
         }
     ]
 }
