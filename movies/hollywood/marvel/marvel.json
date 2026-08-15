@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-08-15T02:03:45.025177Z",
-    "total_movies": 45,
+    "last_updated": "2026-08-15T03:08:10.895971Z",
+    "total_movies": 47,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
             "title": "New Hollywood (2023) Full Movie in Hindi Dubbed | Latest Hollywood Action Movie | The Rock",
             "url": "https://www.youtube.com/watch?v=LGpWtBA_SwE",
             "duration": 7592,
-            "view_count": 639316,
+            "view_count": 639328,
             "uploader": "loans hai",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/LGpWtBA_SwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT-QJ1XGhKyi5SDnzBqMiv1y1dgw"
@@ -37,7 +37,7 @@
             "title": "KINGSMAN Part 1 Hindi Dubbed Movie 2022",
             "url": "https://www.youtube.com/watch?v=dXc7iPfCBZA",
             "duration": 7111,
-            "view_count": 2007836,
+            "view_count": 2008038,
             "uploader": "MovieMorsels",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/dXc7iPfCBZA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAAaEho8fuGO-OcBDTB2-9_3bjqw"
@@ -397,7 +397,7 @@
             "title": "X man_2  Full Hollywood movie Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=o-AEcxRJh7M",
             "duration": 6261,
-            "view_count": 189214,
+            "view_count": 189646,
             "uploader": "Udit Narayan",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/o-AEcxRJh7M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA343rPO9QlRZRwjAxRwQMIy8s6yA"
@@ -417,7 +417,7 @@
             "title": "X-Men return 2 hollywood adventures movie dabbed hindi 720",
             "url": "https://www.youtube.com/watch?v=wMkTzGkkfhU",
             "duration": 4187,
-            "view_count": 7211664,
+            "view_count": 7212068,
             "uploader": "Bhojpuriya Tonic",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/wMkTzGkkfhU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3G82y3a1vvJQbHriaDhIhKF9vhA"
@@ -427,7 +427,7 @@
             "title": "Hindi Dubbed: Dark Ascension Full Movie | Best Action Fantasy | Game Movie",
             "url": "https://www.youtube.com/watch?v=ooIRFpT1xUM",
             "duration": 6093,
-            "view_count": 3362277,
+            "view_count": 3362331,
             "uploader": "Hindi Superhero",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/ooIRFpT1xUM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtQViwjcp-JQRovc-KM2hh9LXdDw"
@@ -447,10 +447,30 @@
             "title": "Avengers: Age of Ultron Movie (2015) Action/Sci-fi | Chris Evans, Jeremy Renner -Film Review & Facts",
             "url": "https://www.youtube.com/watch?v=UgrWdPXtk0c",
             "duration": 8549,
-            "view_count": 6917605,
+            "view_count": 6919003,
             "uploader": "Pee Zee Films",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/UgrWdPXtk0c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOweu9Frl3TttzpyTICmqD9INZXA"
+        },
+        {
+            "id": "x1A6l5i1FZE",
+            "title": "Venom 3 - Hindi Dubbed |FULL MOVIE #new #movie #viral ",
+            "url": "https://www.youtube.com/watch?v=x1A6l5i1FZE",
+            "duration": 8189,
+            "view_count": 5764999,
+            "uploader": "Taj biriyani house",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/x1A6l5i1FZE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc95uUMfCi0aoR_tT7u7BwFTkTIA"
+        },
+        {
+            "id": "rvAAwjG61Es",
+            "title": "Avengers: Endgame Movie (2019) Action\\Sci-fi | Mark Ruffalo, Ava Russo, Frank Grillo - Film Review",
+            "url": "https://www.youtube.com/watch?v=rvAAwjG61Es",
+            "duration": 10965,
+            "view_count": 8604023,
+            "uploader": "Pee Zee Films",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/rvAAwjG61Es/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvlqIvpPhJ8il2mun1zpc_0P1M7w"
         }
     ]
 }
