@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-15T21:14:17.144063Z",
+    "last_updated": "2026-08-15T21:37:14.072984Z",
     "show_name": "Naruto",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Naruto.",
-    "total_episodes": 62,
+    "total_episodes": 63,
     "episodes": [
         {
             "id": "tTR7rWl04TQ",
@@ -171,7 +171,7 @@
             "title": "Team 7 Vs Zabuza and Haku Round 2 | Naruto Badass Moments in Hindi P3",
             "url": "https://www.youtube.com/watch?v=dh7ZcPX3mdU",
             "duration": 1392,
-            "view_count": 1121409,
+            "view_count": 1121433,
             "uploader": "Itz edi",
             "category": "anime/naruto",
             "thumbnail": "https://i.ytimg.com/vi/dh7ZcPX3mdU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAedqvH1i_tJS5vaA1NRhz2kIAxAQ"
@@ -181,7 +181,7 @@
             "title": "Naruto season 1 episode 2",
             "url": "https://www.youtube.com/watch?v=5q_Dq7iGgk8",
             "duration": 934,
-            "view_count": 318868,
+            "view_count": 318907,
             "uploader": "Harish Verma",
             "category": "anime/naruto",
             "thumbnail": "https://i.ytimg.com/vi/5q_Dq7iGgk8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg1cbMCEz_6mL3PyiqF2HQwiO8Vw"
@@ -191,7 +191,7 @@
             "title": "Sasuke Vs Gaara Full Fight In Hindi | Orochimaru vs 3rd Hokage  Hashirama Tobirama Reanimation Jutsu",
             "url": "https://www.youtube.com/watch?v=ENw--bKDjbk",
             "duration": 3018,
-            "view_count": 2713956,
+            "view_count": 2714138,
             "uploader": "ITACHI UCHIHA ",
             "category": "anime/naruto",
             "thumbnail": "https://i.ytimg.com/vi/ENw--bKDjbk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18cF1MH4Hs7o2UYnoYCOputxiXA"
@@ -231,7 +231,7 @@
             "title": "NARUTO VS OROCHIMARU _ FULL FIGHT [ HINDI DUBBED ] #anime #narutoshippuden #naruto",
             "url": "https://www.youtube.com/watch?v=xKjas-sHNPg",
             "duration": 1055,
-            "view_count": 517935,
+            "view_count": 517940,
             "uploader": "DARK EDITZ",
             "category": "anime/naruto",
             "thumbnail": "https://i.ytimg.com/vi/xKjas-sHNPg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL0G4bh1JVcWl_Zs2HXiXiBZ7NyQ"
@@ -625,6 +625,16 @@
             "uploader": "Anime 10 Only",
             "category": "anime/naruto",
             "thumbnail": "https://i.ytimg.com/vi/4JQZx0b2TO0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnlOqMrqGtuUArykgAB75bAiP70Q"
+        },
+        {
+            "id": "gylz9vA7KKQ",
+            "title": "Naruto And Nine Tails Kurama Vs All Eight Beasts | Naruto Shippuden Badass Moments in Hindi part 12",
+            "url": "https://www.youtube.com/watch?v=gylz9vA7KKQ",
+            "duration": 788,
+            "view_count": 1322761,
+            "uploader": "POKENATION ",
+            "category": "anime/naruto",
+            "thumbnail": "https://i.ytimg.com/vi/gylz9vA7KKQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5nqEvB-G4PHa2zvivDC4NzI6N8Q"
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-15T21:14:17.162791Z",
+    "last_updated": "2026-08-15T21:37:14.089585Z",
     "show_name": "Guru Aur Bhole",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Guru Aur Bhole.",
-    "total_episodes": 112,
+    "total_episodes": 113,
     "episodes": [
         {
             "id": "1FjrvCRpOVs",
@@ -21,7 +21,7 @@
             "title": "रोबोटिक आइलैंड की कहानी | Moral Stories for Children in Hindi | बच्चों की कहानियाँ |Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=TqRvZlyxTG8",
             "duration": 1331,
-            "view_count": 15337987,
+            "view_count": 15338008,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/TqRvZlyxTG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrddA0zfpsTvPhuvYZ8d6rHLSJSg"
@@ -191,7 +191,7 @@
             "title": "Guru Aur Bhole And Hawa Hawai I Guru Bhole New Hindi Movie I Kids Galaxy",
             "url": "https://www.youtube.com/watch?v=Smy8eFfLryE",
             "duration": 3645,
-            "view_count": 1100596,
+            "view_count": 1100599,
             "uploader": "Kids Galaxy",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/Smy8eFfLryE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE2j8EZvpCGA49GnKZlCc1l40GOQ"
@@ -291,7 +291,7 @@
             "title": "गुरु भोले मिला सर्कस से भागा हुआ गप्पू हाथी | Guru Aur Bhole | Kids Cartoon | Moral Stories For Kids",
             "url": "https://www.youtube.com/watch?v=iZx8fwccRbM",
             "duration": 681,
-            "view_count": 134691,
+            "view_count": 134731,
             "uploader": "Chillar Party",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/iZx8fwccRbM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBWUaP-XLh2MirjEqoUn4JH-q0YQ"
@@ -441,7 +441,7 @@
             "title": "सुरताल नगर में खतरनाक रोबोट | Moral Stories for Children | बच्चों की कहानियाँ | Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=L-WA8AH_XgY",
             "duration": 2270,
-            "view_count": 11060365,
+            "view_count": 11060455,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/L-WA8AH_XgY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeV9tIkRWrl2wOV1_3EeqgSCIgBg"
@@ -701,7 +701,7 @@
             "title": "गुरु भोले बने सुरक्षा गार्ड |Moral Stories for Children in Hindi|बच्चो की कहानियाँ |Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=5rK8erFhU3w",
             "duration": 670,
-            "view_count": 1738220,
+            "view_count": 1738247,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/5rK8erFhU3w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQzkH2Ov_JJYD6ZzwzrgymCf2z6g"
@@ -1125,6 +1125,16 @@
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/FOR_AUKsSR0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbDTBcDJwwEYHFb2wT2_bMkT9AwA"
+        },
+        {
+            "id": "mKArwARsXvc",
+            "title": "भोले बना जिन | Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
+            "url": "https://www.youtube.com/watch?v=mKArwARsXvc",
+            "duration": 1290,
+            "view_count": 1414543,
+            "uploader": "YAY! Time With Guru Bhole",
+            "category": "cartoons/guru_aur_bhole",
+            "thumbnail": "https://i.ytimg.com/vi/mKArwARsXvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9T3ODWS4Qd9PVSKSl3Bbska8WCA"
         }
     ]
 }
