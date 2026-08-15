@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-15T15:53:25.242380Z",
+    "last_updated": "2026-08-15T16:12:12.679773Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 64,
+    "total_episodes": 68,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -264,17 +264,17 @@
             "view_count": 329441,
             "uploader": "Poke'Solo",
             "category": "cartoons/pokemon",
-            "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAGqvIybkB8OK8HY-RF-tAUiE7JGA"
+            "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNi6Zt9PM2kRZg87m5c7hvk_z6Lg"
         },
         {
             "id": "jVcAehqB47M",
             "title": "Pokemon Battle Ash Charizard Vs Dragonite Orange League Final In Hindi",
             "url": "https://www.youtube.com/watch?v=jVcAehqB47M",
             "duration": 1168,
-            "view_count": 264191,
+            "view_count": 264201,
             "uploader": "TNxLE.RMS!",
             "category": "cartoons/pokemon",
-            "thumbnail": "https://i.ytimg.com/vi/jVcAehqB47M/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBbNkiQ0b5UL7Dn_af4yYnmK8TIbg"
+            "thumbnail": "https://i.ytimg.com/vi/jVcAehqB47M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJMSZVAr0Meb0SQAjVLnkrut6p6w"
         },
         {
             "id": "1TlOcjJodHw",
@@ -531,7 +531,7 @@
             "title": "Gymbaliar! | POKÉMON FULL EPISODE 8 | Season 10",
             "url": "https://www.youtube.com/watch?v=ZnWM2Anm9MU",
             "duration": 1271,
-            "view_count": 191661,
+            "view_count": 192733,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/ZnWM2Anm9MU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASrBUg5iZM1a6jv5aqicQmD9sGfw"
@@ -571,7 +571,7 @@
             "title": "Doraemon New Episode 2-08-2026 - Episode 01 - Doraemon Cartoon - Doraemon In Hindi - Doraemon Movie",
             "url": "https://www.youtube.com/watch?v=PyBaobBVfP0",
             "duration": 1988,
-            "view_count": 29516,
+            "view_count": 32419,
             "uploader": "Study with Bhuvi",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/PyBaobBVfP0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEgoQDAP&rs=AOn4CLCLqQSdbYqSL8Jtmu41Nr1eWnsqfw"
@@ -645,6 +645,46 @@
             "uploader": "Films in Real Life",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/Qb_HeHiie4E/hq720.jpg?v=6810f1d6&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFpLGzG1DKDHGDCZmxsouNKomozA"
+        },
+        {
+            "id": "gg-LdRoKEBU",
+            "title": "MISTY (K.O) HO GAYI 😱⚡ | Cascade Badge UNLOCKED! | Pokémon Let’s Go Pikachu #EP 06 Hindi #pokemon",
+            "url": "https://www.youtube.com/watch?v=gg-LdRoKEBU",
+            "duration": 1022,
+            "view_count": 5,
+            "uploader": "BHAI-Zard",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/gg-LdRoKEBU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2gX-90Vo1CujRYmG8oq_J7tNXtA"
+        },
+        {
+            "id": "-cD6qlz4SFw",
+            "title": "Breakdown Of Darkest Adult Moments In Pokemon | In-Depth Hindi Commentary |",
+            "url": "https://www.youtube.com/watch?v=-cD6qlz4SFw",
+            "duration": 3374,
+            "view_count": 9542,
+            "uploader": "Pokedon 2",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/-cD6qlz4SFw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAznxwHBI-1isnp39uxa65tjiTIvQ"
+        },
+        {
+            "id": "4JTwJJy4nL4",
+            "title": "DORAEMON THE BIRTH OF JAPAN | FULL MOVE HINDI DUBBED | 2021 LATEST MOVEI | #DORAEMON #NOBITA #RABIUL",
+            "url": "https://www.youtube.com/watch?v=4JTwJJy4nL4",
+            "duration": 6047,
+            "view_count": 229,
+            "uploader": "𝓑𝓮𝓪𝓾𝓽𝔂 𝓠𝓾𝓮𝓮𝓷𝓼  ",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/4JTwJJy4nL4/hq720_custom_3.jpg?sqp=CNiegtQG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbadCeH5sFZxkwDcL6Xtx0nWR1RQ"
+        },
+        {
+            "id": "2PzfL3zrE-o",
+            "title": "🔴 LIVE! Ultimate Spider-Man 🔵🕷️🔴 | 24/7 Full Episode Live Stream",
+            "url": "https://www.youtube.com/watch?v=2PzfL3zrE-o",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Marvel HQ",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/2PzfL3zrE-o/hq720.jpg?v=6835c6b8&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaI7tu1eCLdM3Ob5wGoP9GJp7bew"
         }
     ]
 }
