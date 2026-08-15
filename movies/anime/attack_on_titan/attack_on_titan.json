@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-15T00:33:37.026288Z",
+    "last_updated": "2026-08-15T02:03:44.952788Z",
     "show_name": "Attack On Titan",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Attack On Titan.",
-    "total_episodes": 22,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "n3GeKBDWVDI",
             "title": "Attack on Titan Season 1 Ep1 Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=n3GeKBDWVDI",
             "duration": 1544,
-            "view_count": 24268,
+            "view_count": 24270,
             "uploader": "Indian Anime Dubbed",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/n3GeKBDWVDI/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoSjAP&rs=AOn4CLABPouUzqpZssJO2EMmoy7HDEjQKA"
@@ -21,7 +21,7 @@
             "title": "Attack on Titan season 1 episode 1 in Hindi dubbed",
             "url": "https://www.youtube.com/watch?v=kzLvRKaRAfE",
             "duration": 1544,
-            "view_count": 1898,
+            "view_count": 1899,
             "uploader": "Devil's Smile",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/kzLvRKaRAfE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSEKh8bdKFy4s8rSSwF9lCFDblCw"
@@ -41,7 +41,7 @@
             "title": "GIANT Humanoid Creatures Suddenly Appear on Earth and Almost Destroyed Humanity Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Ik0wrR04pXw",
             "duration": 14402,
-            "view_count": 9258871,
+            "view_count": 9258934,
             "uploader": "Animity",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/Ik0wrR04pXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvlJkm9chxou82XnyjglJJ3e5n0A"
@@ -225,6 +225,16 @@
             "uploader": "Movies Insight Hindi",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/Su7yTKJqaSg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoCw0A9F2RjOCL5yKGj3OeEoMtjg"
+        },
+        {
+            "id": "7orGOov2DEw",
+            "title": "Attack On Titan Junior High Episode 1 Hindi Dubbed",
+            "url": "https://www.youtube.com/watch?v=7orGOov2DEw",
+            "duration": 1036,
+            "view_count": 17899,
+            "uploader": "Anime Hindi India",
+            "category": "anime/attack_on_titan",
+            "thumbnail": "https://i.ytimg.com/vi/7orGOov2DEw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNEt8cQy9MNSdpO3BgU36X6ZBt_A"
         }
     ]
 }
