@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-15T23:36:57.131164Z",
+    "last_updated": "2026-08-15T23:52:25.142722Z",
     "show_name": "My Hero Academia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for My Hero Academia.",
-    "total_episodes": 18,
+    "total_episodes": 19,
     "episodes": [
         {
             "id": "9brrbcdbZZs",
@@ -31,7 +31,7 @@
             "title": "My Hero Academia season 1 Episode 1 Hindi dubbed #cartoonnetwork",
             "url": "https://www.youtube.com/watch?v=pTiNTlJTM4M",
             "duration": 1473,
-            "view_count": 6757,
+            "view_count": 6754,
             "uploader": "SS Edit",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/pTiNTlJTM4M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEFi_3B27-dVGOIv4BNc79U5XdmQ"
@@ -41,7 +41,7 @@
             "title": "My hero academia ep 3 in Hindi dubbed",
             "url": "https://www.youtube.com/watch?v=yReWbAH0ouM",
             "duration": 1472,
-            "view_count": 3041,
+            "view_count": 3042,
             "uploader": "SHAYAN YT",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/yReWbAH0ouM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgjIDcofzAP&rs=AOn4CLDAR4CLOKnf36MphJhxp9CmeCr-kg"
@@ -185,6 +185,16 @@
             "uploader": "Anime Hindi Dubbed 11",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/PqE1xUEKmww/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACmA_uHqMLAEMI3noACOExNmPaFg"
+        },
+        {
+            "id": "MDBr3X1IWck",
+            "title": "My Hero Academia Season 1 | Episode 2 | What It Takes to Be a Hero | Hindi Dubbed | JioHotstar Anime",
+            "url": "https://www.youtube.com/watch?v=MDBr3X1IWck",
+            "duration": 1471,
+            "view_count": 43,
+            "uploader": "JIO HOTSTAR ANIME",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/MDBr3X1IWck/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS0hTDgSYQNngA8GuQqOovIbc92w"
         }
     ]
 }
