@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-15T16:12:12.689884Z",
+    "last_updated": "2026-08-15T16:43:49.470731Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 30,
+    "total_episodes": 32,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
@@ -21,7 +21,7 @@
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832,
-            "view_count": 780728,
+            "view_count": 780725,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -305,6 +305,26 @@
             "uploader": "Kids Thailand",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/JrlonPwUO2k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWNegIoJVLdYkatZLJW41zI7_e8A"
+        },
+        {
+            "id": "mG3Cjm3Qyrg",
+            "title": "Naruto Kakashi & Might Guy Vs Obito | Naruto Shippuden Badass Moments In Hindi part 20",
+            "url": "https://www.youtube.com/watch?v=mG3Cjm3Qyrg",
+            "duration": 648,
+            "view_count": 879605,
+            "uploader": "POKENATION ",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/mG3Cjm3Qyrg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByeTxf8M4RXkd4nWC9PmRfjAQIlw"
+        },
+        {
+            "id": "bPOJCxaiVzM",
+            "title": "पीटर पैन हिंदी में  | Squeaky Clean | Episode 1 | Hindi Kahaniya | PowerKids TV",
+            "url": "https://www.youtube.com/watch?v=bPOJCxaiVzM",
+            "duration": 1330,
+            "view_count": 5353388,
+            "uploader": "PowerKids TV",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/bPOJCxaiVzM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAA02ZDt5kpiGVzben6rV3lR5TnXA"
         }
     ]
 }

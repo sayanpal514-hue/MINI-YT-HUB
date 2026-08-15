@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-15T16:12:12.681993Z",
+    "last_updated": "2026-08-15T16:43:49.487067Z",
     "show_name": "My Hero Academia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for My Hero Academia.",
-    "total_episodes": 14,
+    "total_episodes": 17,
     "episodes": [
         {
             "id": "9brrbcdbZZs",
             "title": "My Hero Academia Season 1 Episode 1 In Hindi Dubbed |Dude Anime",
             "url": "https://www.youtube.com/watch?v=9brrbcdbZZs",
             "duration": 1068,
-            "view_count": 22917,
+            "view_count": 22919,
             "uploader": "Dude Anime",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/9brrbcdbZZs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9RNfjL1_n_VOsynVTL6DmDlty0Q"
@@ -21,7 +21,7 @@
             "title": "My Hero Academia Season 1-6 Explained in hindi full recap",
             "url": "https://www.youtube.com/watch?v=ApU0xOU_PRE",
             "duration": 9631,
-            "view_count": 590694,
+            "view_count": 590721,
             "uploader": "VIPER ANIME",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/ApU0xOU_PRE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCsozVUyuPECoY7ivI5KAch26zYw"
@@ -31,7 +31,7 @@
             "title": "My Hero Academia season 1 Episode 1 Hindi dubbed #cartoonnetwork",
             "url": "https://www.youtube.com/watch?v=pTiNTlJTM4M",
             "duration": 1473,
-            "view_count": 6661,
+            "view_count": 6704,
             "uploader": "SS Edit",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/pTiNTlJTM4M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEFi_3B27-dVGOIv4BNc79U5XdmQ"
@@ -141,10 +141,40 @@
             "title": "EVERY Class 1-A Students Backstory in My Hero Academia Explained!",
             "url": "https://www.youtube.com/watch?v=MHpdH_9GY2U",
             "duration": 829,
-            "view_count": 1957438,
+            "view_count": 1957698,
             "uploader": "AniTime",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/MHpdH_9GY2U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuVw4evitVlpv0j7Vl-n-yKGdUYQ"
+        },
+        {
+            "id": "v4weUj_-QDY",
+            "title": "Uraraka and Deku having a crush on each other for 11 minutes (Dub/Sub)",
+            "url": "https://www.youtube.com/watch?v=v4weUj_-QDY",
+            "duration": 662,
+            "view_count": 13267296,
+            "uploader": "Everything In a nutshell",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/v4weUj_-QDY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUuCe8jhf5l6zcCU5CViqq1vtqQA"
+        },
+        {
+            "id": "VkS0tW9gwyE",
+            "title": "My Hero Academia Abridged - BEST CLASS 1-A MOMENTS!",
+            "url": "https://www.youtube.com/watch?v=VkS0tW9gwyE",
+            "duration": 624,
+            "view_count": 1721828,
+            "uploader": "The Anime Boiis",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/VkS0tW9gwyE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxYhOQHwQFaPTxEnHgNV8Vzp5atA"
+        },
+        {
+            "id": "Q-8Ubb550ZY",
+            "title": "Bullied Powerless Boy Awakens the Rarest Quirk and Becomes the Strongest Hero",
+            "url": "https://www.youtube.com/watch?v=Q-8Ubb550ZY",
+            "duration": 3259,
+            "view_count": 2626018,
+            "uploader": "Anime Bench",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/Q-8Ubb550ZY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPpFhXRq6A8NO159vubmJKQLgJJQ"
         }
     ]
 }
