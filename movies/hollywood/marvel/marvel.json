@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-08-15T16:43:49.494320Z",
-    "total_movies": 52,
+    "last_updated": "2026-08-15T17:12:52.260599Z",
+    "total_movies": 53,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
             "title": "New Hollywood (2023) Full Movie in Hindi Dubbed | Latest Hollywood Action Movie | The Rock",
             "url": "https://www.youtube.com/watch?v=LGpWtBA_SwE",
             "duration": 7592,
-            "view_count": 639446,
+            "view_count": 639442,
             "uploader": "loans hai",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/LGpWtBA_SwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT-QJ1XGhKyi5SDnzBqMiv1y1dgw"
@@ -17,7 +17,7 @@
             "title": "Avengers Infinity War Full Movie in Hindi Dubbed | Thanos | Thor| Iron Man | Avengers 3 Infinity War",
             "url": "https://www.youtube.com/watch?v=zlD739a7YA8",
             "duration": 7981,
-            "view_count": 938228,
+            "view_count": 939169,
             "uploader": "MoviesLover0",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/zlD739a7YA8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwlud_AGXvBbtVJfqrnbFb_QRsmg"
@@ -77,7 +77,7 @@
             "title": "DEFENDERS OF EARTH (2025) New Hollywood Hindi Dubbed Action Adventure Sci-fi Movie | Chinese Movies",
             "url": "https://www.youtube.com/watch?v=ZITFUBMxb-k",
             "duration": 4959,
-            "view_count": 1362433,
+            "view_count": 1362496,
             "uploader": "Dimension Pictures",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/ZITFUBMxb-k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdpCSEYK-8bhGqhUiEyWQsKDHLXw"
@@ -521,6 +521,16 @@
             "uploader": "The Dark Lens",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/eOGhtzZrPIE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-lN_rNUtJty_TKt0cMa1BsbJs-g"
+        },
+        {
+            "id": "2eWKmW3OVFI",
+            "title": "Venom - 3 - Full Movie Hindi Dubbed",
+            "url": "https://www.youtube.com/watch?v=2eWKmW3OVFI",
+            "duration": 8189,
+            "view_count": 14,
+            "uploader": "Bhushan Movies",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/2eWKmW3OVFI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTMRbcETe_8QHOnfzA7KrrtdFnrw"
         }
     ]
 }
