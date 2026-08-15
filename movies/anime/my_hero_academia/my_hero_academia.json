@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-15T19:37:24.655227Z",
+    "last_updated": "2026-08-15T19:52:02.806236Z",
     "show_name": "My Hero Academia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for My Hero Academia.",
-    "total_episodes": 17,
+    "total_episodes": 18,
     "episodes": [
         {
             "id": "9brrbcdbZZs",
@@ -21,7 +21,7 @@
             "title": "My Hero Academia Season 1-6 Explained in hindi full recap",
             "url": "https://www.youtube.com/watch?v=ApU0xOU_PRE",
             "duration": 9631,
-            "view_count": 590926,
+            "view_count": 590935,
             "uploader": "VIPER ANIME",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/ApU0xOU_PRE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCsozVUyuPECoY7ivI5KAch26zYw"
@@ -31,7 +31,7 @@
             "title": "My Hero Academia season 1 Episode 1 Hindi dubbed #cartoonnetwork",
             "url": "https://www.youtube.com/watch?v=pTiNTlJTM4M",
             "duration": 1473,
-            "view_count": 6744,
+            "view_count": 6739,
             "uploader": "SS Edit",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/pTiNTlJTM4M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEFi_3B27-dVGOIv4BNc79U5XdmQ"
@@ -175,6 +175,16 @@
             "uploader": "Anime Bench",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/Q-8Ubb550ZY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPpFhXRq6A8NO159vubmJKQLgJJQ"
+        },
+        {
+            "id": "PqE1xUEKmww",
+            "title": "My Hero Academia Episode 1 | Hindi Dubbed Anime | Full Episode",
+            "url": "https://www.youtube.com/watch?v=PqE1xUEKmww",
+            "duration": 1471,
+            "view_count": 33,
+            "uploader": "Anime Hindi Dubbed 11",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/PqE1xUEKmww/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACmA_uHqMLAEMI3noACOExNmPaFg"
         }
     ]
 }
