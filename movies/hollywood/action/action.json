@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-15T10:42:24.796213Z",
-    "total_movies": 60,
+    "last_updated": "2026-08-15T10:57:22.540001Z",
+    "total_movies": 61,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -17,7 +17,7 @@
             "title": "Cobra (2026) Full Movie Hindi Dubbed | Action Crime Thriller | Hindi Dub | Hollywood Movie HD",
             "url": "https://www.youtube.com/watch?v=EyyItkmEw_Y",
             "duration": 4928,
-            "view_count": 87596,
+            "view_count": 87615,
             "uploader": "Hollywood Hindi Dub",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/EyyItkmEw_Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw84zGhHmHGB1Yn0zFKW8zKIYI2Q"
@@ -37,7 +37,7 @@
             "title": "NAKED ASSASSIN - New Released Full Hindi Dubbed Movie | Hollywood Action Movie In Hindi | Free Movie",
             "url": "https://www.youtube.com/watch?v=Sslpb9TY4es",
             "duration": 5201,
-            "view_count": 10270135,
+            "view_count": 10270163,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/Sslpb9TY4es/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLfDh9OHtuzrqxnjlzmlFS4oM13Q"
@@ -57,7 +57,7 @@
             "title": "THE ERADICATOR - Full Hollywood Action Movie Hindi Dubbed | Dane, Kent | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=e9EB-fYKYcc",
             "duration": 5308,
-            "view_count": 454884,
+            "view_count": 454909,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/e9EB-fYKYcc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFSoR62JLB4aAyTzFsawinlITkg"
@@ -67,7 +67,7 @@
             "title": "New Hollywood Hindi Dubbed Movie | Revenge Of Moorwen | Action Movie",
             "url": "https://www.youtube.com/watch?v=W6dzLx4LNxY",
             "duration": 6912,
-            "view_count": 623351,
+            "view_count": 623361,
             "uploader": "INFINITY MOVIES",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/W6dzLx4LNxY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIVYuOJ0731eyavArY87J37zL7w"
@@ -157,7 +157,7 @@
             "title": "DRUG MAFIA Full Hollywood Movie Hindi Dubbed | Hu Guofang, Zhao Jing, Li Meng | Chinese Action Movie",
             "url": "https://www.youtube.com/watch?v=uzN63h-Li98",
             "duration": 5430,
-            "view_count": 1518060,
+            "view_count": 1518230,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/uzN63h-Li98/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpHVjBW93OHhmZEufYE576EDiH2Q"
@@ -187,7 +187,7 @@
             "title": "HIJACK TO HELL - Full Hollywood Action Movie Hindi Dubbed | Ron, Peter | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=jnVrEPe73xw",
             "duration": 5352,
-            "view_count": 426725,
+            "view_count": 426744,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/jnVrEPe73xw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiuwVeUiyGEIp8DSPZ8uS5reXaMQ"
@@ -601,6 +601,16 @@
             "uploader": "Wood Cinema ",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/kgicntomf7c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzawvn_WL_FRs0SXLl8LdBN2AaCw"
+        },
+        {
+            "id": "iaBglaCCXg8",
+            "title": "-70° ICE AGE - Full Hollywood Action Movie Hindi Dubbed | Sara, Ted | Action Adventure Sci-Fi Movie",
+            "url": "https://www.youtube.com/watch?v=iaBglaCCXg8",
+            "duration": 5839,
+            "view_count": 758113,
+            "uploader": "Rising Nova Hindi",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/iaBglaCCXg8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA89rcQFjlHHGmVrtZnBBYKKO9Alg"
         }
     ]
 }
