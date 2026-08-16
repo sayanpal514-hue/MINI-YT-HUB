@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-08-16T00:33:05.882093Z",
-    "total_movies": 55,
+    "last_updated": "2026-08-16T02:10:45.232421Z",
+    "total_movies": 56,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
             "title": "New Hollywood (2023) Full Movie in Hindi Dubbed | Latest Hollywood Action Movie | The Rock",
             "url": "https://www.youtube.com/watch?v=LGpWtBA_SwE",
             "duration": 7592,
-            "view_count": 639524,
+            "view_count": 639523,
             "uploader": "loans hai",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/LGpWtBA_SwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT-QJ1XGhKyi5SDnzBqMiv1y1dgw"
@@ -37,7 +37,7 @@
             "title": "KINGSMAN Part 1 Hindi Dubbed Movie 2022",
             "url": "https://www.youtube.com/watch?v=dXc7iPfCBZA",
             "duration": 7111,
-            "view_count": 2011521,
+            "view_count": 2011608,
             "uploader": "MovieMorsels",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/dXc7iPfCBZA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAAaEho8fuGO-OcBDTB2-9_3bjqw"
@@ -87,7 +87,7 @@
             "title": "thor the first part full Hindi dubbed movie part 1 the best fitting movie water for next part full m",
             "url": "https://www.youtube.com/watch?v=lZkYH4ZIV88",
             "duration": 5522,
-            "view_count": 1064768,
+            "view_count": 1064776,
             "uploader": "Ahmad Ali",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/lZkYH4ZIV88/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX05EpGaOTqxt3TxKI5EbKdZoiOg"
@@ -337,7 +337,7 @@
             "title": "Thor Ragnarok Full Movie In Hindi dubbed In Hd #action #scifi #movie #hollywoodmovies #hindidubbed",
             "url": "https://www.youtube.com/watch?v=raqSyTS3ZFU",
             "duration": 7821,
-            "view_count": 2914,
+            "view_count": 2917,
             "uploader": "MOVIES.KING.",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/raqSyTS3ZFU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ_qfu3SY2SWzEfr274ZRew75Tmw"
@@ -447,7 +447,7 @@
             "title": "Avengers: Age of Ultron Movie (2015) Action/Sci-fi | Chris Evans, Jeremy Renner -Film Review & Facts",
             "url": "https://www.youtube.com/watch?v=UgrWdPXtk0c",
             "duration": 8549,
-            "view_count": 6937666,
+            "view_count": 6949642,
             "uploader": "Pee Zee Films",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/UgrWdPXtk0c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOweu9Frl3TttzpyTICmqD9INZXA"
@@ -467,7 +467,7 @@
             "title": "Avengers: Endgame Movie (2019) Action\\Sci-fi | Mark Ruffalo, Ava Russo, Frank Grillo - Film Review",
             "url": "https://www.youtube.com/watch?v=rvAAwjG61Es",
             "duration": 10965,
-            "view_count": 8637389,
+            "view_count": 8659875,
             "uploader": "Pee Zee Films",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/rvAAwjG61Es/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvlqIvpPhJ8il2mun1zpc_0P1M7w"
@@ -551,6 +551,16 @@
             "uploader": "Digital Hub",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/gAtPjQDIZ18/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrbN76tWKlHJa59crnp_KBhDhq9A"
+        },
+        {
+            "id": "Vnhf0uIfUO0",
+            "title": "Avengers infinity war full movie 2018 | full movie | Hindi movie dubbed ",
+            "url": "https://www.youtube.com/watch?v=Vnhf0uIfUO0",
+            "duration": 6211,
+            "view_count": 71,
+            "uploader": "Allmovieshub",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/Vnhf0uIfUO0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFgoQDAP&rs=AOn4CLDbAPBm4RbmUW9xbMoVAOU5tbpjIw"
         }
     ]
 }
