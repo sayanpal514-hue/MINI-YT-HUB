@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-16T09:18:16.147731Z",
+    "last_updated": "2026-08-16T09:44:59.595903Z",
     "show_name": "Dragon Ball Super",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Super.",
-    "total_episodes": 41,
+    "total_episodes": 42,
     "episodes": [
         {
             "id": "2UUm1axJzMI",
@@ -51,7 +51,7 @@
             "title": "Goku vs Jiren Full Fight 4k Ultra HD Hindi Dubbed Tournament Of Power Dragon Ball Super",
             "url": "https://www.youtube.com/watch?v=SmkzRlCj2eg",
             "duration": 1231,
-            "view_count": 334919,
+            "view_count": 334947,
             "uploader": "Pratik",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/SmkzRlCj2eg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNClDVB0RVQjcfvMZORaEfS2Mjug"
@@ -271,7 +271,7 @@
             "title": "Dragon Ball Z - Majin Buu Saga [Full 8 hour]",
             "url": "https://www.youtube.com/watch?v=OddLNe6CEqM",
             "duration": 29152,
-            "view_count": 448568,
+            "view_count": 449826,
             "uploader": "Hiphop_viral_zone",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/OddLNe6CEqM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBqAOAAvABigIMCAAQARgZIFcofzAP&rs=AOn4CLAEeJ3_VDFViLoOZBAMEubpEmlMPw"
@@ -415,6 +415,16 @@
             "uploader": "The KAI Games",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/Y8Qw9T1_PdA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlNDx6C2GSU3CXY5IwbZIiJKYPPg"
+        },
+        {
+            "id": "kiiB2K3CUS4",
+            "title": "Dragon ball super last episode 131 in hindi #dragonball #goku",
+            "url": "https://www.youtube.com/watch?v=kiiB2K3CUS4",
+            "duration": 1455,
+            "view_count": 37578,
+            "uploader": "Anime FanGOKU",
+            "category": "anime/dragon_ball_super",
+            "thumbnail": "https://i.ytimg.com/vi/kiiB2K3CUS4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICQoNDAP&rs=AOn4CLADFugKdIjmmcwj3flA5NZe4Ojmkw"
         }
     ]
 }
