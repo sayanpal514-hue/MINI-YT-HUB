@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-16T03:15:45.998658Z",
+    "last_updated": "2026-08-16T04:02:11.801367Z",
     "show_name": "Dragon Ball Super",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Super.",
-    "total_episodes": 39,
+    "total_episodes": 40,
     "episodes": [
         {
             "id": "2UUm1axJzMI",
@@ -395,6 +395,16 @@
             "uploader": "Otaku Sensei BD🇧🇩",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/VIRRX4sbnlM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm9s30LgPkJy5N2SfzyCOpbdTAUw"
+        },
+        {
+            "id": "a9LB9cpS7lo",
+            "title": "DRAGON BALL SUPER : THE TOURNAMENT OF POWER | FULL MOVIE | HINDI DUBBED",
+            "url": "https://www.youtube.com/watch?v=a9LB9cpS7lo",
+            "duration": 8652,
+            "view_count": 41264,
+            "uploader": "Cartoon Aip",
+            "category": "anime/dragon_ball_super",
+            "thumbnail": "https://i.ytimg.com/vi/a9LB9cpS7lo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-UXBBhGJoiTtMNUwCHphqea2OZw"
         }
     ]
 }
