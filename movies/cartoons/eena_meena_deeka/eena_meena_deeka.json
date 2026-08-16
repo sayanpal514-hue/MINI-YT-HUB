@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-16T06:20:44.008249Z",
+    "last_updated": "2026-08-16T07:05:25.119024Z",
     "show_name": "Eena Meena Deeka",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Eena Meena Deeka.",
-    "total_episodes": 62,
+    "total_episodes": 63,
     "episodes": [
         {
             "id": "_c5OSevsdv4",
@@ -231,7 +231,7 @@
             "title": "Eena Meena Deeka 1994 Comedy Full Movie 4K | Vinod Khanna, Rishi Kapoor, Juhi Chawla | 90s Bollywood",
             "url": "https://www.youtube.com/watch?v=ixPKX3TJ_sc",
             "duration": 8501,
-            "view_count": 861128,
+            "view_count": 861149,
             "uploader": "Ultra 4K Movies",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/ixPKX3TJ_sc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6zs4C9B5VrpMfjMBXc0349-sgcQ"
@@ -331,7 +331,7 @@
             "title": "Eena Meena Deeka - Compilation 1 - As seen on Hungama Tv",
             "url": "https://www.youtube.com/watch?v=A89pUAIptuk",
             "duration": 1732,
-            "view_count": 44194434,
+            "view_count": 44194520,
             "uploader": "WowKidz",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/A89pUAIptuk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWe2dyQGW-yaLlKclQd-W4pnt6jg"
@@ -361,7 +361,7 @@
             "title": "Giant Meena! | Eena Meena Deeka | Cartoons for Kids | WildBrain Zoo",
             "url": "https://www.youtube.com/watch?v=RkYBJoGi2v8",
             "duration": 1266,
-            "view_count": 3868647,
+            "view_count": 3868707,
             "uploader": "WildBrain Zoo",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/RkYBJoGi2v8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkVpobkRsOsnDD4gZgPeBEqhjr2g"
@@ -411,7 +411,7 @@
             "title": "Eena Meena Deeka Hindi Comedy Full Movie | Vinod Khanna, Rishi Kapoor, Juhi Chawla",
             "url": "https://www.youtube.com/watch?v=27dLHNRpspQ",
             "duration": 8110,
-            "view_count": 40316,
+            "view_count": 40325,
             "uploader": "Ultra Movie World",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/27dLHNRpspQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJu46awndzLS_lz9RtQKP-r4tAKQ"
@@ -431,10 +431,10 @@
             "title": "Chocolate Factory | Eena Meena Deeka | Full Episodes | Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=8-b7JjtIoh8",
             "duration": 4998,
-            "view_count": 32023,
+            "view_count": 32847,
             "uploader": "Eena Meena Deeka",
             "category": "cartoons/eena_meena_deeka",
-            "thumbnail": "https://i.ytimg.com/vi/8-b7JjtIoh8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCLe6T0WweXQ9GG-vOn_p_tfB1xTQ"
+            "thumbnail": "https://i.ytimg.com/vi/8-b7JjtIoh8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS9FglEuL-5L5wH5UTl1fggXfWKw"
         },
         {
             "id": "_j_BcUdZaRs",
@@ -625,6 +625,16 @@
             "uploader": "WildBrain Zoo",
             "category": "cartoons/eena_meena_deeka",
             "thumbnail": "https://i.ytimg.com/vi/EHaAbjy_oS8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABKu7I_PgktbOquV8WzdPqTk2Prw"
+        },
+        {
+            "id": "_t_oZ5LtSkc",
+            "title": "Happy Holi! | Eena Meena Deeka | Videos for kids",
+            "url": "https://www.youtube.com/watch?v=_t_oZ5LtSkc",
+            "duration": 3437,
+            "view_count": 166341,
+            "uploader": "Eena Meena Deeka",
+            "category": "cartoons/eena_meena_deeka",
+            "thumbnail": "https://i.ytimg.com/vi/_t_oZ5LtSkc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKUvvkhZv0QAOY4xp0VUQHsBxIbQ"
         }
     ]
 }
