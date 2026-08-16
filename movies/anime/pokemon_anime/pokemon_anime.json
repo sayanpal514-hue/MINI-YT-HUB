@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-16T12:16:38.708514Z",
+    "last_updated": "2026-08-16T13:03:44.312616Z",
     "show_name": "Pokemon Anime",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon Anime.",
-    "total_episodes": 46,
+    "total_episodes": 47,
     "episodes": [
         {
             "id": "1TlOcjJodHw",
@@ -31,7 +31,7 @@
             "title": "Pokémon - I Choose You! | FULL EPISODE 1 | Season 1",
             "url": "https://www.youtube.com/watch?v=z3hMX65Khtg",
             "duration": 1343,
-            "view_count": 15507823,
+            "view_count": 15508935,
             "uploader": "Pokémon TV",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/z3hMX65Khtg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDygnxDeS8UP_8pcJQcw3mruHK1KQ"
@@ -41,7 +41,7 @@
             "title": "POKEMON MOVIE [HINDI DUBBED] FULL 4K QUALITY #viral #movie",
             "url": "https://www.youtube.com/watch?v=_JPnwf7Gwh4",
             "duration": 3637,
-            "view_count": 1716801,
+            "view_count": 1716952,
             "uploader": "Mujeeb_FFx",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/_JPnwf7Gwh4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAa5utRE4EOMJe-7yWNFF-QNyHig"
@@ -171,7 +171,7 @@
             "title": "Pokemon Movie I Choose You Full Movie in hindi dubbed #pokemon #anime",
             "url": "https://www.youtube.com/watch?v=4NrEu5khc4g",
             "duration": 4535,
-            "view_count": 88978,
+            "view_count": 89093,
             "uploader": "nagi_0143",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/4NrEu5khc4g/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARh_IEgoJDAP&rs=AOn4CLBEmtJI8ksfABeJ1SK1wFOE76hqRQ"
@@ -251,7 +251,7 @@
             "title": "Pokemon Horizons Episode 100 Full Episode In Hindi | We Are the Rising Volteccers! | Friede Return 🔥",
             "url": "https://www.youtube.com/watch?v=rSe3-pCyAIw",
             "duration": 613,
-            "view_count": 4742,
+            "view_count": 4745,
             "uploader": "Poke` Av 2",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/rSe3-pCyAIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_Bk2muoFofoFGlRtjTMmhpaS4WQ"
@@ -261,7 +261,7 @@
             "title": "ASH VS KUKUI - Full Battle | Pokemon AMV",
             "url": "https://www.youtube.com/watch?v=650_m2Ji8ww",
             "duration": 2134,
-            "view_count": 1643912,
+            "view_count": 1644612,
             "uploader": "ZeraVoltage",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/650_m2Ji8ww/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-fXPTc9iHF4R8Cuif8lA9tp7wFg"
@@ -465,6 +465,16 @@
             "uploader": "Pokémon TV",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/PoZbww_nhBc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK0cJ1cMG2PUHLOild7A0vWdDzaA"
+        },
+        {
+            "id": "teZxo8QeSA8",
+            "title": "Bork Laser meats Sky Man's Revenge",
+            "url": "https://www.youtube.com/watch?v=teZxo8QeSA8",
+            "duration": 5644,
+            "view_count": 89090,
+            "uploader": "Brock E'mon",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/teZxo8QeSA8/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuwCigIMCAAQARhyIFsoMzAP&rs=AOn4CLBrkWWzAO29TQCKO5jovQ6syVI0Fg"
         }
     ]
 }
