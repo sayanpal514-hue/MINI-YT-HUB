@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-16T16:12:33.911114Z",
+    "last_updated": "2026-08-16T16:45:45.607684Z",
     "show_name": "Spy X Family",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Spy X Family.",
-    "total_episodes": 20,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "pRuW10v8Wn4",
@@ -194,7 +194,7 @@
             "view_count": 82,
             "uploader": "Hunter Senpai",
             "category": "anime/spy_x_family",
-            "thumbnail": "https://i.ytimg.com/vi/gZrJKle_K0w/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCU705-_bQQgTDu2voxbEFpD2nWGw"
+            "thumbnail": "https://i.ytimg.com/vi/gZrJKle_K0w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9wrv_LvICIPsP8RLUIcLkbMtHJw"
         },
         {
             "id": "B_5RPAixkG4",
@@ -204,7 +204,37 @@
             "view_count": null,
             "uploader": "Disney Channel Animation",
             "category": "anime/spy_x_family",
-            "thumbnail": "https://i.ytimg.com/vi/B_5RPAixkG4/hq720.jpg?v=695ee87a&sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBwCVLYJbqLOUKAzbO1MMttM2yhdQ"
+            "thumbnail": "https://i.ytimg.com/vi/B_5RPAixkG4/hq720.jpg?v=695ee87a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSQBlz9LRQQqp3muv4UsBC8H9gUA"
+        },
+        {
+            "id": "Fo5Dy9prYkY",
+            "title": "The World's Finest Assassin Episode 1 English Dub | Quantum of Trust",
+            "url": "https://www.youtube.com/watch?v=Fo5Dy9prYkY",
+            "duration": 1430,
+            "view_count": 166253,
+            "uploader": "Crunchyroll",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/Fo5Dy9prYkY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSwnrLUHpQDjirkctff53l4Mrb8w"
+        },
+        {
+            "id": "qkLkdc32KGs",
+            "title": "How I Crossed The World With $0",
+            "url": "https://www.youtube.com/watch?v=qkLkdc32KGs",
+            "duration": 11149,
+            "view_count": 7270511,
+            "uploader": "Niko Omilana",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/qkLkdc32KGs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsDOeXR2gdOaJhioPYFsRXPqHKNw"
+        },
+        {
+            "id": "ymJZJXk1cgw",
+            "title": "After One Night🔥Handsome CEO Becomes Crazily😧Addicted Searching & Chasing😈 even when she refuses😏",
+            "url": "https://www.youtube.com/watch?v=ymJZJXk1cgw",
+            "duration": 3512,
+            "view_count": 1203372,
+            "uploader": "Asian Drama Pocket",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/ymJZJXk1cgw/hq720_custom_2.jpg?sqp=CODPh9QG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCELDb6CdONLow3CIru3rAsqgyiaA"
         }
     ]
 }
