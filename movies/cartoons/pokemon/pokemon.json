@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-16T18:12:51.894388Z",
+    "last_updated": "2026-08-16T18:49:50.963850Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 74,
+    "total_episodes": 75,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -271,7 +271,7 @@
             "title": "Pokemon Battle Ash Charizard Vs Dragonite Orange League Final In Hindi",
             "url": "https://www.youtube.com/watch?v=jVcAehqB47M",
             "duration": 1168,
-            "view_count": 264969,
+            "view_count": 265116,
             "uploader": "TNxLE.RMS!",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/jVcAehqB47M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJMSZVAr0Meb0SQAjVLnkrut6p6w"
@@ -531,7 +531,7 @@
             "title": "Gymbaliar! | POKÉMON FULL EPISODE 8 | Season 10",
             "url": "https://www.youtube.com/watch?v=ZnWM2Anm9MU",
             "duration": 1271,
-            "view_count": 199860,
+            "view_count": 200703,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/ZnWM2Anm9MU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASrBUg5iZM1a6jv5aqicQmD9sGfw"
@@ -571,7 +571,7 @@
             "title": "Doraemon New Episode 2-08-2026 - Episode 01 - Doraemon Cartoon - Doraemon In Hindi - Doraemon Movie",
             "url": "https://www.youtube.com/watch?v=PyBaobBVfP0",
             "duration": 1988,
-            "view_count": 39498,
+            "view_count": 62742,
             "uploader": "Study with Bhuvi",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/PyBaobBVfP0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEgoQDAP&rs=AOn4CLCLqQSdbYqSL8Jtmu41Nr1eWnsqfw"
@@ -745,6 +745,16 @@
             "uploader": "mostly champ",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/B31-iYmkdTw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBB1k-SbUXKAGDelpzX7FNrWbJzw"
+        },
+        {
+            "id": "XOH8p3-9Ijo",
+            "title": "Doraemon Latest Edpisode in hindi without zoom effect | Doraemon New episode in hindi",
+            "url": "https://www.youtube.com/watch?v=XOH8p3-9Ijo",
+            "duration": 1456,
+            "view_count": 586826,
+            "uploader": "Subtoon Network",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/XOH8p3-9Ijo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7Fb-7_m1FWFc7jvV498WtLy6Orw"
         }
     ]
 }
