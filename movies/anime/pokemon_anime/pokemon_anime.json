@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-17T21:16:33.739034Z",
+    "last_updated": "2026-08-17T21:43:53.934246Z",
     "show_name": "Pokemon Anime",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon Anime.",
-    "total_episodes": 54,
+    "total_episodes": 55,
     "episodes": [
         {
             "id": "1TlOcjJodHw",
@@ -31,7 +31,7 @@
             "title": "Pokémon - I Choose You! | FULL EPISODE 1 | Season 1",
             "url": "https://www.youtube.com/watch?v=z3hMX65Khtg",
             "duration": 1343,
-            "view_count": 15562222,
+            "view_count": 15563589,
             "uploader": "Pokémon TV",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/z3hMX65Khtg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDygnxDeS8UP_8pcJQcw3mruHK1KQ"
@@ -41,7 +41,7 @@
             "title": "POKEMON MOVIE [HINDI DUBBED] FULL 4K QUALITY #viral #movie",
             "url": "https://www.youtube.com/watch?v=_JPnwf7Gwh4",
             "duration": 3637,
-            "view_count": 1721889,
+            "view_count": 1721964,
             "uploader": "Mujeeb_FFx",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/_JPnwf7Gwh4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAa5utRE4EOMJe-7yWNFF-QNyHig"
@@ -91,7 +91,7 @@
             "title": "Showdown in Pewter City | POKÉMON FULL EPISODE 5 | Season 1",
             "url": "https://www.youtube.com/watch?v=COr4zRFX0Gw",
             "duration": 1343,
-            "view_count": 4153907,
+            "view_count": 4154122,
             "uploader": "Pokémon TV",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/COr4zRFX0Gw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBkn6S7S99XK54RoJDmZWxwQJoGg"
@@ -221,7 +221,7 @@
             "title": "Pokémon new movie 🎦 [FULL MOVIE IN HINDI DUBBED]1080p {IN HINDI]",
             "url": "https://www.youtube.com/watch?v=Gw8SLeMLuvc",
             "duration": 3637,
-            "view_count": 228050,
+            "view_count": 228052,
             "uploader": "MrPiko",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/Gw8SLeMLuvc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWFq18oZVHGjX5lTQM7JcF7_Pvtg"
@@ -545,6 +545,16 @@
             "uploader": "Pokeferlax",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/5FHPb_y_x20/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE5QLS6s9YZcjCev0goTG3Y3A3Lw"
+        },
+        {
+            "id": "Y-YziFq1pqE",
+            "title": "THE LAWS OF THE UNIVERSE PART1 | Japanese Anime | Hindi Dubbed　『宇宙の法ー黎明編ー』",
+            "url": "https://www.youtube.com/watch?v=Y-YziFq1pqE",
+            "duration": 7159,
+            "view_count": 1554574,
+            "uploader": "Happy Science India",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/Y-YziFq1pqE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD49RG0OGpdMhdR7GHlknr4fXnabg"
         }
     ]
 }
