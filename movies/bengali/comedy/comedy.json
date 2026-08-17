@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-16T23:53:18.802853Z",
-    "total_movies": 60,
+    "last_updated": "2026-08-17T00:32:44.195162Z",
+    "total_movies": 61,
     "movies": [
         {
             "id": "Xjyh0O0-XIs",
@@ -57,7 +57,7 @@
             "title": "Mauchaak - Bengali Full Movie | Uttam Kumar | Ranjit Mallick | Mithu Mukherjee | Sabitri Chatterjee",
             "url": "https://www.youtube.com/watch?v=02lIgdxMhws",
             "duration": 7771,
-            "view_count": 3337701,
+            "view_count": 3337706,
             "uploader": "Uttam Kumar Movies",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/02lIgdxMhws/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWm9IKN53HBz_QDgk6KEjHF2vWGw"
@@ -67,7 +67,7 @@
             "title": "Ghatkali | ঘটকালি - Bengali Full Movie | Mahua Roy Choudhury | Rabi Ghosh | Partho Mukerjee",
             "url": "https://www.youtube.com/watch?v=-Qw-dtC0N_U",
             "duration": 7159,
-            "view_count": 146069,
+            "view_count": 146071,
             "uploader": "Bengali Movies with English Subtitle",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/-Qw-dtC0N_U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuqAwaCBfHNdB2_Qwwshi9z9eLVQ"
@@ -197,7 +197,7 @@
             "title": "Aasharey Goppo (আষাঢ়ে গপ্পো) Full Movie | Abir Chatterjee, Rudranil Ghosh, Payel Sarkar | Arindam C",
             "url": "https://www.youtube.com/watch?v=gJ-We80xFHY",
             "duration": 6133,
-            "view_count": 219913,
+            "view_count": 219977,
             "uploader": "Echo Bengali Movie",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/gJ-We80xFHY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6-rseNiyBIKbn7zc5HXqOcgYmcQ"
@@ -267,7 +267,7 @@
             "title": "Keranir Jibon | কেরানীর জীবন - Bengali Full Movie | Bhanu Bandopadhyay | Jahor Roy | Tulsi",
             "url": "https://www.youtube.com/watch?v=ymPy88WqieU",
             "duration": 7209,
-            "view_count": 109115,
+            "view_count": 109151,
             "uploader": "Bengali Movies- Angel Digital",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/ymPy88WqieU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX5cv2LE5NX5H89d9HPzZZcGnbRQ"
@@ -601,6 +601,16 @@
             "uploader": "Bengali Movies- Angel Digital",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/vUcvCS2uAKY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj11NbiHQqjlKhgT_IvWz5-IvzRg"
+        },
+        {
+            "id": "Z4Oq2I27m7k",
+            "title": "Dum Dum Digha Digha - Bangla Movie - Anindita Bose, Sourav Das, Rita Koiral",
+            "url": "https://www.youtube.com/watch?v=Z4Oq2I27m7k",
+            "duration": 6843,
+            "view_count": 995892,
+            "uploader": "Zee Movies Bangla",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/Z4Oq2I27m7k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjkGipKSOapxYH9F3OKAeaOOmAdw"
         }
     ]
 }
