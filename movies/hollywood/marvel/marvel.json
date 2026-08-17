@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-08-17T16:14:43.854576Z",
-    "total_movies": 65,
+    "last_updated": "2026-08-17T16:48:51.292571Z",
+    "total_movies": 66,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
             "title": "New Hollywood (2023) Full Movie in Hindi Dubbed | Latest Hollywood Action Movie | The Rock",
             "url": "https://www.youtube.com/watch?v=LGpWtBA_SwE",
             "duration": 7592,
-            "view_count": 639822,
+            "view_count": 639810,
             "uploader": "loans hai",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/LGpWtBA_SwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT-QJ1XGhKyi5SDnzBqMiv1y1dgw"
@@ -17,7 +17,7 @@
             "title": "Avengers Infinity War Full Movie in Hindi Dubbed | Thanos | Thor| Iron Man | Avengers 3 Infinity War",
             "url": "https://www.youtube.com/watch?v=zlD739a7YA8",
             "duration": 7981,
-            "view_count": 957587,
+            "view_count": 957846,
             "uploader": "MoviesLover0",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/zlD739a7YA8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwlud_AGXvBbtVJfqrnbFb_QRsmg"
@@ -37,7 +37,7 @@
             "title": "KINGSMAN Part 1 Hindi Dubbed Movie 2022",
             "url": "https://www.youtube.com/watch?v=dXc7iPfCBZA",
             "duration": 7111,
-            "view_count": 2015780,
+            "view_count": 2015822,
             "uploader": "MovieMorsels",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/dXc7iPfCBZA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAAaEho8fuGO-OcBDTB2-9_3bjqw"
@@ -157,7 +157,7 @@
             "title": "Spider Man Brand New Day Full Movie in Hindi 2026 | Tom Holland, Jacob Batalon | Commentary & Story",
             "url": "https://www.youtube.com/watch?v=uBVP7CGpafw",
             "duration": 8782,
-            "view_count": 808247,
+            "view_count": 811113,
             "uploader": "MOVIES TOMBI",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/uBVP7CGpafw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnZwI4Ef1XNKsH1f84pbmlVbsYzg"
@@ -527,7 +527,7 @@
             "title": "Venom - 3 - Full Movie Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=2eWKmW3OVFI",
             "duration": 8189,
-            "view_count": 1178,
+            "view_count": 1291,
             "uploader": "Bhushan Movies",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/2eWKmW3OVFI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTMRbcETe_8QHOnfzA7KrrtdFnrw"
@@ -651,6 +651,16 @@
             "uploader": "Movie Youtube Page's",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/x2DBiNsWNSM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0XqPQSQ6TPwUqPlC_OcqiLWAeNw"
+        },
+        {
+            "id": "y_N_iHyq5j4",
+            "title": "Avengers Doomsday Full Movie in Hindi Dubbed | New Hollywood Superhit Movie 2026 | Full Movie",
+            "url": "https://www.youtube.com/watch?v=y_N_iHyq5j4",
+            "duration": 10332,
+            "view_count": 0,
+            "uploader": "24 Cartoons",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/y_N_iHyq5j4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANiCLVTtkcByqX_w9H_p2Kmyn7LQ"
         }
     ]
 }
