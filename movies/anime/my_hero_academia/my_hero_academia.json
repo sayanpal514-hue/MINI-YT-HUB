@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-17T19:03:15.557737Z",
+    "last_updated": "2026-08-17T19:45:25.393472Z",
     "show_name": "My Hero Academia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for My Hero Academia.",
-    "total_episodes": 19,
+    "total_episodes": 20,
     "episodes": [
         {
             "id": "9brrbcdbZZs",
@@ -21,7 +21,7 @@
             "title": "My Hero Academia Season 1-6 Explained in hindi full recap",
             "url": "https://www.youtube.com/watch?v=ApU0xOU_PRE",
             "duration": 9631,
-            "view_count": 593006,
+            "view_count": 593036,
             "uploader": "VIPER ANIME",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/ApU0xOU_PRE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCsozVUyuPECoY7ivI5KAch26zYw"
@@ -151,10 +151,10 @@
             "title": "Uraraka and Deku having a crush on each other for 11 minutes (Dub/Sub)",
             "url": "https://www.youtube.com/watch?v=v4weUj_-QDY",
             "duration": 662,
-            "view_count": 13269445,
+            "view_count": 13269834,
             "uploader": "Everything In a nutshell",
             "category": "anime/my_hero_academia",
-            "thumbnail": "https://i.ytimg.com/vi/v4weUj_-QDY/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA01ZSZR-oanNsrG6E2JYewXVGq-A"
+            "thumbnail": "https://i.ytimg.com/vi/v4weUj_-QDY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUuCe8jhf5l6zcCU5CViqq1vtqQA"
         },
         {
             "id": "VkS0tW9gwyE",
@@ -195,6 +195,16 @@
             "uploader": "JIO HOTSTAR ANIME",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/MDBr3X1IWck/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS0hTDgSYQNngA8GuQqOovIbc92w"
+        },
+        {
+            "id": "c-cWItEsoy4",
+            "title": "My Hero Academia ABRIDGED the MOVIE",
+            "url": "https://www.youtube.com/watch?v=c-cWItEsoy4",
+            "duration": 3653,
+            "view_count": 4054058,
+            "uploader": "JoyRide",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/c-cWItEsoy4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMq6WSX3hkjZRUd6AfZ2-G51F4wQ"
         }
     ]
 }
