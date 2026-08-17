@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-17T13:55:57.999056Z",
+    "last_updated": "2026-08-17T14:17:54.267960Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 76,
+    "total_episodes": 77,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -261,7 +261,7 @@
             "title": "Pokemon full in hindi || Season 1 episode 34 fully in hindi || #pokemon anime #Poke'Solo",
             "url": "https://www.youtube.com/watch?v=sk9AScPi7Jc",
             "duration": 1086,
-            "view_count": 329996,
+            "view_count": 330054,
             "uploader": "Poke'Solo",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNi6Zt9PM2kRZg87m5c7hvk_z6Lg"
@@ -321,7 +321,7 @@
             "title": "The Punchy Pokémon | FULL EPISODE 28 | Season 1",
             "url": "https://www.youtube.com/watch?v=_LhB0LIQlQ0",
             "duration": 1343,
-            "view_count": 2868436,
+            "view_count": 2868475,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/_LhB0LIQlQ0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0v7CdOswDuIeuuyG-4nBdO90DWQ"
@@ -361,7 +361,7 @@
             "title": "Island of the Giant Pokémon | FULL EPISODE 17 | Season 1",
             "url": "https://www.youtube.com/watch?v=R-GNznqs7cI",
             "duration": 1343,
-            "view_count": 3559279,
+            "view_count": 3559329,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/R-GNznqs7cI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClkw4JXBqmJOpQg_Nz8orJ4JKLYw"
@@ -391,7 +391,7 @@
             "title": "The Ghost of Maiden’s Peak | POKÉMON FULL EPISODE 19 | Season 1",
             "url": "https://www.youtube.com/watch?v=boY4QaYhBeM",
             "duration": 1343,
-            "view_count": 2268866,
+            "view_count": 2268902,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/boY4QaYhBeM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS1Zr81--vX54dLwmoVnjkdLy4fw"
@@ -765,6 +765,16 @@
             "uploader": "MrClario Prime ",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/ANp7pUShPu0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByLPTq8bQBSlsxNb8tdGDAofvFHA"
+        },
+        {
+            "id": "Z_F4IEQFdM8",
+            "title": "Blossom’s Dream 🌸 | POKÉTOON Shorts",
+            "url": "https://www.youtube.com/watch?v=Z_F4IEQFdM8",
+            "duration": 816,
+            "view_count": 3863164,
+            "uploader": "The Official Pokémon YouTube channel",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/Z_F4IEQFdM8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcIuLq6k9ONqYKUyr4KGyS2cc_4A"
         }
     ]
 }
