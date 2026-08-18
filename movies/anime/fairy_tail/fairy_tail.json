@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-18T23:12:25.653047Z",
+    "last_updated": "2026-08-18T23:39:20.083476Z",
     "show_name": "Fairy Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Fairy Tail.",
-    "total_episodes": 64,
+    "total_episodes": 65,
     "episodes": [
         {
             "id": "pGN56s0f3lo",
@@ -171,7 +171,7 @@
             "title": "प्यार का तड़का | The Secret Ingredient in Hindi | @HindiFairyTales",
             "url": "https://www.youtube.com/watch?v=UISirTf4HKM",
             "duration": 805,
-            "view_count": 3542035,
+            "view_count": 3542140,
             "uploader": "Hindi Fairy Tales",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/UISirTf4HKM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgOhf-DokHLJr0TaHf0GXewOsw6w"
@@ -311,7 +311,7 @@
             "title": "\"✨Princess Charm School (in hindi dubbed): The Ultimate Guide to Becoming Royalty!👑",
             "url": "https://www.youtube.com/watch?v=Of3oTndFExk",
             "duration": 4120,
-            "view_count": 924339,
+            "view_count": 924648,
             "uploader": "Majical fairytales Urdu",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/Of3oTndFExk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf9NIyfuVC_QEGRP9F4p069Uh0ug"
@@ -641,10 +641,20 @@
             "title": "Maleficent Full Movie in Hindi | Angelina Jolie | Elle Fanning | Sharlto Copley | Explained & Story",
             "url": "https://www.youtube.com/watch?v=atwp2iZOMEU",
             "duration": 8854,
-            "view_count": 55984,
+            "view_count": 56026,
             "uploader": "CINE SHIKARI",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/atwp2iZOMEU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA27_pMkxyAg0xqVU9PPCJrxYEIMA"
+        },
+        {
+            "id": "fEnDvuZJHRA",
+            "title": "Two Elite Boys Fall in Love with One Poor Girl🔥Dreaming of Freaking Fairytale🧚‍♀️Full Movie in Hindi",
+            "url": "https://www.youtube.com/watch?v=fEnDvuZJHRA",
+            "duration": 3719,
+            "view_count": 2072253,
+            "uploader": "Asian Drama Insights",
+            "category": "anime/fairy_tail",
+            "thumbnail": "https://i.ytimg.com/vi/fEnDvuZJHRA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFrerFz1zQ_UNwhym8A17XHWZ0Ag"
         }
     ]
 }
