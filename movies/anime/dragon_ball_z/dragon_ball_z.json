@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-18T21:40:14.535613Z",
+    "last_updated": "2026-08-18T21:56:33.957134Z",
     "show_name": "Dragon Ball Z",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Z.",
-    "total_episodes": 66,
+    "total_episodes": 67,
     "episodes": [
         {
             "id": "n1Gdmkmaxn8",
@@ -71,7 +71,7 @@
             "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan (1993) BluRay Multi Audio [Hindi ] 720p & 1080p HD",
             "url": "https://www.youtube.com/watch?v=taACLMBWt9E",
             "duration": 2519,
-            "view_count": 829190,
+            "view_count": 829211,
             "uploader": "ANIMO INDIA",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/taACLMBWt9E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-AE5KrUy1QU9hM0rtvVqROEwfaw"
@@ -111,7 +111,7 @@
             "title": "Dragon Ball Z | The Return Of Cooler | Hindi Dubbed| (Office Hindi Dubbed Movie) @SnazzyAnime ",
             "url": "https://www.youtube.com/watch?v=pcTEJtnloNk",
             "duration": 2381,
-            "view_count": 52696,
+            "view_count": 52775,
             "uploader": "Snazzy Anime",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/pcTEJtnloNk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2aw1FmvEN7_xd5yvtpmW9C5tSsw"
@@ -141,7 +141,7 @@
             "title": "Dragon Ball Z Episode 1in Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=r5nbjb_S3Zg",
             "duration": 1282,
-            "view_count": 34138,
+            "view_count": 34142,
             "uploader": "अरुण कुमार एसएसजी 2.              Arun Kumar Ssg 2",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/r5nbjb_S3Zg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ32rgTTMEgTi9G3-Q0EOMg58y3A"
@@ -181,7 +181,7 @@
             "title": "DRAGON BALL Z ANIME WAR FULL MOVIE RISE OF THE EVILL GODS HINDI DUBBED FULL MOVIE HD",
             "url": "https://www.youtube.com/watch?v=XCy1f0gjD8M",
             "duration": 12173,
-            "view_count": 935640,
+            "view_count": 935675,
             "uploader": "RYUXIT 🖤",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/XCy1f0gjD8M/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBMofzAP&rs=AOn4CLC-D39IannNpj2LraFYhNZPCdU7zQ"
@@ -321,7 +321,7 @@
             "title": "Dragon Ball DAIMA All Episodes in Hindi | Full Series Sigma Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=D1iKisFj9LE",
             "duration": 3808,
-            "view_count": 62268,
+            "view_count": 62334,
             "uploader": "Animeverse",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/D1iKisFj9LE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX5fREV9MQHlY081GrmVoOj_N3mw"
@@ -665,6 +665,16 @@
             "uploader": "Dragon Ball Universe",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/jd5fiMzOrAA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbFh7tGG4jsEDvweoe2ergLwO-9w"
+        },
+        {
+            "id": "G0TqYb8Irj8",
+            "title": "gohan vs bojack full movie in hindi gohan prime fight scene",
+            "url": "https://www.youtube.com/watch?v=G0TqYb8Irj8",
+            "duration": 3027,
+            "view_count": 15936,
+            "uploader": "Frame Verdict ",
+            "category": "anime/dragon_ball_z",
+            "thumbnail": "https://i.ytimg.com/vi/G0TqYb8Irj8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAArQFigIMCAAQARhyIFcoOTAP&rs=AOn4CLAxcBbD8qo2CRG_h0M4ZxUQy-FgaQ"
         }
     ]
 }
