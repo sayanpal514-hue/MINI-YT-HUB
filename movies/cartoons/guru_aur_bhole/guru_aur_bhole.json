@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-18T22:12:02.162293Z",
+    "last_updated": "2026-08-18T22:43:55.648108Z",
     "show_name": "Guru Aur Bhole",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Guru Aur Bhole.",
-    "total_episodes": 125,
+    "total_episodes": 126,
     "episodes": [
         {
             "id": "1FjrvCRpOVs",
@@ -221,7 +221,7 @@
             "title": "भोले बना बड़बोले | Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=dqOP4-yKM5Y",
             "duration": 664,
-            "view_count": 4013585,
+            "view_count": 4013570,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/dqOP4-yKM5Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXd8rszxJf0RwlPNFfvoQw-Ttjsg"
@@ -261,7 +261,7 @@
             "title": "भोले ने बनाये बुलबुले I Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Cartoon for kids",
             "url": "https://www.youtube.com/watch?v=xL2GQ0O7z0s",
             "duration": 682,
-            "view_count": 207389,
+            "view_count": 207391,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/xL2GQ0O7z0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIrTqofUYZDj2J-RMtFbu09Inefg"
@@ -471,7 +471,7 @@
             "title": "आँख मेंचौली का किस्सा | Guru Aur Bhole | Cartoon for Kids",
             "url": "https://www.youtube.com/watch?v=Z4LQF0A-ix8",
             "duration": 667,
-            "view_count": 146375,
+            "view_count": 146376,
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/Z4LQF0A-ix8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnIWrryUt2OsUz1DP08lZmHvW7mw"
@@ -531,7 +531,7 @@
             "title": "Guru Aur Bhole The Gladiators | Guru Bhole Full Movie In Hindi | Kids Cartoon Movie | Moral Stories",
             "url": "https://www.youtube.com/watch?v=7NgyPV0-hrg",
             "duration": 4470,
-            "view_count": 182801,
+            "view_count": 182809,
             "uploader": "Chillar Party",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/7NgyPV0-hrg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLP579uQ5vssdJsOo-OGZNwyuFrw"
@@ -1255,6 +1255,16 @@
             "uploader": "YAY! Time With Guru Bhole",
             "category": "cartoons/guru_aur_bhole",
             "thumbnail": "https://i.ytimg.com/vi/uAICxGQ9_BQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCURqj_YcCHPOmrOKaAMO1sfAc65Q"
+        },
+        {
+            "id": "URqc_dSoOb8",
+            "title": "Bhole बना Batman | Guru Aur Bhole | Cartoon For Kids In Hindi | Moral Stories",
+            "url": "https://www.youtube.com/watch?v=URqc_dSoOb8",
+            "duration": 659,
+            "view_count": 387612,
+            "uploader": "Cartoon Dekho",
+            "category": "cartoons/guru_aur_bhole",
+            "thumbnail": "https://i.ytimg.com/vi/URqc_dSoOb8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdRsQW0olfc0gwsyAGI2L0EhwStw"
         }
     ]
 }
