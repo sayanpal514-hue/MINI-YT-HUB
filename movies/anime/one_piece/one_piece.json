@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-18T00:31:21.283199Z",
+    "last_updated": "2026-08-18T02:04:55.471970Z",
     "show_name": "One Piece",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for One Piece.",
-    "total_episodes": 17,
+    "total_episodes": 18,
     "episodes": [
         {
             "id": "jPX2ndKV2Xw",
             "title": "One Piece Episode 1: Hindi Dubbed - The Start of an Epic Adventure!",
             "url": "https://www.youtube.com/watch?v=jPX2ndKV2Xw",
             "duration": 818,
-            "view_count": 30957,
+            "view_count": 31004,
             "uploader": "Nandani Art",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/jPX2ndKV2Xw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg8IFwocjAP&rs=AOn4CLCvo1qUPCn0-dovpYZtYA9wtKhYsg"
@@ -41,7 +41,7 @@
             "title": "One Piece (2023) Full SEASON 1 Explained in Hindi | All Episodes | Series Explored",
             "url": "https://www.youtube.com/watch?v=KYuFzpVzw54",
             "duration": 4568,
-            "view_count": 1175395,
+            "view_count": 1175407,
             "uploader": "Series Explored ",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/KYuFzpVzw54/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuyJC91d0yu8hWskPC8WWWCk5msQ"
@@ -51,7 +51,7 @@
             "title": "ZORO past life | one piece sigma 🗿 moments in hindi luffy funny moments in hindi part 4",
             "url": "https://www.youtube.com/watch?v=4gxBaQy6NZU",
             "duration": 983,
-            "view_count": 192523,
+            "view_count": 192544,
             "uploader": "DARK AMV-X",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/4gxBaQy6NZU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFDvoGNc-sfOnhOVyM4beIhuHwwg"
@@ -91,7 +91,7 @@
             "title": "Deadly TRESURE Hunt 🪙🏴‍☠️ | One Piece (2026) Full SEASON 2 All Episodes Explained in हिन्दी",
             "url": "https://www.youtube.com/watch?v=xwluERMoooI",
             "duration": 4994,
-            "view_count": 252308,
+            "view_count": 252323,
             "uploader": "Series Explored ",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/xwluERMoooI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3uSl3Cp4c6wmI73U8bSXWEtd4Vg"
@@ -161,10 +161,10 @@
             "title": "Entire Story of One Piece S1 (Netflix) Explained in Hindi! | Live Action",
             "url": "https://www.youtube.com/watch?v=8P_p1bz_vwM",
             "duration": 1095,
-            "view_count": 30811,
+            "view_count": 30852,
             "uploader": "AnimeTm Talks",
             "category": "anime/one_piece",
-            "thumbnail": "https://i.ytimg.com/vi/8P_p1bz_vwM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAtsK2aVdAveHqqkaLKuaEt1sXxWw"
+            "thumbnail": "https://i.ytimg.com/vi/8P_p1bz_vwM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb5R94YaHJMuIsmoIdVebwwLNXcw"
         },
         {
             "id": "o47I1pbgcgk",
@@ -175,6 +175,16 @@
             "uploader": "SK ANIME ENGLISH",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/o47I1pbgcgk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaJlmMbMnOCl4UkZh1qFLtW4DGEw"
+        },
+        {
+            "id": "MP9S6M99yd0",
+            "title": "One piece Episode 02 in hindi dubbed ",
+            "url": "https://www.youtube.com/watch?v=MP9S6M99yd0",
+            "duration": 927,
+            "view_count": 7,
+            "uploader": "Anup Hub 🇯🇵",
+            "category": "anime/one_piece",
+            "thumbnail": "https://i.ytimg.com/vi/MP9S6M99yd0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLj-Wt4hsbQ56T2CRfPq-8pkRgIA"
         }
     ]
 }
