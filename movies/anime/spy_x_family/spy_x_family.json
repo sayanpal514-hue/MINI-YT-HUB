@@ -1,20 +1,20 @@
 {
-    "last_updated": "2026-08-18T13:14:31.845297Z",
+    "last_updated": "2026-08-18T13:59:49.564565Z",
     "show_name": "Spy X Family",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Spy X Family.",
-    "total_episodes": 25,
+    "total_episodes": 26,
     "episodes": [
         {
             "id": "pRuW10v8Wn4",
             "title": "Spy x Family Season 1 full Story Explained in Hindi' #spyxfamily",
             "url": "https://www.youtube.com/watch?v=pRuW10v8Wn4",
             "duration": 2732,
-            "view_count": 157020,
+            "view_count": 157038,
             "uploader": "MUSSU EXPLAINER",
             "category": "anime/spy_x_family",
-            "thumbnail": "https://i.ytimg.com/vi/pRuW10v8Wn4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARFkuKIQlo2eIMq9hxXNgby5-2eA"
+            "thumbnail": "https://i.ytimg.com/vi/pRuW10v8Wn4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC9MzxtrjnCrac4YqObayvCyMTLbQ"
         },
         {
             "id": "X_eAoF5bQ0k",
@@ -255,6 +255,16 @@
             "uploader": "FilmIsNow Epic Scenes",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/6JCuudj-ke4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYTgVxnX8qEh22l4vQpkmwvHqWjg"
+        },
+        {
+            "id": "7fojfyqMuHg",
+            "title": "Spy x Family Season 5 Episode 4 Explained | Desmond Family Dark Secret REVEALED! 😱",
+            "url": "https://www.youtube.com/watch?v=7fojfyqMuHg",
+            "duration": 1077,
+            "view_count": 14938,
+            "uploader": "Hunter Verse",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/7fojfyqMuHg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAW5pLiEQA7EyJZM0O2oyNi3WNymA"
         }
     ]
 }
