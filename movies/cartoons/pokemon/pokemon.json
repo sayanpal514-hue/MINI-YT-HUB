@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-19T08:56:58.490682Z",
+    "last_updated": "2026-08-19T09:23:00.818832Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 83,
+    "total_episodes": 84,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -261,7 +261,7 @@
             "title": "Pokemon full in hindi || Season 1 episode 34 fully in hindi || #pokemon anime #Poke'Solo",
             "url": "https://www.youtube.com/watch?v=sk9AScPi7Jc",
             "duration": 1086,
-            "view_count": 330457,
+            "view_count": 330480,
             "uploader": "Poke'Solo",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNi6Zt9PM2kRZg87m5c7hvk_z6Lg"
@@ -271,7 +271,7 @@
             "title": "Pokemon Battle Ash Charizard Vs Dragonite Orange League Final In Hindi",
             "url": "https://www.youtube.com/watch?v=jVcAehqB47M",
             "duration": 1168,
-            "view_count": 266452,
+            "view_count": 266467,
             "uploader": "TNxLE.RMS!",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/jVcAehqB47M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJMSZVAr0Meb0SQAjVLnkrut6p6w"
@@ -311,7 +311,7 @@
             "title": "The Flame Pokémon-athon! | FULL EPISODE 32 | Season 1",
             "url": "https://www.youtube.com/watch?v=RYdXQlBjjPI",
             "duration": 1343,
-            "view_count": 3187893,
+            "view_count": 3187924,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/RYdXQlBjjPI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCznL3EiW8DiZCz7_8cHrMiuidWZA"
@@ -331,7 +331,7 @@
             "title": "Volcanic Panic  | POKÉMON FULL EPISODE 4 | Season 2",
             "url": "https://www.youtube.com/watch?v=fokk0u5Yr5Y",
             "duration": 1418,
-            "view_count": 3560059,
+            "view_count": 3560112,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/fokk0u5Yr5Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwIfmTeIQtiDih0Wtdf7EEFKXC-w"
@@ -361,7 +361,7 @@
             "title": "Island of the Giant Pokémon | FULL EPISODE 17 | Season 1",
             "url": "https://www.youtube.com/watch?v=R-GNznqs7cI",
             "duration": 1343,
-            "view_count": 3570524,
+            "view_count": 3570581,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/R-GNznqs7cI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClkw4JXBqmJOpQg_Nz8orJ4JKLYw"
@@ -401,7 +401,7 @@
             "title": "हिंदी Pokemon Season 1 episode 1-🐮Pokémon INDIDO LEAGUE एपिसोड (1)  | Pokémon (HINDI)हिंदी  All in 1",
             "url": "https://www.youtube.com/watch?v=4RW7HoRqqpU",
             "duration": 1156,
-            "view_count": 43549,
+            "view_count": 43555,
             "uploader": "Eox",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/4RW7HoRqqpU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhFV4amk9kDgd_wgsKXNZpSYtpjw"
@@ -835,6 +835,16 @@
             "uploader": "Cool Infernape",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/MjD0QeSwOQw/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAanNZ5YED50TPSQ5OeIwYp25KN9Q"
+        },
+        {
+            "id": "w5PQo86APeo",
+            "title": "Pokemon Indigo League || Episode 1 || I Choose To",
+            "url": "https://www.youtube.com/watch?v=w5PQo86APeo",
+            "duration": 1217,
+            "view_count": 14698,
+            "uploader": "Pikashwo Official",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/w5PQo86APeo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYEdA58VnKwKJ6_Ogbj3lGTqT49Q"
         }
     ]
 }
