@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-19T04:01:49.923203Z",
+    "last_updated": "2026-08-19T04:37:22.042820Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 38,
+    "total_episodes": 39,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
@@ -21,7 +21,7 @@
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832,
-            "view_count": 780847,
+            "view_count": 780850,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -385,6 +385,16 @@
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/qfi05OkJ1As/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9GWlyuoxeLY-mMx1jiz-lzvGCFQ"
+        },
+        {
+            "id": "mIzhU4W57Es",
+            "title": "Tik Tak Tail | Rabbit Tak | Cartoon Compilation | Funny Cartoons | WildBrain Kids",
+            "url": "https://www.youtube.com/watch?v=mIzhU4W57Es",
+            "duration": 832,
+            "view_count": 4944,
+            "uploader": "WildBrain Action Arena",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/mIzhU4W57Es/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoYzAP&rs=AOn4CLDJMIhJGeEJ76jmvHc3n1s-eDhF8A"
         }
     ]
 }

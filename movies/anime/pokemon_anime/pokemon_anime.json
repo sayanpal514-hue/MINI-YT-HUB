@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-19T04:01:49.863956Z",
+    "last_updated": "2026-08-19T04:37:22.087978Z",
     "show_name": "Pokemon Anime",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon Anime.",
-    "total_episodes": 57,
+    "total_episodes": 61,
     "episodes": [
         {
             "id": "1TlOcjJodHw",
@@ -31,7 +31,7 @@
             "title": "Pokémon - I Choose You! | FULL EPISODE 1 | Season 1",
             "url": "https://www.youtube.com/watch?v=z3hMX65Khtg",
             "duration": 1343,
-            "view_count": 15611078,
+            "view_count": 15611722,
             "uploader": "Pokémon TV",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/z3hMX65Khtg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDygnxDeS8UP_8pcJQcw3mruHK1KQ"
@@ -41,7 +41,7 @@
             "title": "POKEMON MOVIE [HINDI DUBBED] FULL 4K QUALITY #viral #movie",
             "url": "https://www.youtube.com/watch?v=_JPnwf7Gwh4",
             "duration": 3637,
-            "view_count": 1725755,
+            "view_count": 1725793,
             "uploader": "Mujeeb_FFx",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/_JPnwf7Gwh4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAa5utRE4EOMJe-7yWNFF-QNyHig"
@@ -221,7 +221,7 @@
             "title": "Pokémon new movie 🎦 [FULL MOVIE IN HINDI DUBBED]1080p {IN HINDI]",
             "url": "https://www.youtube.com/watch?v=Gw8SLeMLuvc",
             "duration": 3637,
-            "view_count": 228932,
+            "view_count": 228956,
             "uploader": "MrPiko",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/Gw8SLeMLuvc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWFq18oZVHGjX5lTQM7JcF7_Pvtg"
@@ -575,6 +575,46 @@
             "uploader": "John Martinez",
             "category": "anime/pokemon_anime",
             "thumbnail": "https://i.ytimg.com/vi/2ixTd1DkPfE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3nQPmY7U3IAUCu5vOHVEKLFDa8w"
+        },
+        {
+            "id": "sk9AScPi7Jc",
+            "title": "Pokemon full in hindi || Season 1 episode 34 fully in hindi || #pokemon anime #Poke'Solo",
+            "url": "https://www.youtube.com/watch?v=sk9AScPi7Jc",
+            "duration": 1086,
+            "view_count": 330423,
+            "uploader": "Poke'Solo",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNi6Zt9PM2kRZg87m5c7hvk_z6Lg"
+        },
+        {
+            "id": "jVtzGBVclXA",
+            "title": "Pokemon XYZ episode  43 in hindi dubbed  Pokemon XYZ all episodes hindi",
+            "url": "https://www.youtube.com/watch?v=jVtzGBVclXA",
+            "duration": 1293,
+            "view_count": 21617,
+            "uploader": "The World of Pokémon",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/jVtzGBVclXA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsJVyPFQ-PoM16TzaLr0xACHbq4A"
+        },
+        {
+            "id": "vVdYAOAvMqk",
+            "title": "Reborn to Master the Blade Episode 2 in Hindi dubbed | Anime in Hindi |",
+            "url": "https://www.youtube.com/watch?v=vVdYAOAvMqk",
+            "duration": 1240,
+            "view_count": 9063,
+            "uploader": "Anime Nova",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/vVdYAOAvMqk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJFeuAXMVTPF1jB7e1yeZaLZ0pkQ"
+        },
+        {
+            "id": "EB1oIuM5czA",
+            "title": "Pokemon XYZ episode  45  in hindi dubbed  Pokemon XYZ all episodes",
+            "url": "https://www.youtube.com/watch?v=EB1oIuM5czA",
+            "duration": 1280,
+            "view_count": 45911,
+            "uploader": "The World of Pokémon",
+            "category": "anime/pokemon_anime",
+            "thumbnail": "https://i.ytimg.com/vi/EB1oIuM5czA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxbyjX1lZYjRkqUCYTkGQMfFBKBA"
         }
     ]
 }
