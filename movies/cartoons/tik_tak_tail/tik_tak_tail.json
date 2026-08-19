@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-19T17:43:49.549786Z",
+    "last_updated": "2026-08-19T18:17:50.703755Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 39,
+    "total_episodes": 40,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
@@ -44,7 +44,7 @@
             "view_count": 1389,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/NYFQQplBlkM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA6yUzuJIafv14g_JQZd0Q3CyqP3w"
+            "thumbnail": "https://i.ytimg.com/vi/NYFQQplBlkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM-7j5zey1pEU048AuHZyNw_GCwQ"
         },
         {
             "id": "wF8OEdoPaoA",
@@ -84,7 +84,7 @@
             "view_count": 2520,
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/okrDjARHANo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCfDdvn8l8vSXmwAXuowvomOfXw-Q"
+            "thumbnail": "https://i.ytimg.com/vi/okrDjARHANo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxDWzgaefqUtuBjzFfaR9N0dBcWQ"
         },
         {
             "id": "HmjKQ0mHfsA",
@@ -111,7 +111,7 @@
             "title": "Tik Tak Tail | Tik Falls In Love | Funny Cartoon Compilation | Videos For Kids",
             "url": "https://www.youtube.com/watch?v=ZoBh2aWFYvc",
             "duration": 839,
-            "view_count": 8390,
+            "view_count": 8391,
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/ZoBh2aWFYvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPNR6xhQvfgIMboKxUg-vtj0iWcw"
@@ -194,7 +194,7 @@
             "view_count": 90839,
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/5iupWuAJa6Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB1ckGGgm8K-J4ugN0f_R43fNstzw"
+            "thumbnail": "https://i.ytimg.com/vi/5iupWuAJa6Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvD-URq-etEMderKsQrTj8FRkjMQ"
         },
         {
             "id": "ypjJ4w3mT_w",
@@ -395,6 +395,16 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/mIzhU4W57Es/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoYzAP&rs=AOn4CLDJMIhJGeEJ76jmvHc3n1s-eDhF8A"
+        },
+        {
+            "id": "me5wtC7lUM4",
+            "title": "Tik Tak Tail | Friendship Day | Funny Cartoon Compilation | WildBrain Happy Kids",
+            "url": "https://www.youtube.com/watch?v=me5wtC7lUM4",
+            "duration": 848,
+            "view_count": 2132,
+            "uploader": "WildBrain Sunshine City",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/me5wtC7lUM4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEkoWTAP&rs=AOn4CLCjVw3skZQfLk1Kuk4O8Z2joFHfYQ"
         }
     ]
 }
