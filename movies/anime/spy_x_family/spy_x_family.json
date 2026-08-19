@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-19T11:15:52.645351Z",
+    "last_updated": "2026-08-19T11:42:40.110362Z",
     "show_name": "Spy X Family",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Spy X Family.",
-    "total_episodes": 26,
+    "total_episodes": 27,
     "episodes": [
         {
             "id": "pRuW10v8Wn4",
             "title": "Spy x Family Season 1 full Story Explained in Hindi' #spyxfamily",
             "url": "https://www.youtube.com/watch?v=pRuW10v8Wn4",
             "duration": 2732,
-            "view_count": 157125,
+            "view_count": 157128,
             "uploader": "MUSSU EXPLAINER",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/pRuW10v8Wn4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARFkuKIQlo2eIMq9hxXNgby5-2eA"
@@ -265,6 +265,16 @@
             "uploader": "Hunter Verse",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/7fojfyqMuHg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAW5pLiEQA7EyJZM0O2oyNi3WNymA"
+        },
+        {
+            "id": "zlGkAsm4G3c",
+            "title": "Spy x Family season 4 episode 8 explained in Hindi |  Eden School Gala Dance",
+            "url": "https://www.youtube.com/watch?v=zlGkAsm4G3c",
+            "duration": 874,
+            "view_count": 147963,
+            "uploader": "Hunter Verse",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/zlGkAsm4G3c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaISjM2St71LwBcpv6b2tUwKzDYA"
         }
     ]
 }
