@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-08-20T14:15:17.962036Z",
-    "total_movies": 78,
+    "last_updated": "2026-08-20T14:58:11.607765Z",
+    "total_movies": 79,
     "movies": [
         {
             "id": "HnFME0c_DFY",
             "title": "THE TIGRESS - Full Hollywood Action Movie Hindi Dubbed | Terry M, Greg | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=HnFME0c_DFY",
             "duration": 5319,
-            "view_count": 509015,
+            "view_count": 509260,
             "uploader": "Rising Nova Premiere",
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/HnFME0c_DFY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXQjvmXI6u_Zm8yQhDEm9Ugw2O3w"
@@ -57,7 +57,7 @@
             "title": "YABLO: The Faceless Monsters | New Hollywood (2026) Full HD Movie in Hindi | Blockbuster Thriller",
             "url": "https://www.youtube.com/watch?v=brDX9AzxlVw",
             "duration": 4831,
-            "view_count": 112550,
+            "view_count": 112577,
             "uploader": "NGP Movies",
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/brDX9AzxlVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBArMZwL6ye18Wpof0jyogk9m8JJA"
@@ -77,7 +77,7 @@
             "title": "New Hollywood   Hot Movies 2018   Hindi Dubbed Full Action   Adventure Movies",
             "url": "https://www.youtube.com/watch?v=7_6aesf_A8M",
             "duration": 4866,
-            "view_count": 12027555,
+            "view_count": 12027627,
             "uploader": "Movies Ka Dhamaka",
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/7_6aesf_A8M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEx-r2pRwhF8FEPxDUvtMqKcv8iQ"
@@ -87,7 +87,7 @@
             "title": "Jack Hunter and the Quest for Akhenaten’s Tomb Hindi Dubbed | Hollywood Adventure Action Full Movie",
             "url": "https://www.youtube.com/watch?v=OlNvfwJpN-Y",
             "duration": 5442,
-            "view_count": 255913,
+            "view_count": 255921,
             "uploader": "Hollywood English Movies Dubbed in Hindi",
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/OlNvfwJpN-Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-QYlvsQWxFWCfY0doDGfueVdyeQ"
@@ -97,7 +97,7 @@
             "title": "2035 STEEL SUPERSTORM - Full Hollywood Movie Hindi Dubbed | Lou Phillips, Nicole| Hindi Action Movie",
             "url": "https://www.youtube.com/watch?v=FY-zB3napVA",
             "duration": 5541,
-            "view_count": 3895627,
+            "view_count": 3895795,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/FY-zB3napVA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTx-6B1benzCq97YudRyDLXbyaWg"
@@ -597,7 +597,7 @@
             "title": "KILLER GATOR - Hollywood Movie Hindi Dubbed | Action Adventure Movie",
             "url": "https://www.youtube.com/watch?v=ekOfb119hdQ",
             "duration": 4798,
-            "view_count": 3142290,
+            "view_count": 3142873,
             "uploader": "Rising Nova Hindi",
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/ekOfb119hdQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyfSvIadhUEaYCkE_SjxeHX-Wylw"
@@ -781,6 +781,16 @@
             "uploader": "Dishoom Films",
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/wBuPTwptllg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQzQ8jHtoBYherI9I_XW9K6hDErA"
+        },
+        {
+            "id": "oQec-k6WONM",
+            "title": "The Hidden Wilds - 2026 New Action Jungle Mystery Full Movie | Hollywood Hindi Dubbed Thriller Film",
+            "url": "https://www.youtube.com/watch?v=oQec-k6WONM",
+            "duration": 4722,
+            "view_count": 332490,
+            "uploader": "Global Cinema",
+            "category": "hollywood/adventure",
+            "thumbnail": "https://i.ytimg.com/vi/oQec-k6WONM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_cIrwxSLZNWjNfWlDWQ4Y47ZDQ"
         }
     ]
 }
