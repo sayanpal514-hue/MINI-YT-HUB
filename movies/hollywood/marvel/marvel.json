@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-08-20T22:17:12.004161Z",
-    "total_movies": 78,
+    "last_updated": "2026-08-20T22:49:00.502854Z",
+    "total_movies": 79,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
             "title": "New Hollywood (2023) Full Movie in Hindi Dubbed | Latest Hollywood Action Movie | The Rock",
             "url": "https://www.youtube.com/watch?v=LGpWtBA_SwE",
             "duration": 7592,
-            "view_count": 640406,
+            "view_count": 640421,
             "uploader": "loans hai",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/LGpWtBA_SwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT-QJ1XGhKyi5SDnzBqMiv1y1dgw"
@@ -17,7 +17,7 @@
             "title": "Avengers Infinity War Full Movie in Hindi Dubbed | Thanos | Thor| Iron Man | Avengers 3 Infinity War",
             "url": "https://www.youtube.com/watch?v=zlD739a7YA8",
             "duration": 7981,
-            "view_count": 990157,
+            "view_count": 990199,
             "uploader": "MoviesLover0",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/zlD739a7YA8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwlud_AGXvBbtVJfqrnbFb_QRsmg"
@@ -37,7 +37,7 @@
             "title": "KINGSMAN Part 1 Hindi Dubbed Movie 2022",
             "url": "https://www.youtube.com/watch?v=dXc7iPfCBZA",
             "duration": 7111,
-            "view_count": 2023362,
+            "view_count": 2023417,
             "uploader": "MovieMorsels",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/dXc7iPfCBZA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAAaEho8fuGO-OcBDTB2-9_3bjqw"
@@ -607,7 +607,7 @@
             "title": "(No Clicbait) Spider-Man: Brand New Day Hindi Dubbed Full Movie 2026",
             "url": "https://www.youtube.com/watch?v=GGct5cI0YPQ",
             "duration": 8323,
-            "view_count": 2326,
+            "view_count": 2344,
             "uploader": "NK Media",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/GGct5cI0YPQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8j8-myC0X3Kd28MBRa3lY6d9kFg"
@@ -777,10 +777,20 @@
             "title": "Avengers: Infinity War | Full movie Hindi Dubbed | Dual 1080p | ",
             "url": "https://www.youtube.com/watch?v=EfvjZKsec-A",
             "duration": 8214,
-            "view_count": 3368,
+            "view_count": 3411,
             "uploader": "HBS FLIX 9625",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/EfvjZKsec-A/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOKm1ys36ywfGCgBP2_PAzIfCS3w"
+        },
+        {
+            "id": "-65VtGmPoi0",
+            "title": "85 Iconic MCU Moments | Marvel 85th Anniversary Compilation (4K)",
+            "url": "https://www.youtube.com/watch?v=-65VtGmPoi0",
+            "duration": 3135,
+            "view_count": 13983030,
+            "uploader": "Marvel Entertainment",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/-65VtGmPoi0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe8JC5SgUbEIlRsj3qqVI4SjGN9w"
         }
     ]
 }
