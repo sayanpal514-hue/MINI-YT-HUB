@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-21T06:03:31.837607Z",
+    "last_updated": "2026-08-21T07:10:17.227818Z",
     "show_name": "One Piece",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for One Piece.",
-    "total_episodes": 19,
+    "total_episodes": 20,
     "episodes": [
         {
             "id": "jPX2ndKV2Xw",
             "title": "One Piece Episode 1: Hindi Dubbed - The Start of an Epic Adventure!",
             "url": "https://www.youtube.com/watch?v=jPX2ndKV2Xw",
             "duration": 818,
-            "view_count": 32961,
+            "view_count": 33048,
             "uploader": "Nandani Art",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/jPX2ndKV2Xw/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg8IFwocjAPuALzGA==&rs=AOn4CLB3STaS9ohhJT9guthigvrK3HOG-g"
@@ -21,7 +21,7 @@
             "title": "Luffy vs Kuro | One piece funny moments in Hindi Zoro sigma 🗿 moments in hindi #onepiece part 2",
             "url": "https://www.youtube.com/watch?v=jh5Znp9DXWM",
             "duration": 732,
-            "view_count": 200543,
+            "view_count": 200574,
             "uploader": "DARK AMV-X",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/jh5Znp9DXWM/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDpSDXLY8DmQGYNln7_lSvDRjRDzg"
@@ -41,7 +41,7 @@
             "title": "One Piece (2023) Full SEASON 1 Explained in Hindi | All Episodes | Series Explored",
             "url": "https://www.youtube.com/watch?v=KYuFzpVzw54",
             "duration": 4568,
-            "view_count": 1178032,
+            "view_count": 1178085,
             "uploader": "Series Explored ",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/KYuFzpVzw54/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLApu49f2nHbz2AuVvtuWxZ86LFbLQ"
@@ -61,7 +61,7 @@
             "title": "ONE PIECE EPISODE 1 IN HINDI DUBBED| one piece all episodes in hindi watch",
             "url": "https://www.youtube.com/watch?v=AmKoeoNuF74",
             "duration": 674,
-            "view_count": 385,
+            "view_count": 386,
             "uploader": "KRETOX™",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/AmKoeoNuF74/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgqIFMofzAPuALzGA==&rs=AOn4CLA7BWviHWx2DIVDd2cfHYsGcHVl8g"
@@ -195,6 +195,16 @@
             "uploader": "One Piece Otaku",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/ab1v-HbWn1s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxvl4WR_8PGCpLgUFGwug-6zf9ug"
+        },
+        {
+            "id": "sbnLgwxxH6A",
+            "title": "One piece Sigma 💀 funny moments in Hindi | EP 2 | Luffy Zoro attitude moments",
+            "url": "https://www.youtube.com/watch?v=sbnLgwxxH6A",
+            "duration": 716,
+            "view_count": 69568,
+            "uploader": "ANIME 🌌 ",
+            "category": "anime/one_piece",
+            "thumbnail": "https://i.ytimg.com/vi/sbnLgwxxH6A/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDxs_1rnwZQyutTpclS9qKfToDUgQ"
         }
     ]
 }
