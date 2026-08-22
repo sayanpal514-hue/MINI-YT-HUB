@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-22T22:11:49.642897Z",
+    "last_updated": "2026-08-22T22:40:45.993609Z",
     "show_name": "Mighty Raju",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Mighty Raju.",
-    "total_episodes": 99,
+    "total_episodes": 100,
     "episodes": [
         {
             "id": "KNKAdmEBwEA",
@@ -41,7 +41,7 @@
             "title": "Mighty Raju - Karati Strikes Back | Animated Videos For Kids | Hindi Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=mIwBSCGl_l0",
             "duration": 1946,
-            "view_count": 155789,
+            "view_count": 155812,
             "uploader": "Mighty Raju - Official Channel",
             "category": "cartoons/mighty_raju",
             "thumbnail": "https://i.ytimg.com/vi/mIwBSCGl_l0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkldwlBubctYVzPoltrM3FsDd76A"
@@ -291,7 +291,7 @@
             "title": "Mighty Raju - The Mushroom Lord | Cartoons for Kids in Hindi | Animated Stories",
             "url": "https://www.youtube.com/watch?v=K8o1dLv0Mzg",
             "duration": 637,
-            "view_count": 389505,
+            "view_count": 389498,
             "uploader": "Mighty Raju - Official Channel",
             "category": "cartoons/mighty_raju",
             "thumbnail": "https://i.ytimg.com/vi/K8o1dLv0Mzg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJGfe6dkvpLbHZWc2-z-lcFreCvA"
@@ -561,7 +561,7 @@
             "title": "Mighty Raju - Mom's Fitness Challenge | Cartoon for Kids in Hindi",
             "url": "https://www.youtube.com/watch?v=5eLoVq8T0Zo",
             "duration": 677,
-            "view_count": 26249616,
+            "view_count": 26249637,
             "uploader": "Green Gold TV - Official Channel",
             "category": "cartoons/mighty_raju",
             "thumbnail": "https://i.ytimg.com/vi/5eLoVq8T0Zo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvQW9JMkI-WOp3H3gk63Vzsxvckg"
@@ -995,6 +995,16 @@
             "uploader": "Mighty Raju - Official Channel",
             "category": "cartoons/mighty_raju",
             "thumbnail": "https://i.ytimg.com/vi/kBTsG1iZOnM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4yiY26EiwTDFVV2KMCnBq-tsnw"
+        },
+        {
+            "id": "wX1d--SOp88",
+            "title": "Mighty Raju - Time Machine Gone Wrong! 💥| Cartoon Science Adventure for Kids | Kids Cartoon Hindi",
+            "url": "https://www.youtube.com/watch?v=wX1d--SOp88",
+            "duration": 1826,
+            "view_count": 99773,
+            "uploader": "Mighty Raju - Official Channel",
+            "category": "cartoons/mighty_raju",
+            "thumbnail": "https://i.ytimg.com/vi/wX1d--SOp88/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWwTMhCv4Wlu0zLeCV6XoMEhqEGg"
         }
     ]
 }
