@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-22T22:40:46.026785Z",
+    "last_updated": "2026-08-22T22:56:35.743721Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 22,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "7SplSrjetxU",
@@ -225,6 +225,16 @@
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/MOpOtp7yvvI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP5jQ-dugMKtV09Y7Rjvux554MAw"
+        },
+        {
+            "id": "5AdCNNxdVyc",
+            "title": "Raja Doggy Don ने बनाया चूहों का भरता 😱🐭 | Pakdam Pakdai",
+            "url": "https://www.youtube.com/watch?v=5AdCNNxdVyc",
+            "duration": 1251,
+            "view_count": 407901,
+            "uploader": "Pakdam Pakdai",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/5AdCNNxdVyc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKX6tnIq6mq8q5kTWsSV1taDcEWA"
         }
     ]
 }
