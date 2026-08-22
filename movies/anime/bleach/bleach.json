@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-22T19:53:44.542333Z",
+    "last_updated": "2026-08-22T20:11:51.769404Z",
     "show_name": "Bleach",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bleach.",
-    "total_episodes": 32,
+    "total_episodes": 33,
     "episodes": [
         {
             "id": "MbnZyd2OvDg",
@@ -51,7 +51,7 @@
             "title": "Bleach Season 1 Explained In Hindi/हिंदी || The Agent of the Soul Reaper Saga",
             "url": "https://www.youtube.com/watch?v=uIbc7-facLQ",
             "duration": 5812,
-            "view_count": 335652,
+            "view_count": 335702,
             "uploader": "ANI X PLAIN",
             "category": "anime/bleach",
             "thumbnail": "https://i.ytimg.com/vi/uIbc7-facLQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHT1nJ_zdDEXryraluS2m7AnCAmA"
@@ -325,6 +325,16 @@
             "uploader": "ANI X PLAIN",
             "category": "anime/bleach",
             "thumbnail": "https://i.ytimg.com/vi/o70tyUoV7Ds/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBphCAL2xBIq-q5MIEt6xKOkOfVHw"
+        },
+        {
+            "id": "7jHjTejooF0",
+            "title": "BLEACH DOWNFALL ARC | bleach episode 266 to 300 explained in Hindi  Part - 2  | Anime in Hindi",
+            "url": "https://www.youtube.com/watch?v=7jHjTejooF0",
+            "duration": 4848,
+            "view_count": 35116,
+            "uploader": "BaKuWaMeet",
+            "category": "anime/bleach",
+            "thumbnail": "https://i.ytimg.com/vi/7jHjTejooF0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdSO8hgc3Xrqli3GwMPQixYMLYPg"
         }
     ]
 }
