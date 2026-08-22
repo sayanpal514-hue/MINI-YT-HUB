@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-22T07:48:32.812796Z",
+    "last_updated": "2026-08-22T08:17:07.608567Z",
     "show_name": "One Piece",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for One Piece.",
-    "total_episodes": 20,
+    "total_episodes": 21,
     "episodes": [
         {
             "id": "jPX2ndKV2Xw",
             "title": "One Piece Episode 1: Hindi Dubbed - The Start of an Epic Adventure!",
             "url": "https://www.youtube.com/watch?v=jPX2ndKV2Xw",
             "duration": 818,
-            "view_count": 33814,
+            "view_count": 33831,
             "uploader": "Nandani Art",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/jPX2ndKV2Xw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg8IFwocjAP&rs=AOn4CLCvo1qUPCn0-dovpYZtYA9wtKhYsg"
@@ -31,7 +31,7 @@
             "title": "Luffy meet with Sanji | One piece sigma 🗿 moments in hindi luffy funny moments in hindi P5",
             "url": "https://www.youtube.com/watch?v=gHLaGCt28ao",
             "duration": 617,
-            "view_count": 69558,
+            "view_count": 69568,
             "uploader": "DARK AMV-X",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/gHLaGCt28ao/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc2gGb5zAx9Nx6dC2M7bv0a0iJyA"
@@ -41,7 +41,7 @@
             "title": "One Piece (2023) Full SEASON 1 Explained in Hindi | All Episodes | Series Explored",
             "url": "https://www.youtube.com/watch?v=KYuFzpVzw54",
             "duration": 4568,
-            "view_count": 1178971,
+            "view_count": 1178967,
             "uploader": "Series Explored ",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/KYuFzpVzw54/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuyJC91d0yu8hWskPC8WWWCk5msQ"
@@ -71,7 +71,7 @@
             "title": "He Become The Strongest Pirate King After Defeating Everyone in The World Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Smc4fNm8ibw",
             "duration": 39452,
-            "view_count": 1858946,
+            "view_count": 1859109,
             "uploader": "Animity",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/Smc4fNm8ibw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7OJidC1oKZSvLgmSMRYgv8FGcZw"
@@ -205,6 +205,16 @@
             "uploader": "ANIME 🌌 ",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/sbnLgwxxH6A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUDNgynMs-Th3tk41-48fwwJR3qg"
+        },
+        {
+            "id": "qbixinO_ENU",
+            "title": "No Longer Allowed in Another World | FULL EPISODE | HINDI DUB",
+            "url": "https://www.youtube.com/watch?v=qbixinO_ENU",
+            "duration": 1438,
+            "view_count": 623543,
+            "uploader": "Crunchyroll India",
+            "category": "anime/one_piece",
+            "thumbnail": "https://i.ytimg.com/vi/qbixinO_ENU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ1vExZ4gJzx588ICZwabKiTsetw"
         }
     ]
 }
