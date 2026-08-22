@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-22T20:11:51.657016Z",
+    "last_updated": "2026-08-22T20:42:38.000577Z",
     "show_name": "One Piece",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for One Piece.",
-    "total_episodes": 21,
+    "total_episodes": 22,
     "episodes": [
         {
             "id": "jPX2ndKV2Xw",
             "title": "One Piece Episode 1: Hindi Dubbed - The Start of an Epic Adventure!",
             "url": "https://www.youtube.com/watch?v=jPX2ndKV2Xw",
             "duration": 818,
-            "view_count": 34488,
+            "view_count": 34435,
             "uploader": "Nandani Art",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/jPX2ndKV2Xw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg8IFwocjAP&rs=AOn4CLCvo1qUPCn0-dovpYZtYA9wtKhYsg"
@@ -21,7 +21,7 @@
             "title": "Luffy vs Kuro | One piece funny moments in Hindi Zoro sigma 🗿 moments in hindi #onepiece part 2",
             "url": "https://www.youtube.com/watch?v=jh5Znp9DXWM",
             "duration": 732,
-            "view_count": 201489,
+            "view_count": 201468,
             "uploader": "DARK AMV-X",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/jh5Znp9DXWM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2fWfl7l-coOPWT11KOfJd3r3NfA"
@@ -31,7 +31,7 @@
             "title": "Luffy meet with Sanji | One piece sigma 🗿 moments in hindi luffy funny moments in hindi P5",
             "url": "https://www.youtube.com/watch?v=gHLaGCt28ao",
             "duration": 617,
-            "view_count": 69652,
+            "view_count": 69658,
             "uploader": "DARK AMV-X",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/gHLaGCt28ao/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc2gGb5zAx9Nx6dC2M7bv0a0iJyA"
@@ -71,7 +71,7 @@
             "title": "He Become The Strongest Pirate King After Defeating Everyone in The World Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Smc4fNm8ibw",
             "duration": 39452,
-            "view_count": 1860783,
+            "view_count": 1860810,
             "uploader": "Animity",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/Smc4fNm8ibw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7OJidC1oKZSvLgmSMRYgv8FGcZw"
@@ -151,10 +151,10 @@
             "title": "Top 15 Strongest Devil Fruits In One Piece (HIndi)",
             "url": "https://www.youtube.com/watch?v=D95ZC5ghfRY",
             "duration": 760,
-            "view_count": 787706,
+            "view_count": 787759,
             "uploader": "Samrat Piece",
             "category": "anime/one_piece",
-            "thumbnail": "https://i.ytimg.com/vi/D95ZC5ghfRY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC_AbkMsiqItPJxSyjRGhp7QW4A8Q"
+            "thumbnail": "https://i.ytimg.com/vi/D95ZC5ghfRY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8Yzg4PFNrmQx-mVRj6oy3VnM9eQ"
         },
         {
             "id": "8P_p1bz_vwM",
@@ -215,6 +215,16 @@
             "uploader": "Crunchyroll India",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/qbixinO_ENU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ1vExZ4gJzx588ICZwabKiTsetw"
+        },
+        {
+            "id": "CJm5eWxQh5k",
+            "title": "What If LUFFY Was REBORN With His MEMORIES & POWERS | Hindi",
+            "url": "https://www.youtube.com/watch?v=CJm5eWxQh5k",
+            "duration": 844,
+            "view_count": 282200,
+            "uploader": "AnimeAppex",
+            "category": "anime/one_piece",
+            "thumbnail": "https://i.ytimg.com/vi/CJm5eWxQh5k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmrTzu5wGnd0LqQInxaiGZQ8qahw"
         }
     ]
 }
