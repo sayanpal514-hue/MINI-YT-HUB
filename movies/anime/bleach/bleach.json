@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-22T21:12:51.743821Z",
+    "last_updated": "2026-08-22T21:38:50.155882Z",
     "show_name": "Bleach",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bleach.",
-    "total_episodes": 33,
+    "total_episodes": 34,
     "episodes": [
         {
             "id": "MbnZyd2OvDg",
@@ -335,6 +335,16 @@
             "uploader": "BaKuWaMeet",
             "category": "anime/bleach",
             "thumbnail": "https://i.ytimg.com/vi/7jHjTejooF0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdSO8hgc3Xrqli3GwMPQixYMLYPg"
+        },
+        {
+            "id": "VBN0Vb5vwTA",
+            "title": "Bleach Season 14 Explained In Hindi/हिंदी || Bleach : Arrancar Downfall Arc in Hindi",
+            "url": "https://www.youtube.com/watch?v=VBN0Vb5vwTA",
+            "duration": 13599,
+            "view_count": 38535,
+            "uploader": "ANI X PLAIN",
+            "category": "anime/bleach",
+            "thumbnail": "https://i.ytimg.com/vi/VBN0Vb5vwTA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgfQNLw0zsmj8t_57TWDNHt-isNw"
         }
     ]
 }
