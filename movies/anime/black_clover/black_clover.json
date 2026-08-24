@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-24T18:23:58.445388Z",
+    "last_updated": "2026-08-24T19:14:45.611599Z",
     "show_name": "Black Clover",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Black Clover.",
-    "total_episodes": 12,
+    "total_episodes": 13,
     "episodes": [
         {
             "id": "apMLiLgTZQw",
             "title": "Black Clover The Sword of the Wizard King Full Movie in Hindi #blackclovertheswordofthewizardking",
             "url": "https://www.youtube.com/watch?v=apMLiLgTZQw",
             "duration": 6782,
-            "view_count": 171417,
+            "view_count": 171459,
             "uploader": "Madara Otaku Fr",
             "category": "anime/black_clover",
             "thumbnail": "https://i.ytimg.com/vi/apMLiLgTZQw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpE_NwHJt7mg9FB7_kJ55q8jVjwQ"
@@ -41,7 +41,7 @@
             "title": "(1-15) The Magicless Boy Who Became a God Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=c-suugj9xWE",
             "duration": 17073,
-            "view_count": 3802462,
+            "view_count": 3802954,
             "uploader": "Animidy",
             "category": "anime/black_clover",
             "thumbnail": "https://i.ytimg.com/vi/c-suugj9xWE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK_4GDtGLNbdB7QNc7T0oJiGsiew"
@@ -125,6 +125,16 @@
             "uploader": "FictionTube",
             "category": "anime/black_clover",
             "thumbnail": "https://i.ytimg.com/vi/zBN11kzba6k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARs31cDIwTBUR386DfXAWfsL-O_Q"
+        },
+        {
+            "id": "t__THejIDuY",
+            "title": "Clover black Ep81 1080p in Hindi I ongoing anime, anime explanation, black clover, weekly anime.",
+            "url": "https://www.youtube.com/watch?v=t__THejIDuY",
+            "duration": 950,
+            "view_count": 146609,
+            "uploader": "𝔸𝕓𝕙𝕚 𝔽𝕝𝕚𝕩",
+            "category": "anime/black_clover",
+            "thumbnail": "https://i.ytimg.com/vi/t__THejIDuY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPpESJ4SFngLgrL5DXVopEXQlsaA"
         }
     ]
 }
