@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-24T06:34:19.711272Z",
-    "total_movies": 85,
+    "last_updated": "2026-08-24T07:44:21.786217Z",
+    "total_movies": 86,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
@@ -277,7 +277,7 @@
             "title": "New Marvels Hindi Dubbed Full Movie 2026 | Venom | Hindi Dubbed Action Movies | Game Movie",
             "url": "https://www.youtube.com/watch?v=Dz3yKFxUbyY",
             "duration": 6971,
-            "view_count": 7671,
+            "view_count": 7686,
             "uploader": "Hindi Dub Cinematic",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/Dz3yKFxUbyY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh1ZYh5HjZ6uw74bExDTPsznfLiQ"
@@ -707,7 +707,7 @@
             "title": "Avengers Doomsday Full Movie In Hindi Dubbed | Robert Downey Jr. | Chris Hemsworth | Latest Updates",
             "url": "https://www.youtube.com/watch?v=PF81RI6EkbU",
             "duration": 10472,
-            "view_count": 38637,
+            "view_count": 38835,
             "uploader": "Movie Ki Factory",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/PF81RI6EkbU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpxWcEm7j76FBIkLWBsYfCtcgbzg"
@@ -851,6 +851,16 @@
             "uploader": "the drama khazana",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/CkUJ0YVt5ZY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJJ4nssS9mAyR4xmsK3FWWA9c5Fg"
+        },
+        {
+            "id": "kUeHkSMtYo8",
+            "title": "Venom - 3 - Full Movie Hindi Dubbed",
+            "url": "https://www.youtube.com/watch?v=kUeHkSMtYo8",
+            "duration": 8189,
+            "view_count": 0,
+            "uploader": "BN Toons",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/kUeHkSMtYo8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMUzBEOWj8otTR8N09citdb6Lr-A"
         }
     ]
 }
