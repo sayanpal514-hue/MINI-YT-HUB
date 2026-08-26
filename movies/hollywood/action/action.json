@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-26T11:20:47.937287Z",
-    "total_movies": 136,
+    "last_updated": "2026-08-26T11:51:00.958137Z",
+    "total_movies": 137,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -17,7 +17,7 @@
             "title": "Cobra (2026) Full Movie Hindi Dubbed | Action Crime Thriller | Hindi Dub | Hollywood Movie HD",
             "url": "https://www.youtube.com/watch?v=EyyItkmEw_Y",
             "duration": 4928,
-            "view_count": 99856,
+            "view_count": 99915,
             "uploader": "Hollywood Hindi Dub",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/EyyItkmEw_Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw84zGhHmHGB1Yn0zFKW8zKIYI2Q"
@@ -57,7 +57,7 @@
             "title": "THE ERADICATOR - Full Hollywood Action Movie Hindi Dubbed | Dane, Kent | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=e9EB-fYKYcc",
             "duration": 5308,
-            "view_count": 469617,
+            "view_count": 469658,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/e9EB-fYKYcc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFSoR62JLB4aAyTzFsawinlITkg"
@@ -67,7 +67,7 @@
             "title": "New Hollywood Hindi Dubbed Movie | Revenge Of Moorwen | Action Movie",
             "url": "https://www.youtube.com/watch?v=W6dzLx4LNxY",
             "duration": 6912,
-            "view_count": 632419,
+            "view_count": 632390,
             "uploader": "INFINITY MOVIES",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/W6dzLx4LNxY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIVYuOJ0731eyavArY87J37zL7w"
@@ -157,7 +157,7 @@
             "title": "DRUG MAFIA Full Hollywood Movie Hindi Dubbed | Hu Guofang, Zhao Jing, Li Meng | Chinese Action Movie",
             "url": "https://www.youtube.com/watch?v=uzN63h-Li98",
             "duration": 5430,
-            "view_count": 1540237,
+            "view_count": 1540267,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/uzN63h-Li98/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpHVjBW93OHhmZEufYE576EDiH2Q"
@@ -187,7 +187,7 @@
             "title": "HIJACK TO HELL - Full Hollywood Action Movie Hindi Dubbed | Ron, Peter | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=jnVrEPe73xw",
             "duration": 5352,
-            "view_count": 452208,
+            "view_count": 452229,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/jnVrEPe73xw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiuwVeUiyGEIp8DSPZ8uS5reXaMQ"
@@ -287,7 +287,7 @@
             "title": "GOD OF TITANS - Full Hollywood Action Movie Hindi Dubbed | Marcus S | Hindi Action Adventure Movie",
             "url": "https://www.youtube.com/watch?v=EyKWd6pZIOo",
             "duration": 5647,
-            "view_count": 123789,
+            "view_count": 123919,
             "uploader": "Rising Nova Premiere",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/EyKWd6pZIOo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvBTMLmYTEfdK0IvT61SSO1l5Yrg"
@@ -447,7 +447,7 @@
             "title": "Latest Hollywood Dubbed Movie 2020 in Hindi",
             "url": "https://www.youtube.com/watch?v=szeiT1NCsmk",
             "duration": 5525,
-            "view_count": 428730,
+            "view_count": 428805,
             "uploader": "VIJAY MAURYA",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/szeiT1NCsmk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA89Q7sTstsq91yt1UmGYQGvgqPgQ"
@@ -927,7 +927,7 @@
             "title": "THE ASSASSINATOR - Hollywood Movie Hindi Dubbed | Kellan Lutz, Atiqah | Action Movie | Hollywood ...",
             "url": "https://www.youtube.com/watch?v=ih4BhRWtwlY",
             "duration": 5776,
-            "view_count": 371405,
+            "view_count": 371396,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/ih4BhRWtwlY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRG1RT2af88S3EUahpW-Eh3Y2iyQ"
@@ -1361,6 +1361,16 @@
             "uploader": "Movie Forever",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/nWSRZ0EIDPg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhyLrb3iGfHk6_Ufy7NTpFvmmBGA"
+        },
+        {
+            "id": "K9TSxABKbmU",
+            "title": "VIOLENT - Full Hollywood Action Movie Hindi Dubbed | Scott Adkins | Hindi Action Thriller Movie",
+            "url": "https://www.youtube.com/watch?v=K9TSxABKbmU",
+            "duration": 5143,
+            "view_count": 98738,
+            "uploader": "Majestic Movies Hindi",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/K9TSxABKbmU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_LoJg95nzFIwEzHl-KLNDKmziHw"
         }
     ]
 }

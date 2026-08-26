@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-26T11:20:48.020001Z",
+    "last_updated": "2026-08-26T11:51:00.798125Z",
     "show_name": "My Hero Academia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for My Hero Academia.",
-    "total_episodes": 24,
+    "total_episodes": 25,
     "episodes": [
         {
             "id": "9brrbcdbZZs",
@@ -91,7 +91,7 @@
             "title": "my hero academia episode 2 Hindi dubbed season 1",
             "url": "https://www.youtube.com/watch?v=5UsAhHI2BWQ",
             "duration": 1472,
-            "view_count": 166,
+            "view_count": 164,
             "uploader": "filmy world",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/5UsAhHI2BWQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoBZequcZIDw8Uu2ChBT2vlxPruQ"
@@ -245,6 +245,16 @@
             "uploader": "Anikun Explain",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/3se4HRElTnU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDphepWfKjNX_2fMez3RPLjqeXS5A"
+        },
+        {
+            "id": "ibAcaS_dy3s",
+            "title": "My Hero Academia S1 E1 | Full Episode in Hindi |  Izuku Midoriya: Origin | MHA",
+            "url": "https://www.youtube.com/watch?v=ibAcaS_dy3s",
+            "duration": 1261,
+            "view_count": 2,
+            "uploader": "AnimeStream•HQ",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/ibAcaS_dy3s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX9FFZye1H5sCx_JMhVY3Q03W84w"
         }
     ]
 }
