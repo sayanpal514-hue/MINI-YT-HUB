@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-29T02:27:27.353976Z",
+    "last_updated": "2026-08-29T09:23:38.466807Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 9,
+    "total_episodes": 10,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
             "title": "हिंदी Oggy and the Cockroaches 🏎 नया यांत्रिकी 🔧 Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=w4EZwfxmPYg",
             "duration": 3991,
-            "view_count": 30735964,
+            "view_count": 30766651,
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/w4EZwfxmPYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNk4QPvMnFRGaIX_2UykVSHenxMw",
@@ -22,10 +22,10 @@
             "title": "हिन्दी The Daltons 🌵 1H COMPILATION ☀️ Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1Ke29R-tn2s",
             "duration": 3913,
-            "view_count": 14595816,
+            "view_count": 14596612,
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAWILMIq-k2_RwrpinfWF537lMwkw",
+            "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
             "show_name": "Various Cartoons"
         },
         {
@@ -103,6 +103,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/Tm4WJBMaP9o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA--eSE14LSV2N5r-lmoLWEWl2a2A",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "pAbMM9wLrq4",
+            "title": "दोस्त या खाना?  Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=pAbMM9wLrq4",
+            "duration": 3962,
+            "view_count": 396888,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/pAbMM9wLrq4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1a06Arq2Hd4jK08Zl7oDBFoPKdA",
             "show_name": "Various Cartoons"
         }
     ]
