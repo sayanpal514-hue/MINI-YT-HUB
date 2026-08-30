@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-30T18:49:00.067301Z",
+    "last_updated": "2026-08-30T21:43:52.982014Z",
     "show_name": "Dragon Ball Z",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Z.",
-    "total_episodes": 82,
+    "total_episodes": 83,
     "episodes": [
         {
             "id": "n1Gdmkmaxn8",
@@ -181,7 +181,7 @@
             "title": "DRAGON BALL Z ANIME WAR FULL MOVIE RISE OF THE EVILL GODS HINDI DUBBED FULL MOVIE HD",
             "url": "https://www.youtube.com/watch?v=XCy1f0gjD8M",
             "duration": 12173,
-            "view_count": 939216,
+            "view_count": 939262,
             "uploader": "RYUXIT 🖤",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/XCy1f0gjD8M/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBMofzAP&rs=AOn4CLC-D39IannNpj2LraFYhNZPCdU7zQ"
@@ -191,7 +191,7 @@
             "title": "Goku Vs Saitama Full Fight Hindi Dubbed | Dub By @RDJROHIT_ANIME_PRO ",
             "url": "https://www.youtube.com/watch?v=NxQvXRF7bWo",
             "duration": 7874,
-            "view_count": 329663,
+            "view_count": 329844,
             "uploader": "OTaku Complex",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/NxQvXRF7bWo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-KppIBUnyVDY9v9chs8bG3pPaTA"
@@ -825,6 +825,16 @@
             "uploader": "DragonBallMovies",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/lT9Q9R_Pe7E/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeGrI-HbGPG6rhWwIY5ZGbybk09w"
+        },
+        {
+            "id": "2R0AFYu_e4o",
+            "title": "Dragon ball Z - Super Android 13 (Full Movie) | Hindi dubbed |",
+            "url": "https://www.youtube.com/watch?v=2R0AFYu_e4o",
+            "duration": 2763,
+            "view_count": 296,
+            "uploader": "Evil_editz_§",
+            "category": "anime/dragon_ball_z",
+            "thumbnail": "https://i.ytimg.com/vi/2R0AFYu_e4o/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAoYDigIMCAAQARh_ICooHTAP&rs=AOn4CLBOsKutEIcp4Trp-cBv8SiHaLGUfQ"
         }
     ]
 }
