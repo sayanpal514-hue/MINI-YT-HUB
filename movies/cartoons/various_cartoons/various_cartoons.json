@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-08-30T15:24:17.979586Z",
+    "last_updated": "2026-08-30T18:49:00.130222Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 10,
+    "total_episodes": 11,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -22,7 +22,7 @@
             "title": "हिन्दी The Daltons 🌵 1H COMPILATION ☀️ Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=1Ke29R-tn2s",
             "duration": 3913,
-            "view_count": 14601126,
+            "view_count": 14602013,
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/1Ke29R-tn2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc09K-mzr0wQe4GPL9MhBegOnmrw",
@@ -114,6 +114,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/pAbMM9wLrq4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1a06Arq2Hd4jK08Zl7oDBFoPKdA",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "nrL5lGfChyg",
+            "title": "Grizzly Ne Picnic Ko Bana Diya Plot Twist!🧺😱| Hindi Cartoons | We Bare Bears Hindi (वी बेयर बेयर्स )",
+            "url": "https://www.youtube.com/watch?v=nrL5lGfChyg",
+            "duration": 3421,
+            "view_count": 133688,
+            "uploader": "We Bare Bears Hindi",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/nrL5lGfChyg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsdvPM1Jd0-chaj3tH3dpl76kb1w",
             "show_name": "Various Cartoons"
         }
     ]
