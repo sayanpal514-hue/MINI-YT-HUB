@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-01T18:24:50.176580Z",
+    "last_updated": "2026-09-01T18:50:54.233591Z",
     "show_name": "One Piece",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for One Piece.",
-    "total_episodes": 22,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "jPX2ndKV2Xw",
@@ -71,10 +71,10 @@
             "title": "He Become The Strongest Pirate King After Defeating Everyone in The World Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Smc4fNm8ibw",
             "duration": 39452,
-            "view_count": 1885394,
+            "view_count": 1886397,
             "uploader": "Animity",
             "category": "anime/one_piece",
-            "thumbnail": "https://i.ytimg.com/vi/Smc4fNm8ibw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDOlT5Jn0f1If1tFaH8nEQGQpxHnA"
+            "thumbnail": "https://i.ytimg.com/vi/Smc4fNm8ibw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7OJidC1oKZSvLgmSMRYgv8FGcZw"
         },
         {
             "id": "FT6cMAGSsl4",
@@ -225,6 +225,16 @@
             "uploader": "AnimeAppex",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/CJm5eWxQh5k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmrTzu5wGnd0LqQInxaiGZQ8qahw"
+        },
+        {
+            "id": "PylRJgwW_ig",
+            "title": "Luffy vs Buggy and Luffy's Straw Hat - One Piece Season 1 in Hindi",
+            "url": "https://www.youtube.com/watch?v=PylRJgwW_ig",
+            "duration": 1202,
+            "view_count": 63671,
+            "uploader": "FictionTube",
+            "category": "anime/one_piece",
+            "thumbnail": "https://i.ytimg.com/vi/PylRJgwW_ig/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmHoL15DZNANq_CMvLNOxtByUf5g"
         }
     ]
 }
