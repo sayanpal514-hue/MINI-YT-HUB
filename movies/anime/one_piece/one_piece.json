@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-09-01T23:35:01.590624Z",
+    "last_updated": "2026-09-02T01:21:10.671747Z",
     "show_name": "One Piece",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for One Piece.",
-    "total_episodes": 23,
+    "total_episodes": 24,
     "episodes": [
         {
             "id": "jPX2ndKV2Xw",
             "title": "One Piece Episode 1: Hindi Dubbed - The Start of an Epic Adventure!",
             "url": "https://www.youtube.com/watch?v=jPX2ndKV2Xw",
             "duration": 818,
-            "view_count": 44366,
+            "view_count": 44367,
             "uploader": "Nandani Art",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/jPX2ndKV2Xw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg8IFwocjAP&rs=AOn4CLCvo1qUPCn0-dovpYZtYA9wtKhYsg"
@@ -21,7 +21,7 @@
             "title": "Luffy vs Kuro | One piece funny moments in Hindi Zoro sigma 🗿 moments in hindi #onepiece part 2",
             "url": "https://www.youtube.com/watch?v=jh5Znp9DXWM",
             "duration": 732,
-            "view_count": 209292,
+            "view_count": 209314,
             "uploader": "DARK AMV-X",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/jh5Znp9DXWM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2fWfl7l-coOPWT11KOfJd3r3NfA"
@@ -41,7 +41,7 @@
             "title": "One Piece (2023) Full SEASON 1 Explained in Hindi | All Episodes | Series Explored",
             "url": "https://www.youtube.com/watch?v=KYuFzpVzw54",
             "duration": 4568,
-            "view_count": 1194768,
+            "view_count": 1194804,
             "uploader": "Series Explored ",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/KYuFzpVzw54/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuyJC91d0yu8hWskPC8WWWCk5msQ"
@@ -235,6 +235,16 @@
             "uploader": "FictionTube",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/PylRJgwW_ig/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmHoL15DZNANq_CMvLNOxtByUf5g"
+        },
+        {
+            "id": "C7uh1H_qPEM",
+            "title": "Luffy & Zoro  | One Piece Badass And Funny Moments In Hindi | Part 2#20p983",
+            "url": "https://www.youtube.com/watch?v=C7uh1H_qPEM",
+            "duration": 723,
+            "view_count": 76704,
+            "uploader": "Rupsan Anime",
+            "category": "anime/one_piece",
+            "thumbnail": "https://i.ytimg.com/vi/C7uh1H_qPEM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsFjISSGD6CaXS_0e9IqvPr-Hg"
         }
     ]
 }
