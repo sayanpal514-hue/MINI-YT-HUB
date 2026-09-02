@@ -1,20 +1,20 @@
 {
-    "last_updated": "2026-09-02T10:05:22.857992Z",
+    "last_updated": "2026-09-02T13:57:36.682916Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 11,
+    "total_episodes": 12,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
             "title": "हिंदी Oggy and the Cockroaches 🏎 नया यांत्रिकी 🔧 Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=w4EZwfxmPYg",
             "duration": 3991,
-            "view_count": 30820673,
+            "view_count": 30851163,
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/w4EZwfxmPYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNk4QPvMnFRGaIX_2UykVSHenxMw",
+            "thumbnail": "https://i.ytimg.com/vi/w4EZwfxmPYg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAV4MkZ2Mwnl8LKE-PbFIPztpdHBA",
             "show_name": "Various Cartoons"
         },
         {
@@ -125,6 +125,17 @@
             "uploader": "We Bare Bears Hindi",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/nrL5lGfChyg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsdvPM1Jd0-chaj3tH3dpl76kb1w",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "1OYIxb1bcsE",
+            "title": "प्रवेश वर्जित Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=1OYIxb1bcsE",
+            "duration": 3941,
+            "view_count": 226829,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/1OYIxb1bcsE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCF_DnXfRNrauEBvRKn5u23dpNXAg",
             "show_name": "Various Cartoons"
         }
     ]
