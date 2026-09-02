@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-02T21:07:16.451419Z",
+    "last_updated": "2026-09-02T23:22:06.040314Z",
     "show_name": "Dragon Ball Super",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Super.",
-    "total_episodes": 67,
+    "total_episodes": 68,
     "episodes": [
         {
             "id": "2UUm1axJzMI",
@@ -21,10 +21,10 @@
             "title": "Dragon Ball DAIMA All Episodes in Hindi | Full Series Sigma Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=D1iKisFj9LE",
             "duration": 3808,
-            "view_count": 68556,
+            "view_count": 68714,
             "uploader": "Animeverse",
             "category": "anime/dragon_ball_super",
-            "thumbnail": "https://i.ytimg.com/vi/D1iKisFj9LE/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDi-wAshQQW4nExhfyzRCnDr7lpDw"
+            "thumbnail": "https://i.ytimg.com/vi/D1iKisFj9LE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX5fREV9MQHlY081GrmVoOj_N3mw"
         },
         {
             "id": "jR2WBvHCbLA",
@@ -181,10 +181,10 @@
             "title": "Beast Gohan Vs Cell Max Full Fight (4K 60FPS) Dragon Ball Super: Super Hero!",
             "url": "https://www.youtube.com/watch?v=5z5FLh84oLA",
             "duration": 702,
-            "view_count": 780384,
+            "view_count": 781101,
             "uploader": "Zeeny Editz",
             "category": "anime/dragon_ball_super",
-            "thumbnail": "https://i.ytimg.com/vi/5z5FLh84oLA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLD8mkzyx9elUOamKWhRzRhskzmDog"
+            "thumbnail": "https://i.ytimg.com/vi/5z5FLh84oLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfyor3OnpN0YQy7rxwj1jJVfcnpA"
         },
         {
             "id": "pcTEJtnloNk",
@@ -675,6 +675,16 @@
             "uploader": "Legend of the rising warrior",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/Wof8HI5qXl8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxtK0RQswsYH1J-wsj-9NfdkplPg"
+        },
+        {
+            "id": "jd5fiMzOrAA",
+            "title": "Dragon Ball Z: Wrath of the Dragon | Hindi",
+            "url": "https://www.youtube.com/watch?v=jd5fiMzOrAA",
+            "duration": 3110,
+            "view_count": 3012,
+            "uploader": "Dragon Ball Universe",
+            "category": "anime/dragon_ball_super",
+            "thumbnail": "https://i.ytimg.com/vi/jd5fiMzOrAA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbFh7tGG4jsEDvweoe2ergLwO-9w"
         }
     ]
 }
