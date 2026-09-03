@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-09-03T05:50:47.765603Z",
+    "show_name": "Looney Tunes",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Looney Tunes.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "U2oliAFLDwU",
+            "title": "Looney Tunes 🐰| Wile E. Coyote’s Wildest Fails! | Animated Cartoon 😍| Best Cartoon 🥳| @cnindia",
+            "url": "https://www.youtube.com/watch?v=U2oliAFLDwU",
+            "duration": 3637,
+            "view_count": 8973682,
+            "uploader": "Cartoon Network India",
+            "category": "cartoons/looney_tunes",
+            "thumbnail": "https://i.ytimg.com/vi/U2oliAFLDwU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6c3lqj5i0MVIxdci7SusBbt4kFg",
+            "show_name": "Looney Tunes"
+        }
+    ]
+}
