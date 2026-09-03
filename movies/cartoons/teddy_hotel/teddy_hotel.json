@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-09-03T18:46:35.431735Z",
+    "show_name": "Teddy Hotel",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Teddy Hotel.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "nONJU-c8ZQY",
+            "title": "Teddy Hotel | Mr Bean Cartoon Season 1 | Full Episodes | Mr Bean Official",
+            "url": "https://www.youtube.com/watch?v=nONJU-c8ZQY",
+            "duration": 2584,
+            "view_count": 8344225,
+            "uploader": "Mr Bean",
+            "category": "cartoons/teddy_hotel",
+            "thumbnail": "https://i.ytimg.com/vi/nONJU-c8ZQY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcofY0tWEu9h1KsrXaD35Y1N66Hg",
+            "show_name": "Teddy Hotel"
+        }
+    ]
+}

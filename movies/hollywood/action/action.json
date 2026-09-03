@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-03T18:02:32.172418Z",
-    "total_movies": 157,
+    "last_updated": "2026-09-03T18:46:35.249343Z",
+    "total_movies": 158,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -57,7 +57,7 @@
             "title": "THE ERADICATOR - Full Hollywood Action Movie Hindi Dubbed | Dane, Kent | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=e9EB-fYKYcc",
             "duration": 5308,
-            "view_count": 485813,
+            "view_count": 486111,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/e9EB-fYKYcc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFSoR62JLB4aAyTzFsawinlITkg"
@@ -67,7 +67,7 @@
             "title": "New Hollywood Hindi Dubbed Movie | Revenge Of Moorwen | Action Movie",
             "url": "https://www.youtube.com/watch?v=W6dzLx4LNxY",
             "duration": 6912,
-            "view_count": 645549,
+            "view_count": 645563,
             "uploader": "INFINITY MOVIES",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/W6dzLx4LNxY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIVYuOJ0731eyavArY87J37zL7w"
@@ -117,7 +117,7 @@
             "title": "LADY XTERMINATOR - Hollywood Action Movie Hindi Dubbed | Hollywood Movie Hindi Dubbed Full Action HD",
             "url": "https://www.youtube.com/watch?v=AD7POAou3qo",
             "duration": 4666,
-            "view_count": 3103347,
+            "view_count": 3103326,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/AD7POAou3qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWiNG7YIVYJMI360VSj2s2ACB7Yg"
@@ -187,7 +187,7 @@
             "title": "HIJACK TO HELL - Full Hollywood Action Movie Hindi Dubbed | Ron, Peter | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=jnVrEPe73xw",
             "duration": 5352,
-            "view_count": 480990,
+            "view_count": 481363,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/jnVrEPe73xw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiuwVeUiyGEIp8DSPZ8uS5reXaMQ"
@@ -1467,7 +1467,7 @@
             "title": "FORBIDDEN | फॉरबिडन | Hollywood Movie Hindi Dubbed | Drama Movie | Sony Pictures",
             "url": "https://www.youtube.com/watch?v=jd_7i8edjPg",
             "duration": 5125,
-            "view_count": 13561,
+            "view_count": 40172,
             "uploader": "Sony Pictures Entertainment - Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/jd_7i8edjPg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiXkPBYnS84jhxBAuvi2uOvyZNLA"
@@ -1571,6 +1571,16 @@
             "uploader": "Hollywood Hindi Dub",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/5p_3_nuU7Fk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRlUjQClv4sGiemLIyI8ZVMr5noA"
+        },
+        {
+            "id": "5C4B-8Lb9co",
+            "title": "GALAXY Full Movie Hindi Dubbed | Thalapathy Vijay | Samantha Ruth | South Indian Full Action Movie",
+            "url": "https://www.youtube.com/watch?v=5C4B-8Lb9co",
+            "duration": 7013,
+            "view_count": 362888,
+            "uploader": "Movie Forever",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/5C4B-8Lb9co/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJtXsTBjRdB3rRvqFpmXdqnZ50gw"
         }
     ]
 }
