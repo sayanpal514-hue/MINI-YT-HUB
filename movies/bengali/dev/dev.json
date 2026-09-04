@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-09-04T21:47:40.103955Z",
-    "total_movies": 100,
+    "last_updated": "2026-09-04T23:31:36.338196Z",
+    "total_movies": 113,
     "movies": [
         {
             "id": "brMlsMTIMS4",
             "title": "Premer Kahini( প্রেমের কাহিনী )Bangla full movie | Dev, koel Mallick, Ranjit Mallick | full hd #4k",
             "url": "https://www.youtube.com/watch?v=brMlsMTIMS4",
             "duration": 13686,
-            "view_count": 3262749,
+            "view_count": 3263647,
             "uploader": "জান্নাত",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/brMlsMTIMS4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcaGT0I1uRcROvo-O_SL1YoI7yJg"
@@ -77,7 +77,7 @@
             "title": "Bindaas (বিন্দাস) | Dev, Srabanti & Sayantika | Bangla New Movies 2025",
             "url": "https://www.youtube.com/watch?v=ABHffvY32HU",
             "duration": 7716,
-            "view_count": 12308438,
+            "view_count": 12309897,
             "uploader": "Fatra Entertainment",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/ABHffvY32HU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOHTP6WZhGz38iCYtkRbNuZHj-vQ"
@@ -707,10 +707,10 @@
             "title": "Herogiri (হিরোগিরি মুভি 2025) Bengali Movie Full HD | Dev, Mithun Chakraborty, Koel Mallick Movie HD",
             "url": "https://www.youtube.com/watch?v=j4oDp-BdBQg",
             "duration": 14444,
-            "view_count": 6423,
+            "view_count": 24869,
             "uploader": "Kausar Is Back",
             "category": "bengali/dev",
-            "thumbnail": "https://i.ytimg.com/vi/j4oDp-BdBQg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDw4SSbuzmADu6Y9T8gTj8pJRPOPA"
+            "thumbnail": "https://i.ytimg.com/vi/j4oDp-BdBQg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyHsofcrEGKTq-vvGBcHLXIxHzyw"
         },
         {
             "id": "B8zj0EKvtcM",
@@ -877,7 +877,7 @@
             "title": "Khoka 420 (খোকা ৪২০) | Dev, Nusrat | Bengali Full Hd Movie @hoichoi ",
             "url": "https://www.youtube.com/watch?v=-GPJGyU7x2M",
             "duration": 7576,
-            "view_count": 386804,
+            "view_count": 504102,
             "uploader": "Md Mainuddin",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/-GPJGyU7x2M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYdLFFy6kkHt4LbqMd6ZM6QEqpkA"
@@ -997,10 +997,140 @@
             "title": "Paglu full movie 🍿🎥 bangli movie 🍿🎀 . Dev and koyel 🎀 GK MOVIE FF",
             "url": "https://www.youtube.com/watch?v=eAY_prQUbMk",
             "duration": 9031,
-            "view_count": 16796,
+            "view_count": 16809,
             "uploader": "GKMovie ",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/eAY_prQUbMk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5fdkJt4q0XMDhl2MUZ-D7dV4AlA"
+        },
+        {
+            "id": "wddZVaq-TDs",
+            "title": "Bolo Na Tumi Amar Full Movie । বলো না তুমি আমার । Dev & Koel Mallick । 1080P movie",
+            "url": "https://www.youtube.com/watch?v=wddZVaq-TDs",
+            "duration": 13673,
+            "view_count": 823,
+            "uploader": "tamim bq",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/wddZVaq-TDs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKSW2yl8aWtim30mujATzivnRtew"
+        },
+        {
+            "id": "JHKtUMJXT90",
+            "title": "Love Express | Dev & Nusrat Jahan | Bangla New Movie | Bangla Movies",
+            "url": "https://www.youtube.com/watch?v=JHKtUMJXT90",
+            "duration": 10259,
+            "view_count": 31,
+            "uploader": "APIC MEDIA",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/JHKtUMJXT90/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYjdCZoP-nFMWW5yV3SYy0Ebw1qg"
+        },
+        {
+            "id": "r0sh1M-Kns4",
+            "title": "Premer Kahini( প্রেমের কাহিনী )Bengali full movie | Dev, koel Mallick, Ranjit Mallick | 1080P",
+            "url": "https://www.youtube.com/watch?v=r0sh1M-Kns4",
+            "duration": 11807,
+            "view_count": 35778,
+            "uploader": "Jk bro",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/r0sh1M-Kns4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnPlNLp8jK-5AwjXgH5NP6p87rAQ"
+        },
+        {
+            "id": "nhVW4ofmOQQ",
+            "title": "খোকা ৪২০ ফুল মুভি।  দেবের মুভি। khoka babu । শুভশ্রী ও দেব। ",
+            "url": "https://www.youtube.com/watch?v=nhVW4ofmOQQ",
+            "duration": 9356,
+            "view_count": 1075337,
+            "uploader": "FS ultra world",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/nhVW4ofmOQQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHicm3l9btSPyYOCWECLTJEMv7VA"
+        },
+        {
+            "id": "8-myeJJcAns",
+            "title": "Khoka 420 - 2013 ( খোকা ৪২০ ) Bengali Full Movie Reviewed | Dev & Subhashree | Bengali Full Movie ",
+            "url": "https://www.youtube.com/watch?v=8-myeJJcAns",
+            "duration": 8074,
+            "view_count": 21286,
+            "uploader": "STAR OFFICIAL",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/8-myeJJcAns/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa_UNQmCjPfAFxfH9zca7Ip23qjg"
+        },
+        {
+            "id": "t2oQxR3w2dw",
+            "title": "Herogiri (হিরোগিরি মুভি 2026) Bengali Movie Full HD | Dev, Mithun Chakraborty, Koel Mallick Movie HD",
+            "url": "https://www.youtube.com/watch?v=t2oQxR3w2dw",
+            "duration": 11935,
+            "view_count": 1712,
+            "uploader": "Family Fun (A)",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/t2oQxR3w2dw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZD5FQKRi9NHIC-f_NsTCOno1TBA"
+        },
+        {
+            "id": "m6fGPcx6P2Q",
+            "title": "Premer Kahini( প্রেমের কাহিনী )Bengali full movie | Dev, koel Mallick, Ranjit Mallick | full hd #4k ",
+            "url": "https://www.youtube.com/watch?v=m6fGPcx6P2Q",
+            "duration": 8410,
+            "view_count": 1096879,
+            "uploader": "sk media11",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/m6fGPcx6P2Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyjUOZeDgHbC1-wdbBMgBeBYgGgA"
+        },
+        {
+            "id": "c-3THcKB2I8",
+            "title": "Khoka Babu |  খোকাবাবু  | Dev,  Shubasri | Kolkata Bengali Full Hd Movie @hoichoi ",
+            "url": "https://www.youtube.com/watch?v=c-3THcKB2I8",
+            "duration": 7579,
+            "view_count": 48568,
+            "uploader": "Md Mainuddin",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/c-3THcKB2I8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4lFibhR9r7Ikt6849ke_OZbB71w"
+        },
+        {
+            "id": "RzWxiOTxeP8",
+            "title": "Le Chokka (লে ছক্কা) Bangla movie | Full movie ",
+            "url": "https://www.youtube.com/watch?v=RzWxiOTxeP8",
+            "duration": 9706,
+            "view_count": 770908,
+            "uploader": "S ♡ Lifestyle ꙳",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/RzWxiOTxeP8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC26fajl3xuB8RJYKGmg2hyhkU9NQ"
+        },
+        {
+            "id": "HUU6WSZgENs",
+            "title": "Rangbaaz (রংবাজ) Full HD Movie | Dev & Koel Mallick | Bengali Action Romance Movie",
+            "url": "https://www.youtube.com/watch?v=HUU6WSZgENs",
+            "duration": 10795,
+            "view_count": 4762,
+            "uploader": "JOBAYER HQ ",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/HUU6WSZgENs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlgXe-_Xbs1iyZ63DgTKyKJje_kw"
+        },
+        {
+            "id": "GntCZI8_Ntg",
+            "title": "Challenge - Bengali Full Movie Reviewed | Dev & Subhasree | Bangla Movie",
+            "url": "https://www.youtube.com/watch?v=GntCZI8_Ntg",
+            "duration": 8146,
+            "view_count": 192093,
+            "uploader": "Cinema Premi",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/GntCZI8_Ntg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAO_WC_8ID4Bal3jNxdPukh9wnqg"
+        },
+        {
+            "id": "neRaItsPX4Q",
+            "title": "Khokha Babu Bangala Full movie /Dev / Super Hit #viralvideo #trending #viral #youtube #movie#viral",
+            "url": "https://www.youtube.com/watch?v=neRaItsPX4Q",
+            "duration": 16679,
+            "view_count": 26304,
+            "uploader": "Aso Dua sikhi",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/neRaItsPX4Q/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoGDAP&rs=AOn4CLAK8sAVVMuVYXDTlHBaqmAObbEpng"
+        },
+        {
+            "id": "YNQzbpj3dxc",
+            "title": "Jamai 420 (2015) Full Movie HD | Superhit Bengali Comedy | Dev, Ankush & Soham | Bangla Cinema",
+            "url": "https://www.youtube.com/watch?v=YNQzbpj3dxc",
+            "duration": 8241,
+            "view_count": 153999,
+            "uploader": "BL MOVIE WORLD and BL RAKIB HOSSAIN",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/YNQzbpj3dxc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChk3zzCp1SmQLTw6bLAOc-kLTFyg"
         }
     ]
 }
