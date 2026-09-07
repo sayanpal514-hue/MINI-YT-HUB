@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-06T23:07:24.119356Z",
+    "last_updated": "2026-09-07T01:04:24.022002Z",
     "show_name": "My Hero Academia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for My Hero Academia.",
-    "total_episodes": 42,
+    "total_episodes": 43,
     "episodes": [
         {
             "id": "9brrbcdbZZs",
@@ -14,17 +14,17 @@
             "view_count": 25967,
             "uploader": "Dude Anime",
             "category": "anime/my_hero_academia",
-            "thumbnail": "https://i.ytimg.com/vi/9brrbcdbZZs/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBMbCXIAuqi7QGYybxt2PoydMjf7g"
+            "thumbnail": "https://i.ytimg.com/vi/9brrbcdbZZs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9RNfjL1_n_VOsynVTL6DmDlty0Q"
         },
         {
             "id": "ApU0xOU_PRE",
             "title": "My Hero Academia Season 1-6 Explained in hindi full recap",
             "url": "https://www.youtube.com/watch?v=ApU0xOU_PRE",
             "duration": 9631,
-            "view_count": 618947,
+            "view_count": 619023,
             "uploader": "VIPER ANIME",
             "category": "anime/my_hero_academia",
-            "thumbnail": "https://i.ytimg.com/vi/ApU0xOU_PRE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCcEhKC_sJLj29InvRkV_dvmKxrcQ"
+            "thumbnail": "https://i.ytimg.com/vi/ApU0xOU_PRE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCsozVUyuPECoY7ivI5KAch26zYw"
         },
         {
             "id": "pTiNTlJTM4M",
@@ -41,10 +41,10 @@
             "title": "My hero academia ep 3 in Hindi dubbed",
             "url": "https://www.youtube.com/watch?v=yReWbAH0ouM",
             "duration": 1472,
-            "view_count": 5002,
+            "view_count": 5024,
             "uploader": "SHAYAN YT",
             "category": "anime/my_hero_academia",
-            "thumbnail": "https://i.ytimg.com/vi/yReWbAH0ouM/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgjIDcofzAPuAL3GA==&rs=AOn4CLBa2AniZl_t86yhbS-9Q2gf3VeMmA"
+            "thumbnail": "https://i.ytimg.com/vi/yReWbAH0ouM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgjIDcofzAP&rs=AOn4CLDAR4CLOKnf36MphJhxp9CmeCr-kg"
         },
         {
             "id": "GcQNSjcqND4",
@@ -274,7 +274,7 @@
             "view_count": 48,
             "uploader": "Md Al-Amin",
             "category": "anime/my_hero_academia",
-            "thumbnail": "https://i.ytimg.com/vi/NmhQ4Vu7Lns/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhFIEkoZTAPuAL3GA==&rs=AOn4CLANc1IqJVC1uXAYJ1wbSoauZxP5YA"
+            "thumbnail": "https://i.ytimg.com/vi/NmhQ4Vu7Lns/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhFIEkoZTAP&rs=AOn4CLAGh_kO8qFMZ1nYdF60Xx1FxeMppg"
         },
         {
             "id": "d8VoH4jM9pY",
@@ -425,6 +425,16 @@
             "uploader": "Anime Bench",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/B2VhjonqIKg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJtk4tsyh4pHdzv06EgAaLM3Esog"
+        },
+        {
+            "id": "wT7f7-KSIaM",
+            "title": "My Hero Academia Hindi Dubbed S02E06",
+            "url": "https://www.youtube.com/watch?v=wT7f7-KSIaM",
+            "duration": 1432,
+            "view_count": 42,
+            "uploader": "Md Al-Amin",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/wT7f7-KSIaM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhJIGUoTDAP&rs=AOn4CLDX9UaYMP6rMynAgEz1Wbwpl9nMDA"
         }
     ]
 }
