@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-09T15:27:33.292246Z",
-    "total_movies": 178,
+    "last_updated": "2026-09-09T18:51:48.922090Z",
+    "total_movies": 180,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -67,7 +67,7 @@
             "title": "New Hollywood Hindi Dubbed Movie | Revenge Of Moorwen | Action Movie",
             "url": "https://www.youtube.com/watch?v=W6dzLx4LNxY",
             "duration": 6912,
-            "view_count": 655998,
+            "view_count": 656210,
             "uploader": "INFINITY MOVIES",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/W6dzLx4LNxY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIVYuOJ0731eyavArY87J37zL7w"
@@ -117,7 +117,7 @@
             "title": "LADY XTERMINATOR - Hollywood Action Movie Hindi Dubbed | Hollywood Movie Hindi Dubbed Full Action HD",
             "url": "https://www.youtube.com/watch?v=AD7POAou3qo",
             "duration": 4666,
-            "view_count": 3110770,
+            "view_count": 3110866,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/AD7POAou3qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWiNG7YIVYJMI360VSj2s2ACB7Yg"
@@ -387,7 +387,7 @@
             "title": "2030 VOLCANO - Full Hollywood Action Movie Hindi Dubbed | John, Dan C | Hindi Action Adventure Movie",
             "url": "https://www.youtube.com/watch?v=NuLyA12UEEg",
             "duration": 4976,
-            "view_count": 1712566,
+            "view_count": 1725967,
             "uploader": "Rising Nova Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/NuLyA12UEEg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_LLgjKQQm8PCEf68qHTRuGUPXSg"
@@ -1507,7 +1507,7 @@
             "title": "THE RETALIATOR - Full Hollywood Action Movie Hindi Dubbed | Tim F, Don | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=_OgEv8WrPQE",
             "duration": 5310,
-            "view_count": 159925,
+            "view_count": 161231,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/_OgEv8WrPQE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4WvMFIpNGukR3juKvRdshBzLypA"
@@ -1707,7 +1707,7 @@
             "title": "PRISON WOLF - Full Hollywood Action Movie Hindi Dubbed | David, James | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=cDtFY4nMvc4",
             "duration": 5006,
-            "view_count": 165055,
+            "view_count": 230643,
             "uploader": "Rising Nova Premiere",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/cDtFY4nMvc4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGrXA2kLEv3Cn7Q9otAOR9K2GaBg"
@@ -1717,7 +1717,7 @@
             "title": "The BeeKeeper (2024) Full Movie in Hindi Dubbed | Latest Hollywood Action Movie | Jason Statham",
             "url": "https://www.youtube.com/watch?v=7NKNw7_ve9M",
             "duration": 5804,
-            "view_count": 963,
+            "view_count": 1026,
             "uploader": "CirCuit-cc",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/7NKNw7_ve9M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATaalHeT8BLCSRpnDuyuSaAumOKQ"
@@ -1781,6 +1781,26 @@
             "uploader": "Amaz Studio",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/jQvdsWMi49o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUrzlgF4dM5aYYYKu3R9uN7kRdlw"
+        },
+        {
+            "id": "gm7tsJMIVks",
+            "title": "BATTLESHIP ONE - Full Hollywood Action Movie Hindi Dubbed | Jon| Hindi Sci-Fi Action Adventure Movie",
+            "url": "https://www.youtube.com/watch?v=gm7tsJMIVks",
+            "duration": 5362,
+            "view_count": 2262,
+            "uploader": "Rising Nova Premiere",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/gm7tsJMIVks/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxWkCRnEJ1c7q3MgLH6Z_Pu6tX6g"
+        },
+        {
+            "id": "JtmCRZqWW5o",
+            "title": "Bermuda Tentacles | Hindi dubbed Hollywood full movie | Hollywood Movie Dubbed in Hindi",
+            "url": "https://www.youtube.com/watch?v=JtmCRZqWW5o",
+            "duration": 5148,
+            "view_count": 21594882,
+            "uploader": "South Movie Full Hindi Dubbed",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/JtmCRZqWW5o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-gt1v7Y4yIJifErmcOKcSjTDDDw"
         }
     ]
 }
