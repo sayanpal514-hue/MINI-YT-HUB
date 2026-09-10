@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-08T23:27:08.426567Z",
+    "last_updated": "2026-09-10T14:39:19.974906Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 12,
+    "total_episodes": 13,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -136,6 +136,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/1OYIxb1bcsE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu2uSdHf_zd6QH9ujIgCM-sPANKw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "OBRW7TdtRoM",
+            "title": "गिरफ्तारी Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=OBRW7TdtRoM",
+            "duration": 3928,
+            "view_count": 312999,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/OBRW7TdtRoM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFKIPGzL1dMq7SA4YilgzYDw_4Q",
             "show_name": "Various Cartoons"
         }
     ]
