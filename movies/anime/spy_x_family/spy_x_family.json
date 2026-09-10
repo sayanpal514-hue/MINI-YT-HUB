@@ -1,20 +1,20 @@
 {
-    "last_updated": "2026-09-10T06:01:19.862477Z",
+    "last_updated": "2026-09-10T10:36:14.896595Z",
     "show_name": "Spy X Family",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Spy X Family.",
-    "total_episodes": 31,
+    "total_episodes": 32,
     "episodes": [
         {
             "id": "pRuW10v8Wn4",
             "title": "Spy x Family Season 1 full Story Explained in Hindi' #spyxfamily",
             "url": "https://www.youtube.com/watch?v=pRuW10v8Wn4",
             "duration": 2732,
-            "view_count": 159850,
+            "view_count": 159880,
             "uploader": "MUSSU EXPLAINER",
             "category": "anime/spy_x_family",
-            "thumbnail": "https://i.ytimg.com/vi/pRuW10v8Wn4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC9MzxtrjnCrac4YqObayvCyMTLbQ"
+            "thumbnail": "https://i.ytimg.com/vi/pRuW10v8Wn4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARFkuKIQlo2eIMq9hxXNgby5-2eA"
         },
         {
             "id": "X_eAoF5bQ0k",
@@ -315,6 +315,16 @@
             "uploader": "Crunchyroll India",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/SRKSGTWemaY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAhjUo6u6G8_2AZ-ZXltf0LzbJCjQ"
+        },
+        {
+            "id": "a-2k0BoVsbs",
+            "title": "Spy x Family Season 3 Episode 1 Explained in Hindi | SOWbell",
+            "url": "https://www.youtube.com/watch?v=a-2k0BoVsbs",
+            "duration": 898,
+            "view_count": 123041,
+            "uploader": "SOWbell",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/a-2k0BoVsbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8vRtxgVb6oyjJRhnXE7LU1P8_6Q"
         }
     ]
 }
