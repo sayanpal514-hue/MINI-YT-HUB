@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-11T00:31:30.599393Z",
+    "last_updated": "2026-09-11T05:09:48.481798Z",
     "show_name": "Mr Bean",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Mr Bean.",
-    "total_episodes": 114,
+    "total_episodes": 115,
     "episodes": [
         {
             "id": "niVDwHZ8lh0",
@@ -41,10 +41,10 @@
             "title": "Mr Bean's Portly House Guest | Mr Bean Animated Season 1 | Full Episodes | Mr Bean World",
             "url": "https://www.youtube.com/watch?v=LBvgXBClClY",
             "duration": 3230,
-            "view_count": 2510949,
+            "view_count": 2511657,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
-            "thumbnail": "https://i.ytimg.com/vi/LBvgXBClClY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBUTxbSz3vDNK-HsQyw7ikXr7fG7Q"
+            "thumbnail": "https://i.ytimg.com/vi/LBvgXBClClY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRRE7Qx887YSdiZUPlBexaZ3rTzw"
         },
         {
             "id": "kZWBWB0P-m8",
@@ -61,10 +61,10 @@
             "title": "The Beanshank Redemption | Mr Bean Animated | Full Episode Compilation | Mr Bean World",
             "url": "https://www.youtube.com/watch?v=QZI_nkGotGY",
             "duration": 3229,
-            "view_count": 9228505,
+            "view_count": 9228687,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
-            "thumbnail": "https://i.ytimg.com/vi/QZI_nkGotGY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBGhlJukgFS3xfUHV6SDfwQYS5JKg"
+            "thumbnail": "https://i.ytimg.com/vi/QZI_nkGotGY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVVvU9VSBzNoBSdGycwvaJYuykWg"
         },
         {
             "id": "FIw3PvDjqi0",
@@ -91,7 +91,7 @@
             "title": "Mr Bean Is HOMELESS! | Mr Bean Animated Season 1 | Full Episodes | Mr Bean World",
             "url": "https://www.youtube.com/watch?v=aryCScSrDa0",
             "duration": 3228,
-            "view_count": 20923971,
+            "view_count": 20957382,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/aryCScSrDa0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLConLgEJ2kaHJvncagTRzsXcq8qPw"
@@ -161,10 +161,10 @@
             "title": "When You Forget to Set the Timer! | Mr Bean Animated Season 3 | Full Episodes | Mr Bean",
             "url": "https://www.youtube.com/watch?v=xRwIqdON1WM",
             "duration": 3484,
-            "view_count": 10761070,
+            "view_count": 10761564,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
-            "thumbnail": "https://i.ytimg.com/vi/xRwIqdON1WM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD47sgueBLbdXbczLdu4EKDijeIsA"
+            "thumbnail": "https://i.ytimg.com/vi/xRwIqdON1WM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC1gKzDe_ES_hXdU5bL6qJ0L9EsA"
         },
         {
             "id": "PNU-TAhtLFA",
@@ -181,7 +181,7 @@
             "title": "Mr Bean Becomes RICH?! | Mr Bean Animated Season 3 | Funny Clips | Mr Bean",
             "url": "https://www.youtube.com/watch?v=JPWNnGKRdV0",
             "duration": 3303,
-            "view_count": 5295440,
+            "view_count": 5297567,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/JPWNnGKRdV0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl5QObJqWJROIXvBr-Zo-sUJegDQ"
@@ -291,7 +291,7 @@
             "title": "Mr Bean Becomes Mrs Wicket's Servant | Mr Bean Animated | Full Episode Compilation | Mr Bean World",
             "url": "https://www.youtube.com/watch?v=2bLKZg-muNg",
             "duration": 3302,
-            "view_count": 10563810,
+            "view_count": 10564647,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/2bLKZg-muNg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOTSf4XEnuHJSumOh1bMFQQyup5Q"
@@ -341,10 +341,10 @@
             "title": "Can't Stop Collecting! | Mr Bean Animated season 3 | Full Episodes | Mr Bean",
             "url": "https://www.youtube.com/watch?v=x8sCCwHqrC8",
             "duration": 5467,
-            "view_count": 2033558,
+            "view_count": 2033835,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
-            "thumbnail": "https://i.ytimg.com/vi/x8sCCwHqrC8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAnFYrDGcC2bB5z1qwjlEuj8XgNAQ"
+            "thumbnail": "https://i.ytimg.com/vi/x8sCCwHqrC8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb-0aj4lmGpk4zSjbyglz0hFzhhw"
         },
         {
             "id": "3Ug9KIAMFcY",
@@ -371,7 +371,7 @@
             "title": "LONDON Bean | Funny Episodes | Mr Bean World",
             "url": "https://www.youtube.com/watch?v=HF48Ur2dbMM",
             "duration": 2657,
-            "view_count": 36123320,
+            "view_count": 36130797,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/HF48Ur2dbMM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQaB-v5yXKGiz_k0eq8GN9ODCEew"
@@ -441,10 +441,10 @@
             "title": "Mr Bean In The Snow & Cold | Mr Bean World",
             "url": "https://www.youtube.com/watch?v=AsakezBU3SQ",
             "duration": 2674,
-            "view_count": 105247894,
+            "view_count": 105249748,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
-            "thumbnail": "https://i.ytimg.com/vi/AsakezBU3SQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAjVs_yAsysO9gNBUg9MALCKzCRpg"
+            "thumbnail": "https://i.ytimg.com/vi/AsakezBU3SQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEfSK1CSH6ws_hz9k5mjLwknntlQ"
         },
         {
             "id": "tLqDkzW3804",
@@ -491,7 +491,7 @@
             "title": "Tired Bean And Teddy Try To Get Rest! | Season 1 Full Episodes | Mr Bean Animated",
             "url": "https://www.youtube.com/watch?v=3KCD3h9Fucc",
             "duration": 34520,
-            "view_count": 836943,
+            "view_count": 891423,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/3KCD3h9Fucc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-ySlI9ZhEx37jv4np5zbs2DLTpQ"
@@ -521,7 +521,7 @@
             "title": "The OCTOPUS ROLLERCOASTER! | Mr Bean Animated Season 2 | Full Episodes | Mr Bean",
             "url": "https://www.youtube.com/watch?v=mK_xnSMwb60",
             "duration": 3300,
-            "view_count": 2062125,
+            "view_count": 2062686,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/mK_xnSMwb60/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBItrXG43-2_Rg-mAHEBTL7meGjgg"
@@ -631,7 +631,7 @@
             "title": "Bed Time | Funny Episodes | Mr Bean World",
             "url": "https://www.youtube.com/watch?v=f1OvieYLHQE",
             "duration": 2453,
-            "view_count": 45879671,
+            "view_count": 45886390,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/f1OvieYLHQE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB77yM8J6uK4xwlFmNAvT-Jxc0F3g"
@@ -741,7 +741,7 @@
             "title": "Mr Bean Shopping Chaos and Teddy Adventures | Mr Bean Animated",
             "url": "https://www.youtube.com/watch?v=S0WY9CjRGy8",
             "duration": 6726,
-            "view_count": 1016193,
+            "view_count": 1018666,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/S0WY9CjRGy8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEgoSTAP&rs=AOn4CLAFMgYGDvsGPd7sikbUh4TlZ_BjIw"
@@ -961,7 +961,7 @@
             "title": "Precious Plant GOES TO THE BIN! | Mr Bean Animated  | EP 11 Season 4 Full Episode",
             "url": "https://www.youtube.com/watch?v=_fsjQXoqFtM",
             "duration": 1297,
-            "view_count": 1843947,
+            "view_count": 1850716,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/_fsjQXoqFtM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF6kb_BJl3giwzrqVANru_MbPP5Q"
@@ -971,7 +971,7 @@
             "title": "my bean in hindi New episode",
             "url": "https://www.youtube.com/watch?v=fjuxFyxEOU4",
             "duration": 631,
-            "view_count": 856626,
+            "view_count": 858739,
             "uploader": "Mr Bean Adventures",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/fjuxFyxEOU4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz6s98fEsj1sCpGCtHS_NvK5wfvg"
@@ -1001,7 +1001,7 @@
             "title": "What Did Mr Bean Hatch!? | Mr Bean Animated Season 1 | Full Episodes | Mr Bean Official",
             "url": "https://www.youtube.com/watch?v=fzymK2GyAtU",
             "duration": 5166,
-            "view_count": 6583241,
+            "view_count": 6587291,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/fzymK2GyAtU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVPuu-_-MsjKPYKF5IAXeW57yCTw"
@@ -1041,7 +1041,7 @@
             "title": "Beans Expensive Dress Disaster at Charity Ball | Mr Bean Animated",
             "url": "https://www.youtube.com/watch?v=YrWAY5U31G8",
             "duration": 3890,
-            "view_count": 2107586,
+            "view_count": 2109146,
             "uploader": "Mr Bean",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/YrWAY5U31G8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEcoTjAP&rs=AOn4CLDvWtcbbW6eQqVftgOZ_6L1uBHaNw"
@@ -1101,7 +1101,7 @@
             "title": "Mr Bean’s Drone Rescue Mission! | 4K | Mr Bean Animated Season 4 | FULL COMPILATION",
             "url": "https://www.youtube.com/watch?v=YjvEaquQ_9E",
             "duration": 4809,
-            "view_count": 445487,
+            "view_count": 463943,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/YjvEaquQ_9E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBtTYQjhHnur6g6PnUkRDzIREMAg"
@@ -1121,7 +1121,7 @@
             "title": "Mr Bean’s Train Ticket Flies Away! | 4K | Mr Bean Animated Season 4 | FULL COMPILATION",
             "url": "https://www.youtube.com/watch?v=tybEvTVdL60",
             "duration": 4809,
-            "view_count": 530180,
+            "view_count": 544809,
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/tybEvTVdL60/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALjnuhYpfTpkkeuBm2cvzYGCxhlA"
@@ -1145,6 +1145,16 @@
             "uploader": "Mr Bean World",
             "category": "cartoons/mr_bean",
             "thumbnail": "https://i.ytimg.com/vi/E-aEGXSVWgA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAy1uGwvwUCfEVHBh0sezFW4p6j8g"
+        },
+        {
+            "id": "mIBY9GqoRsU",
+            "title": "Bean Picking | Funny Episodes | Mr Bean Official",
+            "url": "https://www.youtube.com/watch?v=mIBY9GqoRsU",
+            "duration": 2559,
+            "view_count": 41901884,
+            "uploader": "Mr Bean",
+            "category": "cartoons/mr_bean",
+            "thumbnail": "https://i.ytimg.com/vi/mIBY9GqoRsU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxWfh6dULzdTukVRfvLItKos7B5g"
         }
     ]
 }
