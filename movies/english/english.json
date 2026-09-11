@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-10T22:38:35.187593Z",
-    "total_movies": 430,
+    "last_updated": "2026-09-11T00:31:30.607730Z",
+    "total_movies": 431,
     "movies": [
         {
             "id": "hlgc9NpriXY",
@@ -27,7 +27,7 @@
             "title": "A TRUE STORY movie that captured millions of hearts | Full Movie 4K",
             "url": "https://www.youtube.com/watch?v=JeH1i8PDS4o",
             "duration": 6214,
-            "view_count": 8420258,
+            "view_count": 8423270,
             "uploader": "FilmVaultX",
             "category": "english",
             "thumbnail": "https://i.ytimg.com/vi/JeH1i8PDS4o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN1xxkv2GeW2qtg7YVzOQ3EHWidA"
@@ -177,7 +177,7 @@
             "title": "Terrorists Slaughter a Village and Seize American Hostages—Special Forces Attack From the Water",
             "url": "https://www.youtube.com/watch?v=mHENsiQFdYg",
             "duration": 6533,
-            "view_count": 6597215,
+            "view_count": 6609767,
             "uploader": "Action Legends",
             "category": "english",
             "thumbnail": "https://i.ytimg.com/vi/mHENsiQFdYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9L_A9muH1gw4X28XKaS714V0N2g"
@@ -397,7 +397,7 @@
             "title": "Resident evil apocalypse Full Movie English dub",
             "url": "https://www.youtube.com/watch?v=hc-Rkg9zW78",
             "duration": 5627,
-            "view_count": 1664358,
+            "view_count": 1664725,
             "uploader": "Entertainment Centre ",
             "category": "english",
             "thumbnail": "https://i.ytimg.com/vi/hc-Rkg9zW78/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJjyRhYc21PHz5dzNgJJRrC-ZyLA"
@@ -3407,7 +3407,7 @@
             "title": "SAVIOR | Dennis Quaid (The Day After Tomorrow) | ACTION, WAR | Full Movie in English",
             "url": "https://www.youtube.com/watch?v=sF5JXjVpwjc",
             "duration": 6175,
-            "view_count": 812076,
+            "view_count": 815745,
             "uploader": "MovieSphere - Action Full Movies",
             "category": "english",
             "thumbnail": "https://i.ytimg.com/vi/sF5JXjVpwjc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjROWxKOYn6ONHSqObvmGLWAli3g"
@@ -3637,7 +3637,7 @@
             "title": "Only Human | Dennis Quaid (The Substance) | WAR, DRAMA | Full Movie in English",
             "url": "https://www.youtube.com/watch?v=zfBP0jUwRsw",
             "duration": 6092,
-            "view_count": 276227,
+            "view_count": 283843,
             "uploader": "Boxoffice | NEW Full Movies in English",
             "category": "english",
             "thumbnail": "https://i.ytimg.com/vi/zfBP0jUwRsw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArnWIl_ATJAJZKW6qm0FDkZbyFkQ"
@@ -3807,7 +3807,7 @@
             "title": "🎬 A MOVIE Everyone Will Watch Until The Very Last Second! BASED ON A TRUE STORY | Watch Full Movie",
             "url": "https://www.youtube.com/watch?v=6D_gmtQ7avg",
             "duration": 5231,
-            "view_count": 972746,
+            "view_count": 973097,
             "uploader": "Movies Anytime",
             "category": "english",
             "thumbnail": "https://i.ytimg.com/vi/6D_gmtQ7avg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzmxBHEv4VPU0Jwerq11H9MKVC-g"
@@ -4037,7 +4037,7 @@
             "title": "They Hunted Her, Now She’s Hunting Them | Action Thriller | Full Movie in English",
             "url": "https://www.youtube.com/watch?v=SLubR4PiFys",
             "duration": 5241,
-            "view_count": 1853008,
+            "view_count": 1854914,
             "uploader": "KaleidoScreen",
             "category": "english",
             "thumbnail": "https://i.ytimg.com/vi/SLubR4PiFys/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxM0mZ2YYYbUGYDcPGXeViy4mnmg"
@@ -4297,10 +4297,20 @@
             "title": "Wild Things | English Full Movie",
             "url": "https://www.youtube.com/watch?v=F1PwmPcBMX8",
             "duration": 5671,
-            "view_count": 17403,
+            "view_count": 17692,
             "uploader": "Cinematic Euphoria",
             "category": "english",
             "thumbnail": "https://i.ytimg.com/vi/F1PwmPcBMX8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA26LFQFiRa9XMCmpjVtIRUatU41A"
+        },
+        {
+            "id": "b_jL-7SUXec",
+            "title": "This Film Won Numerous Awards and Worldwide Recognition! | DESERT SON | Full Movie English",
+            "url": "https://www.youtube.com/watch?v=b_jL-7SUXec",
+            "duration": 5510,
+            "view_count": 558740,
+            "uploader": "FilmVaultX",
+            "category": "english",
+            "thumbnail": "https://i.ytimg.com/vi/b_jL-7SUXec/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvgPcFzD9isbjSDhDclf3emzdSWw"
         }
     ]
 }
