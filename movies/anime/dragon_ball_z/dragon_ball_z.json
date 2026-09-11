@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-11T20:01:54.693167Z",
+    "last_updated": "2026-09-11T22:18:36.154104Z",
     "show_name": "Dragon Ball Z",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Z.",
-    "total_episodes": 111,
+    "total_episodes": 112,
     "episodes": [
         {
             "id": "n1Gdmkmaxn8",
@@ -141,7 +141,7 @@
             "title": "Dragon Ball Z Episode 1in Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=r5nbjb_S3Zg",
             "duration": 1282,
-            "view_count": 45022,
+            "view_count": 45143,
             "uploader": "अरुण कुमार एसएसजी 2.              Arun Kumar Ssg 2",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/r5nbjb_S3Zg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ32rgTTMEgTi9G3-Q0EOMg58y3A"
@@ -181,7 +181,7 @@
             "title": "DRAGON BALL Z ANIME WAR FULL MOVIE RISE OF THE EVILL GODS HINDI DUBBED FULL MOVIE HD",
             "url": "https://www.youtube.com/watch?v=XCy1f0gjD8M",
             "duration": 12173,
-            "view_count": 942851,
+            "view_count": 942901,
             "uploader": "RYUXIT 🖤",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/XCy1f0gjD8M/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBMofzAP&rs=AOn4CLC-D39IannNpj2LraFYhNZPCdU7zQ"
@@ -191,7 +191,7 @@
             "title": "Goku Vs Saitama Full Fight Hindi Dubbed | Dub By @RDJROHIT_ANIME_PRO ",
             "url": "https://www.youtube.com/watch?v=NxQvXRF7bWo",
             "duration": 7874,
-            "view_count": 351349,
+            "view_count": 351619,
             "uploader": "OTaku Complex",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/NxQvXRF7bWo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-KppIBUnyVDY9v9chs8bG3pPaTA"
@@ -1115,6 +1115,16 @@
             "uploader": "Legend of the rising warrior",
             "category": "anime/dragon_ball_z",
             "thumbnail": "https://i.ytimg.com/vi/f9M9SRV1Drc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBi2rnsR2d87EpWNIu-0bg0z4m74Q"
+        },
+        {
+            "id": "QrEnp03QNmM",
+            "title": "Dragon Ball Z: Bojack Unbound | Full Movie in Hindi | DBZ Movie",
+            "url": "https://www.youtube.com/watch?v=QrEnp03QNmM",
+            "duration": 2728,
+            "view_count": 743,
+            "uploader": "Dragon Ball Universe",
+            "category": "anime/dragon_ball_z",
+            "thumbnail": "https://i.ytimg.com/vi/QrEnp03QNmM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEt-BEtu6qvcwjp0ZEz1nbDOig6g"
         }
     ]
 }
