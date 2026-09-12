@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-09-12T08:57:18.812754Z",
+    "last_updated": "2026-09-12T12:29:50.325010Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 34,
+    "total_episodes": 35,
     "episodes": [
         {
             "id": "7SplSrjetxU",
             "title": "Doggy Don और चूहो की हुई बदमाशी शांत | Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=7SplSrjetxU",
             "duration": 1369,
-            "view_count": 786375,
+            "view_count": 787173,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdmO31Fha8sS58WtYTGog_hC2ACg"
@@ -171,7 +171,7 @@
             "title": "Pakdam Pakdai | Full Episode | Mice Brothers की मस्ती: Doggy Don और Colonel को डराना! 🐭😱",
             "url": "https://www.youtube.com/watch?v=wMRhi-F6Zdw",
             "duration": 1060,
-            "view_count": 549295,
+            "view_count": 549436,
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/wMRhi-F6Zdw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB763vOQBIWTOArkhSZUY-9KjFJCQ"
@@ -345,6 +345,16 @@
             "uploader": "WB Kids",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/bCtlituS9p8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo6HvO5fEZSZkmb6ahr7hP1r4g8g"
+        },
+        {
+            "id": "UYi7OpmoqNg",
+            "title": "Pakdam Pakdai | Full Episode | Motu पी गया Doggy Don की पूरी चाय",
+            "url": "https://www.youtube.com/watch?v=UYi7OpmoqNg",
+            "duration": 1060,
+            "view_count": 1472911,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/UYi7OpmoqNg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp1WfJtjSnnFm2NJ_ytlHvEnr2iQ"
         }
     ]
 }
