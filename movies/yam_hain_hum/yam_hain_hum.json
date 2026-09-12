@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-12T19:51:22.657343Z",
-    "total_movies": 246,
+    "last_updated": "2026-09-12T21:47:31.124320Z",
+    "total_movies": 261,
     "movies": [
         {
             "id": "C_v05M1W0v8",
@@ -487,7 +487,7 @@
             "title": "Yam Hain Hum - यम हैं हम - Episode 97 - 23rd November, 2017",
             "url": "https://www.youtube.com/watch?v=QXeNgl0vTLM",
             "duration": 1182,
-            "view_count": 359912,
+            "view_count": 359917,
             "uploader": "Sony PAL",
             "category": "yam_hain_hum",
             "thumbnail": "https://i.ytimg.com/vi/QXeNgl0vTLM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9fWxCvDhijY0VA4L2s-9TGBH16w"
@@ -767,7 +767,7 @@
             "title": "Yam Hain Hum - यम हैं हम - Episode 99 - 24th November, 2017",
             "url": "https://www.youtube.com/watch?v=MJlAdjalcU0",
             "duration": 1196,
-            "view_count": 307724,
+            "view_count": 307809,
             "uploader": "Sony PAL",
             "category": "yam_hain_hum",
             "thumbnail": "https://i.ytimg.com/vi/MJlAdjalcU0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOLBm3kgh6ghEPayP4bgH-7exQhg"
@@ -1917,7 +1917,7 @@
             "title": "Yam Hain Hum - यम हैं हम - Episode 95 - 24th April 2015",
             "url": "https://www.youtube.com/watch?v=BDHed1E2Xdc",
             "duration": 1162,
-            "view_count": 583869,
+            "view_count": 583871,
             "uploader": "Sony SAB",
             "category": "yam_hain_hum",
             "thumbnail": "https://i.ytimg.com/vi/BDHed1E2Xdc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzCl4ngo47D4SL_73ummqqSy_VoQ"
@@ -2461,6 +2461,156 @@
             "uploader": "Sony PAL",
             "category": "yam_hain_hum",
             "thumbnail": "https://i.ytimg.com/vi/HNfmuQWJgrU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjG_6pWwOoYgkO-r_0kBjTXF9v3A"
+        },
+        {
+            "id": "hZryrbPeuUU",
+            "title": "04/09/2026 | Cinematic Metaphors & Jain Metaphysics: Decoding Violence in The Last King of Scotland",
+            "url": "https://www.youtube.com/watch?v=hZryrbPeuUU",
+            "duration": 3183,
+            "view_count": 17,
+            "uploader": "MA in Jaina Studies",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/hZryrbPeuUU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzZFaEzktzX98cMkIRaHLGxn3S8g"
+        },
+        {
+            "id": "cz0k09hI2qw",
+            "title": "🎨 I Became an 8-Year-Old Sect Failure—Nursery Skills Made Every Cultivator Call Me a Genius #Anime",
+            "url": "https://www.youtube.com/watch?v=cz0k09hI2qw",
+            "duration": 6485,
+            "view_count": 527,
+            "uploader": "Sunray Drama",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/cz0k09hI2qw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWL8WENMqrIcmVyq9Vh63s2bsVyw"
+        },
+        {
+            "id": "aerOsiqNOZI",
+            "title": "yoshi & mrs yoshi got married 💚🩷",
+            "url": "https://www.youtube.com/watch?v=aerOsiqNOZI",
+            "duration": 911,
+            "view_count": 83,
+            "uploader": "Supersonicknuckles",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/aerOsiqNOZI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9vkFL8ZY2X1bPRCRTNFcL5ZmIQA"
+        },
+        {
+            "id": "rOElCOXMwkc",
+            "title": "Cast out by their own relatives, the father and child built a new home with their own hands.",
+            "url": "https://www.youtube.com/watch?v=rOElCOXMwkc",
+            "duration": 3183,
+            "view_count": 55249,
+            "uploader": "Lê Hạnh",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/rOElCOXMwkc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFaCj_lhkeqIeJuyHLz5HW19D39Q"
+        },
+        {
+            "id": "acAW-h_Fx6c",
+            "title": "Prison Story:  White Piru Blood in Tennessee Prison",
+            "url": "https://www.youtube.com/watch?v=acAW-h_Fx6c",
+            "duration": 1091,
+            "view_count": 403,
+            "uploader": "Crime Talk 369 | Real Prison Stories ",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/acAW-h_Fx6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1ZgnrJweJrjZtx3aEZM-0sRiJEw"
+        },
+        {
+            "id": "wtxMOThsoE4",
+            "title": "What will Cuong do when his ex-wife shows up and takes their two children away?",
+            "url": "https://www.youtube.com/watch?v=wtxMOThsoE4",
+            "duration": 3291,
+            "view_count": 21032,
+            "uploader": "Gia Đình Kiên Cường",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/wtxMOThsoE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoQ6vH3WZ6uWb7QFc0SQ2dHHjhvg"
+        },
+        {
+            "id": "I6FM2ApqGb0",
+            "title": "The Handsome Brandons by Katharine Tynan 😍👑 - A Heartwarming Tale of Love & Destiny",
+            "url": "https://www.youtube.com/watch?v=I6FM2ApqGb0",
+            "duration": 31881,
+            "view_count": 18832,
+            "uploader": "Storytime Haven",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/I6FM2ApqGb0/hq720_custom_1.jpg?sqp=CNyPl9UG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe5B66Ifh4RDzv7kFkniRxBBlm4w"
+        },
+        {
+            "id": "CiU55r4kxjk",
+            "title": "sonic's evil clone",
+            "url": "https://www.youtube.com/watch?v=CiU55r4kxjk",
+            "duration": 1082,
+            "view_count": 299,
+            "uploader": "Supersonicknuckles",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/CiU55r4kxjk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-HqpcnE0UN2PzTD7XVii7wCx1Lg"
+        },
+        {
+            "id": "RmNLTNwdJog",
+            "title": "【ENG DUB】She Gave Him No Child in Five Years. She Gave the Emperor Two in Three Years.",
+            "url": "https://www.youtube.com/watch?v=RmNLTNwdJog",
+            "duration": 8340,
+            "view_count": 148962,
+            "uploader": "StardustTV",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/RmNLTNwdJog/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6Um86QsOG2aalqH2mS5Tw7AfzaA"
+        },
+        {
+            "id": "NpsVDzKH8ro",
+            "title": "Harvest, DIY Electric Lights & A Warm Dinner With",
+            "url": "https://www.youtube.com/watch?v=NpsVDzKH8ro",
+            "duration": 2234,
+            "view_count": 6825,
+            "uploader": "Trieu Luan",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/NpsVDzKH8ro/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGEmGAXCDJ3_hmhQzgcO_XsAKqkQ"
+        },
+        {
+            "id": "87Vp7i18M_g",
+            "title": "Betrayed by his wife after going bankrupt, the man found joy in his daughter.",
+            "url": "https://www.youtube.com/watch?v=87Vp7i18M_g",
+            "duration": 4105,
+            "view_count": 13830,
+            "uploader": "Triệu Mùi",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/87Vp7i18M_g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7memmsz9hqqWMFwTe9S9vEWUGiw"
+        },
+        {
+            "id": "IkBgHJpokIc",
+            "title": "A single mother returned home in shock to discover someone building a house on her land.",
+            "url": "https://www.youtube.com/watch?v=IkBgHJpokIc",
+            "duration": 2327,
+            "view_count": 9086,
+            "uploader": "Lý Tiểu Ngân",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/IkBgHJpokIc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1mT1rb_15kZAX5DRrhq-EJmdhDQ"
+        },
+        {
+            "id": "lDwdKMqkHQs",
+            "title": "shadow and his back up sonic rescues silver from a time travel villian mephlies",
+            "url": "https://www.youtube.com/watch?v=lDwdKMqkHQs",
+            "duration": 773,
+            "view_count": 163,
+            "uploader": "Supersonicknuckles",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/lDwdKMqkHQs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcPRZJeyCgo7t9EC6dGwiSBlKrLA"
+        },
+        {
+            "id": "KL_ROPRWlyQ",
+            "title": "shadow and ray rescues sonic from dr . robotnik and metal sonic",
+            "url": "https://www.youtube.com/watch?v=KL_ROPRWlyQ",
+            "duration": 960,
+            "view_count": 379,
+            "uploader": "Supersonicknuckles",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/KL_ROPRWlyQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt-l8FnXKntXdyT_TCTqFieBYR8Q"
+        },
+        {
+            "id": "OSRyF0Zht9k",
+            "title": "【Multi Sub】Traded as a concubine for his lover, I escaped and gained the emperor’s love.",
+            "url": "https://www.youtube.com/watch?v=OSRyF0Zht9k",
+            "duration": 8340,
+            "view_count": 1285,
+            "uploader": "KittenSprint Drama",
+            "category": "yam_hain_hum",
+            "thumbnail": "https://i.ytimg.com/vi/OSRyF0Zht9k/hq720_custom_3.jpg?sqp=CNyPl9UG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTZubIUjX8T3Kh9dMCa5aeqNHWVw"
         }
     ]
 }
