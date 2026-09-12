@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-11T22:18:36.225623Z",
-    "total_movies": 185,
+    "last_updated": "2026-09-12T00:22:02.508912Z",
+    "total_movies": 187,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -57,7 +57,7 @@
             "title": "THE ERADICATOR - Full Hollywood Action Movie Hindi Dubbed | Dane, Kent | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=e9EB-fYKYcc",
             "duration": 5308,
-            "view_count": 502966,
+            "view_count": 503175,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/e9EB-fYKYcc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFSoR62JLB4aAyTzFsawinlITkg"
@@ -67,7 +67,7 @@
             "title": "New Hollywood Hindi Dubbed Movie | Revenge Of Moorwen | Action Movie",
             "url": "https://www.youtube.com/watch?v=W6dzLx4LNxY",
             "duration": 6912,
-            "view_count": 659934,
+            "view_count": 660064,
             "uploader": "INFINITY MOVIES",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/W6dzLx4LNxY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIVYuOJ0731eyavArY87J37zL7w"
@@ -117,7 +117,7 @@
             "title": "LADY XTERMINATOR - Hollywood Action Movie Hindi Dubbed | Hollywood Movie Hindi Dubbed Full Action HD",
             "url": "https://www.youtube.com/watch?v=AD7POAou3qo",
             "duration": 4666,
-            "view_count": 3113147,
+            "view_count": 3113235,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/AD7POAou3qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWiNG7YIVYJMI360VSj2s2ACB7Yg"
@@ -137,7 +137,7 @@
             "title": "TOP MISSION - Hollywood Movie Hindi Dubbed | Thomas Gibson, Graham Greene, Louise L | Action Movies",
             "url": "https://www.youtube.com/watch?v=OiyM7fS1-3U",
             "duration": 5369,
-            "view_count": 3711196,
+            "view_count": 3711492,
             "uploader": "Hindi Cinema Talkies",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/OiyM7fS1-3U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4U3M8C7YXAytgHckz3wLeP_XxQQ"
@@ -287,7 +287,7 @@
             "title": "GOD OF TITANS - Full Hollywood Action Movie Hindi Dubbed | Marcus S | Hindi Action Adventure Movie",
             "url": "https://www.youtube.com/watch?v=EyKWd6pZIOo",
             "duration": 5647,
-            "view_count": 160116,
+            "view_count": 165247,
             "uploader": "Rising Nova Premiere",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/EyKWd6pZIOo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvBTMLmYTEfdK0IvT61SSO1l5Yrg"
@@ -397,7 +397,7 @@
             "title": "Warrior Commando 2026 Hindi Dubbed Full Movie | Action Thriller Hollywood Movie",
             "url": "https://www.youtube.com/watch?v=E67uci2-U_o",
             "duration": 4884,
-            "view_count": 332796,
+            "view_count": 332919,
             "uploader": "Cobra 11: Dabang Police Force",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/E67uci2-U_o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3HHoe-9nilkAvzIEVlGlJjBOtvQ"
@@ -717,7 +717,7 @@
             "title": "TIGER OF TIJUANA - Full Hollywood Action Movie Hindi Dubbed | Ray, Gary| Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=D8cryJ4osoo",
             "duration": 5301,
-            "view_count": 87037,
+            "view_count": 87306,
             "uploader": "Rising Nova Premiere",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/D8cryJ4osoo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6-B3mRzWBzdbdnW-AjTuArFEQGA"
@@ -1847,10 +1847,30 @@
             "title": "CRIME AND PUNISHMENT | Hollywood Movie Hindi Dubbed | Crime Movie | Hollywood Movie | Sony Pictures",
             "url": "https://www.youtube.com/watch?v=Kw9k2NSqSCY",
             "duration": 5273,
-            "view_count": 2246,
+            "view_count": 2786,
             "uploader": "Sony Pictures Entertainment - Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/Kw9k2NSqSCY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANNdwY8sLgS06D4oZK6N402s2OyA"
+        },
+        {
+            "id": "stxFU3_RagU",
+            "title": "Full Hindi Dubbed Action Thriler Movie | Allu Arjun, Anushka Shetty | Virus | New Action Movie 2026",
+            "url": "https://www.youtube.com/watch?v=stxFU3_RagU",
+            "duration": 8666,
+            "view_count": 2397903,
+            "uploader": "Movie Art Studios",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/stxFU3_RagU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApqm_gzytiKeOP6ELbVWjEOCNEBA"
+        },
+        {
+            "id": "BoRSpWvj4wY",
+            "title": "#AA27 | Full Hindi Dubbed Movie | Allu Arjun, Deepika Padukone, Sanjay Dutt | New Action Movie 2026",
+            "url": "https://www.youtube.com/watch?v=BoRSpWvj4wY",
+            "duration": 8424,
+            "view_count": 1028945,
+            "uploader": "Hindiwood Movie",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/BoRSpWvj4wY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDbwiNVULb4FlRTLA52vdQteBkdw"
         }
     ]
 }
