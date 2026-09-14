@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-13T23:13:13.802251Z",
+    "last_updated": "2026-09-14T01:08:13.090529Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 110,
+    "total_episodes": 113,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -481,7 +481,7 @@
             "title": "Play with Fire! | POKÉMON FULL EPISODE 61 | Season 5",
             "url": "https://www.youtube.com/watch?v=inxZmZi0pEk",
             "duration": 1274,
-            "view_count": 1834880,
+            "view_count": 1837181,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/inxZmZi0pEk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSyOBK0Qxy3cSc0ZbNk3O20rPv-A"
@@ -791,7 +791,7 @@
             "title": "Pokemon sun and moon in hindi full video episode-1#pokémon #sunandmoon",
             "url": "https://www.youtube.com/watch?v=RmvNLxREC2c",
             "duration": 1378,
-            "view_count": 330421,
+            "view_count": 332914,
             "uploader": "ᎫᴇᴇᴛㅤᎮ𝙾𝙺𝙴𝙼𝙾𝙽 🪐",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/RmvNLxREC2c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxoCULir5mmExuqb7ugGw5sZYqGg"
@@ -1105,6 +1105,36 @@
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/3l1lSNQxJA0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLpUshfjy-LbhIvv75uCHy0k-ztQ"
+        },
+        {
+            "id": "OBRW7TdtRoM",
+            "title": "गिरफ्तारी Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=OBRW7TdtRoM",
+            "duration": 3928,
+            "view_count": 456549,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/OBRW7TdtRoM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApFKIPGzL1dMq7SA4YilgzYDw_4Q"
+        },
+        {
+            "id": "EbXmr30ihP8",
+            "title": "Nobita and the Birth of Japan | Doraemon Movie in Hindi | Full Movie | Doraemon New Movie",
+            "url": "https://www.youtube.com/watch?v=EbXmr30ihP8",
+            "duration": 6015,
+            "view_count": 49669,
+            "uploader": "𝐄𝐥𝐨𝐫𝐚 𝐓𝐢𝐩𝐬",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/EbXmr30ihP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_LNYk-VxNElg9N9ufPygb_REwsA"
+        },
+        {
+            "id": "YgrTIsoGkjc",
+            "title": "Pokemon Johto League Explained in Hindi",
+            "url": "https://www.youtube.com/watch?v=YgrTIsoGkjc",
+            "duration": 4222,
+            "view_count": 4706,
+            "uploader": "Hill World Pokemon",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/YgrTIsoGkjc/hq720_custom_1.jpg?sqp=CLyQndUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiEC6yM9I3ttMh5S43Nj7yWPe4jA"
         }
     ]
 }

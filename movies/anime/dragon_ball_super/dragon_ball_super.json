@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-13T23:13:13.993699Z",
+    "last_updated": "2026-09-14T01:08:13.151836Z",
     "show_name": "Dragon Ball Super",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Dragon Ball Super.",
-    "total_episodes": 87,
+    "total_episodes": 88,
     "episodes": [
         {
             "id": "2UUm1axJzMI",
@@ -31,7 +31,7 @@
             "title": "Goku Super Sayen Blue VS Golden Freeza Full Battle (Hindi Dubbed)",
             "url": "https://www.youtube.com/watch?v=jR2WBvHCbLA",
             "duration": 3381,
-            "view_count": 521284,
+            "view_count": 521312,
             "uploader": "Legend of the rising warrior",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/jR2WBvHCbLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBajdJech2ebvYy6OZJbZwLTvI--w"
@@ -181,7 +181,7 @@
             "title": "Beast Gohan Vs Cell Max Full Fight (4K 60FPS) Dragon Ball Super: Super Hero!",
             "url": "https://www.youtube.com/watch?v=5z5FLh84oLA",
             "duration": 702,
-            "view_count": 801124,
+            "view_count": 801126,
             "uploader": "Zeeny Editz",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/5z5FLh84oLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfyor3OnpN0YQy7rxwj1jJVfcnpA"
@@ -221,10 +221,10 @@
             "title": "Ultra instinct Goku vs Kefla full fight in Hindi! (4K60FPS)Dragon Ball super Badshah moment in Hindi",
             "url": "https://www.youtube.com/watch?v=LATTVbfg7bA",
             "duration": 1439,
-            "view_count": 1481660,
+            "view_count": 1498971,
             "uploader": "Anime World 2.0",
             "category": "anime/dragon_ball_super",
-            "thumbnail": "https://i.ytimg.com/vi/LATTVbfg7bA/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBxygVZRtJ6RwfDuAMAX2N7P7vc_w"
+            "thumbnail": "https://i.ytimg.com/vi/LATTVbfg7bA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgCi6EsGMN1dch_z6i_kB3S6VPLQ"
         },
         {
             "id": "ulFcX1lcp4E",
@@ -251,7 +251,7 @@
             "title": "Super Saiyan Infinity Goku Saga (Part 1, 2 & 3)",
             "url": "https://www.youtube.com/watch?v=yS8n1yY_jFA",
             "duration": 1178,
-            "view_count": 18159573,
+            "view_count": 18160100,
             "uploader": "Lord Aizen",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/yS8n1yY_jFA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACHgCHAXY5GIV6y9QWzMcAjcpiNw"
@@ -791,7 +791,7 @@
             "title": "Dragon Ball Movie: Goten’s Great Adventure - Full Movie",
             "url": "https://www.youtube.com/watch?v=-M13If_5CI4",
             "duration": 4966,
-            "view_count": 4843638,
+            "view_count": 4848572,
             "uploader": "POD (Miaouwai)",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/-M13If_5CI4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3xG300qp1sPZ-Z8YlG2qmj1wVbA"
@@ -875,6 +875,16 @@
             "uploader": "anuragraj451",
             "category": "anime/dragon_ball_super",
             "thumbnail": "https://i.ytimg.com/vi/pSyVVST0Z8Y/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq_9_6rSzTKHW1fdzoPo2Qtw4hcw"
+        },
+        {
+            "id": "4yR-3BR0vng",
+            "title": "Goku Vs Beerus The ultimate Fight Hindi Dubbed Dragon Ball Super",
+            "url": "https://www.youtube.com/watch?v=4yR-3BR0vng",
+            "duration": 1309,
+            "view_count": 45880,
+            "uploader": "Legend of the rising warrior",
+            "category": "anime/dragon_ball_super",
+            "thumbnail": "https://i.ytimg.com/vi/4yR-3BR0vng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi8Vrw8J36KQ9F756WbRgMxsdIVA"
         }
     ]
 }
