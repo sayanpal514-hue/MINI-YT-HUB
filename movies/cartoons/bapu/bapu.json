@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-09-15T21:45:20.892803Z",
+    "last_updated": "2026-09-15T23:49:10.205293Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 70,
+    "total_episodes": 71,
     "episodes": [
         {
             "id": "RJrIfDkjpeQ",
             "title": "Shopping competition | Bapu catoon Ep -6 | all' bast comedy catoon bapu animation |",
             "url": "https://www.youtube.com/watch?v=RJrIfDkjpeQ",
             "duration": 696,
-            "view_count": 15418,
+            "view_count": 15422,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/RJrIfDkjpeQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcSKCWkgCQUtriw2McIdqMNU27Lg"
@@ -81,7 +81,7 @@
             "title": "Bapu Ki Kahaniyaan || EP-2 || The Puncture Road",
             "url": "https://www.youtube.com/watch?v=b993eY3quEI",
             "duration": 652,
-            "view_count": 19037,
+            "view_count": 19041,
             "uploader": "KIDS TV LIVE",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/b993eY3quEI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2uXyqpC1KkHlm0NrEPIA8LVyosA"
@@ -201,7 +201,7 @@
             "title": "Motu Patlu aur Bapu Ki Seekh ��️  Gandhi Jayanti Special | Motu-Patlu",
             "url": "https://www.youtube.com/watch?v=4zv_rXmoDmE",
             "duration": 6556,
-            "view_count": 3252645,
+            "view_count": 3252888,
             "uploader": "Sonic Gang Motu Patlu ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/4zv_rXmoDmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFddBXOSqrDzLB69Y1idXy-XdLfQ"
@@ -371,7 +371,7 @@
             "title": "Post Adventure || Bapu catoon EPISODE=12 ||  all' bast cartoon ||",
             "url": "https://www.youtube.com/watch?v=PzZ8FmMwdlo",
             "duration": 723,
-            "view_count": 1513,
+            "view_count": 1514,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/PzZ8FmMwdlo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZOC7-3gMrsZxE35WEHb8myrmoPA"
@@ -705,6 +705,16 @@
             "uploader": "IT'S CARTOON ADDA",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/7s_ymavnhys/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh_LGc-xiEdXjDZRtU3ccoRtv7mw"
+        },
+        {
+            "id": "KlE3XsBdfOQ",
+            "title": "Johnny test hindi episode bapi bapu aur johnny ki dosti hindi episode",
+            "url": "https://www.youtube.com/watch?v=KlE3XsBdfOQ",
+            "duration": 672,
+            "view_count": 1252,
+            "uploader": "gamefreak studios",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/KlE3XsBdfOQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_D7HGPu_bFnd0hC14nw_ME274lA"
         }
     ]
 }
