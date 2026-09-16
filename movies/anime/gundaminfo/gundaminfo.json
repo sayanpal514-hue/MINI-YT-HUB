@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-16T02:00:20.810504Z",
+    "last_updated": "2026-09-16T07:05:17.703162Z",
     "show_name": "Gundaminfo",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Gundaminfo.",
-    "total_episodes": 40,
+    "total_episodes": 43,
     "episodes": [
         {
             "id": "WFC8TBSPqFw",
@@ -444,6 +444,39 @@
             "uploader": null,
             "category": "anime/gundaminfo",
             "thumbnail": "https://i.ytimg.com/vi/aBfp393293s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOwCn05V6xWjvpePxXHO-EJic5ow",
+            "channel": null
+        },
+        {
+            "id": "H5bE0JvA7Jw",
+            "title": "\"기동전사 건담 00F\" SD건담 지 제네레이션 이터널 PLAY to WATCH!! [SD건담 지 제네레이션 이터널]",
+            "url": "https://www.youtube.com/watch?v=H5bE0JvA7Jw",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/H5bE0JvA7Jw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfv3MGquzqz7KH60Ftt-SKlQDdhw",
+            "channel": null
+        },
+        {
+            "id": "jLbgkVqu8bM",
+            "title": "《机动战士高达00F》G世代 永恒 PLAY to WATCH‼【SD高达 G世代 永恒】",
+            "url": "https://www.youtube.com/watch?v=jLbgkVqu8bM",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/jLbgkVqu8bM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABMN5Jc5Bj9BlJSVp1LpKsezGqnw",
+            "channel": null
+        },
+        {
+            "id": "QoXLT2ZIhFg",
+            "title": "\"Mobile Suit Gundam 00F\" G Generation ETERNAL PLAY to WATCH!! [SD Gundam G Generation ETERNAL]",
+            "url": "https://www.youtube.com/watch?v=QoXLT2ZIhFg",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/QoXLT2ZIhFg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDE640CdmPCmDEtMImVAqiT1axHlg",
             "channel": null
         }
     ]
