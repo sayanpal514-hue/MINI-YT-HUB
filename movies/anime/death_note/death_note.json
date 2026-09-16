@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-16T17:19:36.210088Z",
+    "last_updated": "2026-09-16T20:11:18.677956Z",
     "show_name": "Death Note",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Death Note.",
-    "total_episodes": 39,
+    "total_episodes": 50,
     "episodes": [
         {
             "id": "0RzlTTBpQfU",
@@ -21,7 +21,7 @@
             "title": "Death Note 2 - Full movie | Hindi | Web Series | Sci-Fi",
             "url": "https://www.youtube.com/watch?v=y7-vpQghM8E",
             "duration": 3605,
-            "view_count": 742374,
+            "view_count": 742403,
             "uploader": "DK FILMS",
             "category": "anime/death_note",
             "thumbnail": "https://i.ytimg.com/vi/y7-vpQghM8E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC82Fbhp0JGmy5q1tmKx4fLo969Nw"
@@ -41,7 +41,7 @@
             "title": "Death Note Hindi season 1 Episode 2 | Full HindiDubbed lgnore #tag #Anime #deathnote",
             "url": "https://www.youtube.com/watch?v=eeMSqcsDsXQ",
             "duration": 991,
-            "view_count": 72615,
+            "view_count": 72733,
             "uploader": "Hindi anime edits ",
             "category": "anime/death_note",
             "thumbnail": "https://i.ytimg.com/vi/eeMSqcsDsXQ/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoTzAP&rs=AOn4CLB2ndsXKM2O_8EFhvsuqU3xP9lNzA"
@@ -71,7 +71,7 @@
             "title": "Death Note : REWIND In Hindi (Part-1) | YBP #deathnote #shorts #trending #viral #animeedit  #anime",
             "url": "https://www.youtube.com/watch?v=IUF0loIn99E",
             "duration": 1503,
-            "view_count": 55155,
+            "view_count": 55160,
             "uploader": "Anime In Hindi dubbed Aodio Full episodes in carto",
             "category": "anime/death_note",
             "thumbnail": "https://i.ytimg.com/vi/IUF0loIn99E/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu4tKFde4ASRL4rPfe7rBss5eafg"
@@ -91,7 +91,7 @@
             "title": "Death Note Episode14 hindi Dubbed #deathnotehindi #animeinhindi #lightyagami",
             "url": "https://www.youtube.com/watch?v=7NfnRUZ7M_g",
             "duration": 1387,
-            "view_count": 42958,
+            "view_count": 42971,
             "uploader": "The Penguin Guy",
             "category": "anime/death_note",
             "thumbnail": "https://i.ytimg.com/vi/7NfnRUZ7M_g/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZrzbstn2zpKZ188KTxQZj7WTRzg"
@@ -121,7 +121,7 @@
             "title": "Death Note full anime movie hindi dubbed ",
             "url": "https://www.youtube.com/watch?v=l6LiGPikuks",
             "duration": 7898,
-            "view_count": 67735,
+            "view_count": 68208,
             "uploader": "Yash Kanojiya ",
             "category": "anime/death_note",
             "thumbnail": "https://i.ytimg.com/vi/l6LiGPikuks/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5FNedoc31-DG70i4LdYh94Pq1nA"
@@ -395,6 +395,116 @@
             "uploader": "MR EXPLAINERR JI ",
             "category": "anime/death_note",
             "thumbnail": "https://i.ytimg.com/vi/shgookiAIMU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZZs9tTH2LJzdp3FdwSWtdruPxLQ"
+        },
+        {
+            "id": "LL5pu9GzziA",
+            "title": "I Cooked For Celebrities",
+            "url": "https://www.youtube.com/watch?v=LL5pu9GzziA",
+            "duration": 880,
+            "view_count": 44292655,
+            "uploader": "Nick DiGiovanni",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/LL5pu9GzziA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcjn-NcRLd-wWDUJHiXHKlilHoOQ"
+        },
+        {
+            "id": "V0ZRVUdIf7s",
+            "title": "This American Town Is 36 Miles From Russia",
+            "url": "https://www.youtube.com/watch?v=V0ZRVUdIf7s",
+            "duration": 3587,
+            "view_count": 9863668,
+            "uploader": "Drew Binsky",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/V0ZRVUdIf7s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKoJCabcp6GgBJ7hyPFu_zmHXsow"
+        },
+        {
+            "id": "om4OXisQIx0",
+            "title": "🌙 Evening Study With Me LIVE | Let's Be Productive Together 📚",
+            "url": "https://www.youtube.com/watch?v=om4OXisQIx0",
+            "duration": 5535,
+            "view_count": 49,
+            "uploader": "Divyanshu's Lens",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/om4OXisQIx0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe1ogZJgyPPLWfIhqDfYzwhCrVPg"
+        },
+        {
+            "id": "kYlJ46sDyXg",
+            "title": "STUDY WITH ME 📖 Evening Lofi Focus Session#shorts #studywithme #studymotivation #live",
+            "url": "https://www.youtube.com/watch?v=kYlJ46sDyXg",
+            "duration": 3012,
+            "view_count": 43,
+            "uploader": "Divyanshu's Lens",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/kYlJ46sDyXg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbiY1jNNjLauIggn7jXChH4Rwr4g"
+        },
+        {
+            "id": "Ni2sqT2pf6A",
+            "title": "【DUB】The WEAKEST F-Rank Mage Defeated S-Rank Masters with a BANANA PEEL!💕#anime",
+            "url": "https://www.youtube.com/watch?v=Ni2sqT2pf6A",
+            "duration": 7170,
+            "view_count": 10000,
+            "uploader": "Starlight Anime",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/Ni2sqT2pf6A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw_0ztQiIPZbBM2EUPMtan-Uv4nw"
+        },
+        {
+            "id": "pSdGLo67xXQ",
+            "title": "To Die for Love | Full Episode 80 | Indian Series in English Dubbed #EP80",
+            "url": "https://www.youtube.com/watch?v=pSdGLo67xXQ",
+            "duration": 5087,
+            "view_count": 54212,
+            "uploader": "Indian Series In English dubbed and 5 more",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/pSdGLo67xXQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaYJyvMYD5UcM6TKRvLVrtLWC__w"
+        },
+        {
+            "id": "39QjFgDxzbc",
+            "title": "Reconciliation | ROBIN HOOD | Full Episode 39 | English",
+            "url": "https://www.youtube.com/watch?v=39QjFgDxzbc",
+            "duration": 1386,
+            "view_count": 2191,
+            "uploader": "KIDFLIX (English)",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/39QjFgDxzbc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjJMItipmV9G_PBlWk-JD2RweNIQ"
+        },
+        {
+            "id": "jSy54uWNeWI",
+            "title": "【Multi Sub】Forced to Marry a Dying Man, the Country Girl Revealed Her Secret Medical Skills",
+            "url": "https://www.youtube.com/watch?v=jSy54uWNeWI",
+            "duration": 9918,
+            "view_count": 1584,
+            "uploader": "Una shorts",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/jSy54uWNeWI/hq720_custom_3.jpg?sqp=COzsq9UG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWH5OjzR9w6_kjlyVGagrnZZiS_g"
+        },
+        {
+            "id": "YCLZIyqO3H0",
+            "title": "Storage Wars: Where the Original Buyers Are Now in 2026",
+            "url": "https://www.youtube.com/watch?v=YCLZIyqO3H0",
+            "duration": 1340,
+            "view_count": 188267,
+            "uploader": "Behind The Fame",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/YCLZIyqO3H0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2y7TCXVGij4xKXy1CtlKu_1KU0w"
+        },
+        {
+            "id": "CLjYLM9Y_cM",
+            "title": "To Die for Love | Full Episode 78 | Indian Series in English Dubbed #EP78",
+            "url": "https://www.youtube.com/watch?v=CLjYLM9Y_cM",
+            "duration": 3733,
+            "view_count": 57255,
+            "uploader": "Indian Series In English dubbed and 5 more",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/CLjYLM9Y_cM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2AC-ZUbI1SJs7hd41r6NmLgLAfQ"
+        },
+        {
+            "id": "y2A9nuhyKw4",
+            "title": "She heard him say he loved another. She divorced him and married a CEO who cherishes her, he regrets",
+            "url": "https://www.youtube.com/watch?v=y2A9nuhyKw4",
+            "duration": 7128,
+            "view_count": 826675,
+            "uploader": "MoonlitCrush Drama",
+            "category": "anime/death_note",
+            "thumbnail": "https://i.ytimg.com/vi/y2A9nuhyKw4/hq720_custom_1.jpg?sqp=COzsq9UG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjyMSV1IH4Qz52Hl2INtqpzIjEjg"
         }
     ]
 }
