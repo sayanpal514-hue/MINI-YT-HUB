@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-17T05:43:15.812409Z",
-    "total_movies": 87,
+    "last_updated": "2026-09-17T10:33:38.794302Z",
+    "total_movies": 100,
     "movies": [
         {
             "id": "Xjyh0O0-XIs",
@@ -97,7 +97,7 @@
             "title": "Antar Bahir - Bengali Comedy Movie | Satabdi Roy | Chinmoy Roy | Utpal Dutt | Full HD",
             "url": "https://www.youtube.com/watch?v=T-UN8J70x_I",
             "duration": 4742,
-            "view_count": 1164110,
+            "view_count": 1164177,
             "uploader": "Bengali Movies- Angel Digital",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/T-UN8J70x_I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtADkzBRLr8IB_8WMMLrWKpk0sbg"
@@ -817,7 +817,7 @@
             "title": "Jio Pagla (2017) Full Movie Bangla Dubbed | Superhit Comedy Movie | HD 1080P",
             "url": "https://www.youtube.com/watch?v=0893jmkLK_I",
             "duration": 8801,
-            "view_count": 291054,
+            "view_count": 293876,
             "uploader": "Hares2.1",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/0893jmkLK_I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_Ihps2rzptOHcoQXqsJCD6IwD-A"
@@ -837,7 +837,7 @@
             "title": "দুয়ার্সের জঙ্গলে টেনিদার দুঃসাহসিক অভিযান | Subhasish Mukherjee, Chinmoy Roy | Bangla Comedy Movie",
             "url": "https://www.youtube.com/watch?v=xy6Y5XJ8GRQ",
             "duration": 7258,
-            "view_count": 592932,
+            "view_count": 636985,
             "uploader": "Ultra Bengali",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/xy6Y5XJ8GRQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAzc7ckJKElFEqIqGsKJe5fbavxg"
@@ -857,7 +857,7 @@
             "title": "Jamai 420 (2015) Full Movie HD | Superhit Bengali Comedy | Dev, Ankush & Soham | Bangla Cinema",
             "url": "https://www.youtube.com/watch?v=YNQzbpj3dxc",
             "duration": 8241,
-            "view_count": 718726,
+            "view_count": 736081,
             "uploader": "BL RAKIB LIVE and BL RAKIB HOSSAIN",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/YNQzbpj3dxc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChk3zzCp1SmQLTw6bLAOc-kLTFyg"
@@ -867,10 +867,140 @@
             "title": "Phaans (ফাঁস)| Full Bengali Comedy Movie | Mouboni | Mainak | Payal | Kanchan | Subhasis |SVF Movies",
             "url": "https://www.youtube.com/watch?v=A1izeQjBzpQ",
             "duration": 7964,
-            "view_count": 46171,
+            "view_count": 46218,
             "uploader": "SVF Movies",
             "category": "bengali/comedy",
             "thumbnail": "https://i.ytimg.com/vi/A1izeQjBzpQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8OjHRDHGfMeKNoQ6VrgV3eX7mzA"
+        },
+        {
+            "id": "ca0gD0c-lIg",
+            "title": "Besh Korechi Prem Korechi (2015) Full Movie | Jeet | Koel Mallick | Bengali Movie HD",
+            "url": "https://www.youtube.com/watch?v=ca0gD0c-lIg",
+            "duration": 7543,
+            "view_count": 64,
+            "uploader": "Gopal Noy",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/ca0gD0c-lIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxl-QKaWcjPVjCqz16J3T1jbVGVQ"
+        },
+        {
+            "id": "_EJm37nOrME",
+            "title": "Super Hit Jamai 420 Full Movie | জামাই ৪২০ |  Ankush Soham | Hiran | Payel Mimi | SVF Classic",
+            "url": "https://www.youtube.com/watch?v=_EJm37nOrME",
+            "duration": 11520,
+            "view_count": 5895044,
+            "uploader": "Entertainment 2026",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/_EJm37nOrME/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7EAXJTWtMBE57mt_mKwugGysFHA"
+        },
+        {
+            "id": "yr6V1ON0-O8",
+            "title": "শেষ ট্রাম (Sesh Trum) | Bengali Comedy Movie | Jeet | Kanchan | Kharaj | Aparajita | Full Fun Ride",
+            "url": "https://www.youtube.com/watch?v=yr6V1ON0-O8",
+            "duration": 6951,
+            "view_count": 29086,
+            "uploader": "Jija Entertainment",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/yr6V1ON0-O8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXBGhldPOfKlMsCFaoEm6jUgD5JQ"
+        },
+        {
+            "id": "7zwbKlFmGPs",
+            "title": "Handa and Bhonda Full Movie HD | হাঁদা ভোঁদা | Mithun Chakraborty, Aritra | Bengali Comedy Movie",
+            "url": "https://www.youtube.com/watch?v=7zwbKlFmGPs",
+            "duration": 5101,
+            "view_count": 4,
+            "uploader": "Ecliptiz Funny",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/7zwbKlFmGPs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMDi_jVZaKHBlr_fNwaYsqB4AySA"
+        },
+        {
+            "id": "iXRrXa3gzQ8",
+            "title": "Love Express (লাভ এক্সপ্রেস) | Dev & Nusrat Jahan | Bengali Full Movie | Romantic Comedy",
+            "url": "https://www.youtube.com/watch?v=iXRrXa3gzQ8",
+            "duration": 8097,
+            "view_count": 32,
+            "uploader": "IM YOUSUF NEW",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/iXRrXa3gzQ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXwj3UIEdnEXB0_Cg0O2CYx97ShQ"
+        },
+        {
+            "id": "ph1s59c4pl4",
+            "title": "Jamai 420 (2015) Full Movie HD | Superhit Bengali Comedy | Dev, Ankush & Soham | Bangla Cinema",
+            "url": "https://www.youtube.com/watch?v=ph1s59c4pl4",
+            "duration": 11002,
+            "view_count": 407,
+            "uploader": "L.S.M",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/ph1s59c4pl4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqlVvbNL3MghOiiYMJ9xLyLN8JLg"
+        },
+        {
+            "id": "1XDPyze59Dk",
+            "title": "Inspector Notty k - bangla movie full hd -jeet-nusraat Faria-new India bangla movie",
+            "url": "https://www.youtube.com/watch?v=1XDPyze59Dk",
+            "duration": 8645,
+            "view_count": 986139,
+            "uploader": "@Mitasing",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/1XDPyze59Dk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5hEOEGKuREtTHA5Tf79IaVv6LFw"
+        },
+        {
+            "id": "nPdvmMfl9jQ",
+            "title": "হাসি খুশি ক্লাব | Hasi Khushi Club | Jeet | Varsha | Biswanath | Lama | Papia | Superhit Comedy",
+            "url": "https://www.youtube.com/watch?v=nPdvmMfl9jQ",
+            "duration": 7151,
+            "view_count": 18482813,
+            "uploader": "Bengali Movies - Channel B Entertainment",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/nPdvmMfl9jQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuACcdCKCIvP008AeMF3YL5u5jWA"
+        },
+        {
+            "id": "LbPdIVkKQFc",
+            "title": "Hangama Dot Com | হাঙ্গামা ডট কম | Om | Srabanti | Bonny | Koushani | Bangla Comedy Full Movie 2025",
+            "url": "https://www.youtube.com/watch?v=LbPdIVkKQFc",
+            "duration": 7111,
+            "view_count": 50303,
+            "uploader": "Lion Screen ",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/LbPdIVkKQFc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgIOFdJbgiFMuu8Xc8Q3FvP0QZEQ"
+        },
+        {
+            "id": "1LdLOzjrPlA",
+            "title": "Golemale Pirit Koro Na(গোলেমালে পিরিত কোরো না)| Jisshu | Paayel | Ritwick |YT Chhobighor| SVF Movies",
+            "url": "https://www.youtube.com/watch?v=1LdLOzjrPlA",
+            "duration": 7451,
+            "view_count": 1587819,
+            "uploader": "SVF Movies",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/1LdLOzjrPlA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpY7gTXbNldOatWJmmrBLV-sf4Ww"
+        },
+        {
+            "id": "pmZ6GCB4y_0",
+            "title": "Mithun Daada's hilarious Comedy movie Part 1 মিঠুন (দাদার) চক্রবর্তীর দম ফাটানো হাসির মুভি পার্ট ১।",
+            "url": "https://www.youtube.com/watch?v=pmZ6GCB4y_0",
+            "duration": 8985,
+            "view_count": 1526984,
+            "uploader": "M. Raki Billah",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/pmZ6GCB4y_0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBBJpeS5hBAuKmDEL6R3CclkLfmw"
+        },
+        {
+            "id": "iDCeu2bjV-Y",
+            "title": "Hera Pheri - Bengali Full Movie | Rajatava Datta | Paran Bandopadhyay | Biswanath Basu",
+            "url": "https://www.youtube.com/watch?v=iDCeu2bjV-Y",
+            "duration": 7829,
+            "view_count": 5157478,
+            "uploader": "Bengali Movies- Angel Digital",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/iDCeu2bjV-Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOVLatToKhwjJAjhUz3Er56R4nxQ"
+        },
+        {
+            "id": "siHpHqjMchw",
+            "title": "Romeo (2011) | Dev & Subhashree | Bengali Full Movie | Romantic Comedy | 4K",
+            "url": "https://www.youtube.com/watch?v=siHpHqjMchw",
+            "duration": 9366,
+            "view_count": 80,
+            "uploader": "Expire Movie",
+            "category": "bengali/comedy",
+            "thumbnail": "https://i.ytimg.com/vi/siHpHqjMchw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOOnRhZnDSEE_vIF2kitZZ8PA53g"
         }
     ]
 }
