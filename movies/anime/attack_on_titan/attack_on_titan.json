@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-19T21:44:20.550393Z",
+    "last_updated": "2026-09-19T23:45:47.617818Z",
     "show_name": "Attack On Titan",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Attack On Titan.",
-    "total_episodes": 63,
+    "total_episodes": 64,
     "episodes": [
         {
             "id": "n3GeKBDWVDI",
@@ -41,7 +41,7 @@
             "title": "GIANT Humanoid Creatures Suddenly Appear on Earth and Almost Destroyed Humanity Explained in Hindi",
             "url": "https://www.youtube.com/watch?v=Ik0wrR04pXw",
             "duration": 14402,
-            "view_count": 9437362,
+            "view_count": 9437425,
             "uploader": "Animity",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/Ik0wrR04pXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvlJkm9chxou82XnyjglJJ3e5n0A"
@@ -51,7 +51,7 @@
             "title": "Attack on Titan Season 4 Episode 30 (S4E30) [Hindi Dub] AOT | Mention INDIA ",
             "url": "https://www.youtube.com/watch?v=2dwZgX90UvA",
             "duration": 5092,
-            "view_count": 100672,
+            "view_count": 100748,
             "uploader": "Mention INDIA",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/2dwZgX90UvA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8MSTTvk5QGMGLKCO7jJY-ljNn5w"
@@ -141,7 +141,7 @@
             "title": "Attack on Titan - Episode 43 (S3EP6) [HINDI dub] | Sin IN #anime #levi #eren",
             "url": "https://www.youtube.com/watch?v=HtJhEtr_Nyk",
             "duration": 1435,
-            "view_count": 7828,
+            "view_count": 8024,
             "uploader": "GUSEINDIA",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/HtJhEtr_Nyk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAAl9YtAAsC46VIc7Yjw1hjjG1qg"
@@ -531,7 +531,7 @@
             "title": "Attack on Titan Season 3 episode 17",
             "url": "https://www.youtube.com/watch?v=CrMtr9nDkIY",
             "duration": 1437,
-            "view_count": 3872,
+            "view_count": 4019,
             "uploader": "INDIA_ANIME_00",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/CrMtr9nDkIY/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhJIFwoZTAP&rs=AOn4CLBqVMKK7onWCRuly9lv80_Ltm7qgQ"
@@ -635,6 +635,16 @@
             "uploader": "Mention VIBES",
             "category": "anime/attack_on_titan",
             "thumbnail": "https://i.ytimg.com/vi/44E7BBvu_WE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCxai9sqqEdGDu26LotuMLd6_0Qg"
+        },
+        {
+            "id": "HUSUR6TduoQ",
+            "title": "Attack on Titan Season 3 episode 19",
+            "url": "https://www.youtube.com/watch?v=HUSUR6TduoQ",
+            "duration": 1436,
+            "view_count": 3799,
+            "uploader": "INDIA_ANIME_00",
+            "category": "anime/attack_on_titan",
+            "thumbnail": "https://i.ytimg.com/vi/HUSUR6TduoQ/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDSgPyQS39Tts8cxJm-3TKqwDCy-A"
         }
     ]
 }
