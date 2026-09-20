@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-20T01:58:00.429694Z",
-    "total_movies": 214,
+    "last_updated": "2026-09-20T07:17:06.718701Z",
+    "total_movies": 215,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -57,7 +57,7 @@
             "title": "THE ERADICATOR - Full Hollywood Action Movie Hindi Dubbed | Dane, Kent | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=e9EB-fYKYcc",
             "duration": 5308,
-            "view_count": 517474,
+            "view_count": 517393,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/e9EB-fYKYcc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFSoR62JLB4aAyTzFsawinlITkg"
@@ -107,7 +107,7 @@
             "title": "THE TARGETER - Full Hollywood Action Movie Hindi Dubbed | Tim F, Mike | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=lDHT5gz77M8",
             "duration": 5974,
-            "view_count": 244982,
+            "view_count": 244986,
             "uploader": "Rising Nova Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/lDHT5gz77M8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtA6qr4KFmbRRYDzg81NPt3acodw"
@@ -117,7 +117,7 @@
             "title": "LADY XTERMINATOR - Hollywood Action Movie Hindi Dubbed | Hollywood Movie Hindi Dubbed Full Action HD",
             "url": "https://www.youtube.com/watch?v=AD7POAou3qo",
             "duration": 4666,
-            "view_count": 3123730,
+            "view_count": 3123559,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/AD7POAou3qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWiNG7YIVYJMI360VSj2s2ACB7Yg"
@@ -167,7 +167,7 @@
             "title": "FBI FORCE 4 - Full Hollywood Movie Hindi Dubbed | Heather H. | Hindi Action Movie | Thriller Movie",
             "url": "https://www.youtube.com/watch?v=0bPWmjJQ5Vg",
             "duration": 5521,
-            "view_count": 1811516,
+            "view_count": 1814013,
             "uploader": "Rising Nova Premiere",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/0bPWmjJQ5Vg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdt8kHOJfX2Z6-O-jxP6T5pjd56A"
@@ -187,7 +187,7 @@
             "title": "HIJACK TO HELL - Full Hollywood Action Movie Hindi Dubbed | Ron, Peter | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=jnVrEPe73xw",
             "duration": 5352,
-            "view_count": 532585,
+            "view_count": 532602,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/jnVrEPe73xw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiuwVeUiyGEIp8DSPZ8uS5reXaMQ"
@@ -197,7 +197,7 @@
             "title": "DEATH ORDER : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies",
             "url": "https://www.youtube.com/watch?v=9Tw7oOVaUEE",
             "duration": 5553,
-            "view_count": 705680,
+            "view_count": 705655,
             "uploader": "Joy Drama",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/9Tw7oOVaUEE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvQRujJRvOwz0yKnm5ns2Bmkzs5A"
@@ -447,7 +447,7 @@
             "title": "Latest Hollywood Dubbed Movie 2020 in Hindi",
             "url": "https://www.youtube.com/watch?v=szeiT1NCsmk",
             "duration": 5525,
-            "view_count": 492967,
+            "view_count": 493100,
             "uploader": "VIJAY MAURYA",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/szeiT1NCsmk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA89Q7sTstsq91yt1UmGYQGvgqPgQ"
@@ -2137,10 +2137,20 @@
             "title": "PUNISHER (2026) | JASON STETHEM | hollywood movies in hindi dubbed | Latest Hollywood Action Movie",
             "url": "https://www.youtube.com/watch?v=etARVy3qMR4",
             "duration": 6016,
-            "view_count": 561,
+            "view_count": 869,
             "uploader": "MD Najim",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/etARVy3qMR4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2tQqQXnal1kreFGcnt44YY7LFfw"
+        },
+        {
+            "id": "Pls_qILqabo",
+            "title": "LEO (2023) Hindi Dubbed Full Movie | Starring Thalapathy Vijay, Sanjay Dutt, Arjun, Trisha",
+            "url": "https://www.youtube.com/watch?v=Pls_qILqabo",
+            "duration": 8822,
+            "view_count": 732139,
+            "uploader": "Qaiser Piya Tv ",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/Pls_qILqabo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArPS87YlqccMLQK-AW9UCXJI1RVw"
         }
     ]
 }
