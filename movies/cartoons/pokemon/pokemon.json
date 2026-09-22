@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-21T22:49:45.797044Z",
+    "last_updated": "2026-09-22T01:22:17.199311Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 118,
+    "total_episodes": 119,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -261,7 +261,7 @@
             "title": "Pokemon full in hindi || Season 1 episode 34 fully in hindi || #pokemon anime #Poke'Solo",
             "url": "https://www.youtube.com/watch?v=sk9AScPi7Jc",
             "duration": 1086,
-            "view_count": 337336,
+            "view_count": 337338,
             "uploader": "Poke'Solo",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNi6Zt9PM2kRZg87m5c7hvk_z6Lg"
@@ -371,7 +371,7 @@
             "title": "Wake Up Snorlax! | POKÉMON FULL EPISODE 38 | Season 1",
             "url": "https://www.youtube.com/watch?v=tuTr_cRGKds",
             "duration": 1343,
-            "view_count": 3639895,
+            "view_count": 3641379,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/tuTr_cRGKds/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZAt1EPP19fIRZLop6MUTY9FzGsw"
@@ -441,7 +441,7 @@
             "title": "Alola to New Adventure!  [FULL EPISODE] 📺 | Pokémon the Series: Sun & Moon Episode 1",
             "url": "https://www.youtube.com/watch?v=oVm96zTiSl0",
             "duration": 1338,
-            "view_count": 8680088,
+            "view_count": 8680689,
             "uploader": "The Official Pokémon YouTube channel",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/oVm96zTiSl0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5IPMb_i5C6Ik6H04Bsl555p_hjw"
@@ -1101,7 +1101,7 @@
             "title": "Mystery at the Lighthouse | POKÉMON FULL EPISODE 13 | Season 1",
             "url": "https://www.youtube.com/watch?v=3l1lSNQxJA0",
             "duration": 1343,
-            "view_count": 3428062,
+            "view_count": 3445549,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/3l1lSNQxJA0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLpUshfjy-LbhIvv75uCHy0k-ztQ"
@@ -1185,6 +1185,16 @@
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/iaxkOJZxzQM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0mmtqU_fl1DX-lvN0SO5IRE-TSg"
+        },
+        {
+            "id": "8Gr8rpuXE0Y",
+            "title": "Snow Way Out! | POKÉMON FULL EPISODE 10 | Season 2",
+            "url": "https://www.youtube.com/watch?v=8Gr8rpuXE0Y",
+            "duration": 1292,
+            "view_count": 3367613,
+            "uploader": "Pokémon TV",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/8Gr8rpuXE0Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQzOmKhcO94AGa_9Py6Bkgnx40Ow"
         }
     ]
 }
