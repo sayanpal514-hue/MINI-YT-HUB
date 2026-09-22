@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-22T01:22:17.199311Z",
+    "last_updated": "2026-09-22T06:21:55.190658Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 119,
+    "total_episodes": 120,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -261,7 +261,7 @@
             "title": "Pokemon full in hindi || Season 1 episode 34 fully in hindi || #pokemon anime #Poke'Solo",
             "url": "https://www.youtube.com/watch?v=sk9AScPi7Jc",
             "duration": 1086,
-            "view_count": 337338,
+            "view_count": 337347,
             "uploader": "Poke'Solo",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNi6Zt9PM2kRZg87m5c7hvk_z6Lg"
@@ -321,7 +321,7 @@
             "title": "The Punchy Pokémon | FULL EPISODE 28 | Season 1",
             "url": "https://www.youtube.com/watch?v=_LhB0LIQlQ0",
             "duration": 1343,
-            "view_count": 3042517,
+            "view_count": 3044630,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/_LhB0LIQlQ0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0v7CdOswDuIeuuyG-4nBdO90DWQ"
@@ -361,7 +361,7 @@
             "title": "Island of the Giant Pokémon | FULL EPISODE 17 | Season 1",
             "url": "https://www.youtube.com/watch?v=R-GNznqs7cI",
             "duration": 1343,
-            "view_count": 3753478,
+            "view_count": 3758911,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/R-GNznqs7cI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClkw4JXBqmJOpQg_Nz8orJ4JKLYw"
@@ -411,7 +411,7 @@
             "title": "ENTER PIKACHU!  [FULL EPISODE] 📺 | Pokémon Journeys: The Series Episode 1",
             "url": "https://www.youtube.com/watch?v=8SJSS_CB6jE",
             "duration": 1433,
-            "view_count": 8732642,
+            "view_count": 8734850,
             "uploader": "The Official Pokémon YouTube channel",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/8SJSS_CB6jE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzbkdFPLMRxMksAn81dlT7osQHUg"
@@ -521,7 +521,7 @@
             "title": "Pokemon season 1 episode 2 in hindi || full episode in hindi download",
             "url": "https://www.youtube.com/watch?v=-al-g2JiYCE",
             "duration": 1157,
-            "view_count": 9348,
+            "view_count": 9410,
             "uploader": "Pokemon Kingdom 2",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/-al-g2JiYCE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUz8IX0565Kvl0vfhnrSFpvZ2kQg"
@@ -1195,6 +1195,16 @@
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/8Gr8rpuXE0Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQzOmKhcO94AGa_9Py6Bkgnx40Ow"
+        },
+        {
+            "id": "VQFtkKgOVGk",
+            "title": "The Battle of the Badge | POKÉMON FULL EPISODE 8 | Season 2",
+            "url": "https://www.youtube.com/watch?v=VQFtkKgOVGk",
+            "duration": 1358,
+            "view_count": 4689170,
+            "uploader": "Pokémon TV",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/VQFtkKgOVGk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASnI3gd1JCKh16toi0GTYRCQy6WQ"
         }
     ]
 }
