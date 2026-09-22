@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-22T06:21:55.080220Z",
+    "last_updated": "2026-09-22T11:50:58.949582Z",
     "show_name": "Spy X Family",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Spy X Family.",
-    "total_episodes": 36,
+    "total_episodes": 37,
     "episodes": [
         {
             "id": "pRuW10v8Wn4",
@@ -365,6 +365,16 @@
             "uploader": "DramaVoxie",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/J6EXLnsqyIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWTUQUFVdwYSsAqlGBvgPhISCsLQ"
+        },
+        {
+            "id": "eGT-Ou0tBNM",
+            "title": "[SPY X FAMILY] [HINDI DUBBED] episode 2",
+            "url": "https://www.youtube.com/watch?v=eGT-Ou0tBNM",
+            "duration": 1450,
+            "view_count": 2,
+            "uploader": "Aram film",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/eGT-Ou0tBNM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLSdmSDy4GXKCROA-YDA79tUassg"
         }
     ]
 }
