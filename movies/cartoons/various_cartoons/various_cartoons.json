@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-22T11:50:58.863284Z",
+    "last_updated": "2026-09-23T21:54:25.244910Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 15,
+    "total_episodes": 16,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -169,6 +169,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/xAk8iidkCRs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqEffXqPzsOR31gLppC8yIxgTfCg",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "mIPXHZ5mMX8",
+            "title": "बेकार भोजन | Bas Karo Henry | बच्चों के लिए कार्टून | Hindi Cartoons",
+            "url": "https://www.youtube.com/watch?v=mIPXHZ5mMX8",
+            "duration": 3601,
+            "view_count": 3912577,
+            "uploader": "Bas Karo Henry",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/mIPXHZ5mMX8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWJNCBniwaKC1Y5gWVrYA4eC9k3w",
             "show_name": "Various Cartoons"
         }
     ]
