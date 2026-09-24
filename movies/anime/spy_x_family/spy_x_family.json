@@ -1,20 +1,20 @@
 {
-    "last_updated": "2026-09-23T21:54:25.032520Z",
+    "last_updated": "2026-09-24T00:06:55.162251Z",
     "show_name": "Spy X Family",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Spy X Family.",
-    "total_episodes": 37,
+    "total_episodes": 39,
     "episodes": [
         {
             "id": "pRuW10v8Wn4",
             "title": "Spy x Family Season 1 full Story Explained in Hindi' #spyxfamily",
             "url": "https://www.youtube.com/watch?v=pRuW10v8Wn4",
             "duration": 2732,
-            "view_count": 161433,
+            "view_count": 161440,
             "uploader": "MUSSU EXPLAINER",
             "category": "anime/spy_x_family",
-            "thumbnail": "https://i.ytimg.com/vi/pRuW10v8Wn4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARFkuKIQlo2eIMq9hxXNgby5-2eA"
+            "thumbnail": "https://i.ytimg.com/vi/pRuW10v8Wn4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBr2DS6BJhAvG-uwH6x9Z8Y1TXGbw"
         },
         {
             "id": "X_eAoF5bQ0k",
@@ -375,6 +375,26 @@
             "uploader": "Aram film",
             "category": "anime/spy_x_family",
             "thumbnail": "https://i.ytimg.com/vi/eGT-Ou0tBNM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLSdmSDy4GXKCROA-YDA79tUassg"
+        },
+        {
+            "id": "SpnZmhqneLM",
+            "title": "Spy x family season 6 explained in Hindi",
+            "url": "https://www.youtube.com/watch?v=SpnZmhqneLM",
+            "duration": 6020,
+            "view_count": 8122,
+            "uploader": "Hunter Verse",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/SpnZmhqneLM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAMpQ1EPvTTO4SujisSXOACDtbe6Q"
+        },
+        {
+            "id": "Hm4DuTV5XIE",
+            "title": "Spy x Family Season 5 Episode 14-24 Explained in Hindi |",
+            "url": "https://www.youtube.com/watch?v=Hm4DuTV5XIE",
+            "duration": 9567,
+            "view_count": 9983,
+            "uploader": "Hunter Verse",
+            "category": "anime/spy_x_family",
+            "thumbnail": "https://i.ytimg.com/vi/Hm4DuTV5XIE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDu8LKGNGSxCUx0d-YamJgovWwv5Q"
         }
     ]
 }
