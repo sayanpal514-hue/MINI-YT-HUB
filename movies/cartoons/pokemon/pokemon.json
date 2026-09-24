@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-24T18:39:48.047144Z",
+    "last_updated": "2026-09-24T21:47:56.937670Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 122,
+    "total_episodes": 123,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -261,7 +261,7 @@
             "title": "Pokemon full in hindi || Season 1 episode 34 fully in hindi || #pokemon anime #Poke'Solo",
             "url": "https://www.youtube.com/watch?v=sk9AScPi7Jc",
             "duration": 1086,
-            "view_count": 337723,
+            "view_count": 337748,
             "uploader": "Poke'Solo",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/sk9AScPi7Jc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNi6Zt9PM2kRZg87m5c7hvk_z6Lg"
@@ -271,7 +271,7 @@
             "title": "Pokemon Battle Ash Charizard Vs Dragonite Orange League Final In Hindi",
             "url": "https://www.youtube.com/watch?v=jVcAehqB47M",
             "duration": 1168,
-            "view_count": 285189,
+            "view_count": 285221,
             "uploader": "TNxLE.RMS!",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/jVcAehqB47M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJMSZVAr0Meb0SQAjVLnkrut6p6w"
@@ -301,7 +301,7 @@
             "title": "Ash Vs Red Full Battle in Hindi | Mewtwo Vs Ash Greninja |Pokemon Battle| Pokemon episode in Hindi",
             "url": "https://www.youtube.com/watch?v=9w9GtB0MdWY",
             "duration": 649,
-            "view_count": 155854,
+            "view_count": 156039,
             "uploader": "Cool Infernape",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/9w9GtB0MdWY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAgsRhlv3t-BEX7dZQ381j_yDPnw"
@@ -321,7 +321,7 @@
             "title": "The Punchy Pokémon | FULL EPISODE 28 | Season 1",
             "url": "https://www.youtube.com/watch?v=_LhB0LIQlQ0",
             "duration": 1343,
-            "view_count": 3054506,
+            "view_count": 3056070,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/_LhB0LIQlQ0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0v7CdOswDuIeuuyG-4nBdO90DWQ"
@@ -1225,6 +1225,16 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/lnMi9hkMkqY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCmd0BmvKKzb2fgIdNCZGkd2KH0SA"
+        },
+        {
+            "id": "sTj8xUZfceg",
+            "title": "Pokémon Double Trouble | FULL EPISODE 52 | Season 2",
+            "url": "https://www.youtube.com/watch?v=sTj8xUZfceg",
+            "duration": 1307,
+            "view_count": 1925613,
+            "uploader": "Pokémon TV",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/sTj8xUZfceg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS2McwJAuxYUzf8U9D8kjOlmVq7A"
         }
     ]
 }
