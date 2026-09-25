@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-25T10:01:24.242279Z",
+    "last_updated": "2026-09-25T22:24:11.258453Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 17,
+    "total_episodes": 18,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -191,6 +191,17 @@
             "uploader": "Islamic Noor",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/68BzD1Ks8rM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD_YKMFK8RVI7KMWvyzYd74JiHSw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "hyacEIXP3oc",
+            "title": "Peppa Pig Tales 2026 🍎 Peppa Learns to PACK Her SCHOOL LUNCHBOX! 🍱 BRAND NEW Peppa Pig Episodes",
+            "url": "https://www.youtube.com/watch?v=hyacEIXP3oc",
+            "duration": 7258,
+            "view_count": 2322579,
+            "uploader": "Peppa Pig - Official Channel",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/hyacEIXP3oc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoQ-3p7CCeJFTVeT4m7UP4OEWiLg",
             "show_name": "Various Cartoons"
         }
     ]
