@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-28T08:03:31.967924Z",
+    "last_updated": "2026-09-28T16:48:33.427937Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 21,
+    "total_episodes": 22,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -235,6 +235,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/atk3fkO1wPc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXD045zCIwqcq3qrksxhYzV_qFyQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "67EE-4CXfQI",
+            "title": "Bears' Cave Becomes a Mountain of Tote Bags!🛍️🐻| We Bare Bears Hindi | Funny Cartoon In Hindi😂| @...",
+            "url": "https://www.youtube.com/watch?v=67EE-4CXfQI",
+            "duration": 2698,
+            "view_count": 22611,
+            "uploader": "We Bare Bears Hindi",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/67EE-4CXfQI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8QurGvpLBwBNpqTBiIn4ah180tw",
             "show_name": "Various Cartoons"
         }
     ]
