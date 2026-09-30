@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-30T08:42:59.166137Z",
+    "last_updated": "2026-09-30T15:28:35.342721Z",
     "show_name": "Gundaminfo",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Gundaminfo.",
-    "total_episodes": 43,
+    "total_episodes": 44,
     "episodes": [
         {
             "id": "WFC8TBSPqFw",
@@ -477,6 +477,17 @@
             "uploader": null,
             "category": "anime/gundaminfo",
             "thumbnail": "https://i.ytimg.com/vi/QoXLT2ZIhFg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDE640CdmPCmDEtMImVAqiT1axHlg",
+            "channel": null
+        },
+        {
+            "id": "D5dJSEd8sgw",
+            "title": "【GMM】Mobile Suit Gundam NT (Sub ver)",
+            "url": "https://www.youtube.com/watch?v=D5dJSEd8sgw",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/D5dJSEd8sgw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzfDbebBBM8HAf8YRUiqUYaQmq8w",
             "channel": null
         }
     ]
