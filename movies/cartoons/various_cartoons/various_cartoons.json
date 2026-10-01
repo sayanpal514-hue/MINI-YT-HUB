@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-01T16:42:31.816512Z",
+    "last_updated": "2026-10-01T21:22:21.384628Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 22,
+    "total_episodes": 23,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -231,10 +231,10 @@
             "title": "जादुई औषधि Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=atk3fkO1wPc",
             "duration": 3918,
-            "view_count": 323883,
+            "view_count": 333213,
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/atk3fkO1wPc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXD045zCIwqcq3qrksxhYzV_qFyQ",
+            "thumbnail": "https://i.ytimg.com/vi/atk3fkO1wPc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCK-B159h7sZd3aKCwdPF12QqgvHQ",
             "show_name": "Various Cartoons"
         },
         {
@@ -246,6 +246,17 @@
             "uploader": "We Bare Bears Hindi",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/67EE-4CXfQI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8QurGvpLBwBNpqTBiIn4ah180tw",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "nGnmlWnueoE",
+            "title": "Doraemon New Latest Episode in Hindi Doraemon New Episode In Hindi Without Zoom Effect",
+            "url": "https://www.youtube.com/watch?v=nGnmlWnueoE",
+            "duration": 3448,
+            "view_count": 51561,
+            "uploader": "Rao car quest",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/nGnmlWnueoE/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDBTgg5OGfH9D95DxJ5bbBA0KIrMQ",
             "show_name": "Various Cartoons"
         }
     ]
