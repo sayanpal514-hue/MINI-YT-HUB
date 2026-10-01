@@ -1,45 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MINI HUB - Premium Movie Scrapper</title>
-    <link rel="stylesheet" href="style.css">
-    <meta name="description" content="Discover top scraped movies on MINI HUB">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MINI YT HUB — Movies, Anime & Cartoons</title>
+<meta name="description" content="Discover movies, anime, cartoons and series from official YouTube sources.">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <nav class="navbar">
-        <a href="index.html" class="logo">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="#ff2a5f" stroke-width="2"/>
-                <path d="M10 8L16 12L10 16V8Z" fill="#ff2a5f"/>
-            </svg>
-            MINI<span>HUB</span>
-        </a>
-        <div class="search-container">
-            <input type="text" id="searchInput" class="search-input" placeholder="Search for movies, uploaders...">
-        </div>
-    </nav>
+<nav class="navbar">
+<a href="index.html" class="logo" aria-label="MINI YT HUB home">
+<svg width="32" height="32" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+<path d="M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="#ff2a5f" stroke-width="2"/>
+<path d="M10 8L16 12L10 16V8Z" fill="#ff2a5f"/>
+</svg>
+MINI<span>HUB</span>
+</a>
+<div class="search-container">
+<input type="search" id="searchInput" class="search-input" placeholder="Search movies, anime, cartoons..." autocomplete="off" aria-label="Search videos">
+</div>
+</nav>
 
-    <header class="hero">
-        <h1>Unlimited Entertainment</h1>
-        <p>Explore thousands of curated movies across various categories seamlessly.</p>
-    </header>
+<header class="hero">
+<div class="hero-badge">▶ OFFICIAL YOUTUBE SOURCES</div>
+<h1>Entertainment, <span>simplified.</span></h1>
+<p>Discover movies, anime, cartoons and series in one fast, mobile-first hub.</p>
+<div class="hero-stats">
+<span><strong id="libraryCount">—</strong> videos</span><span>•</span>
+<span><strong id="categoryCount">—</strong> categories</span>
+</div>
+</header>
 
-    <main>
-        <div class="categories" id="categoryContainer">
-            <!-- Categories will be injected here via JS -->
-        </div>
+<main>
+<section class="toolbar">
+<div class="toolbar-title"><span id="resultsLabel">All videos</span><span id="resultsCount"></span></div>
+<button id="clearSearch" class="clear-search" type="button" hidden>Clear search</button>
+</section>
+<div class="categories" id="categoryContainer" aria-label="Categories"></div>
+<div id="loader" class="loader-container"><span class="loader"></span></div>
+<div class="movie-grid" id="movieGrid" aria-live="polite"></div>
+</main>
 
-        <div id="loader" class="loader-container">
-            <span class="loader"></span>
-        </div>
-
-        <div class="movie-grid" id="movieGrid">
-            <!-- Movies will be injected here via JS -->
-        </div>
-    </main>
-
-    <script src="script.js"></script>
+<footer class="site-footer">
+<span>MINI YT HUB</span><span>Content is linked from official YouTube sources.</span>
+</footer>
+<script src="script.js"></script>
 </body>
 </html>

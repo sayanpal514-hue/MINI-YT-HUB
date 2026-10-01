@@ -1,289 +1,45 @@
-// State
-let allMovies = [];
-let filteredMovies = [];
-let currentCategory = 'all';
+// MINI YT HUB v2
+let allMovies=[],filteredMovies=[],currentCategory='all',renderLimit=40,searchTimer=null;
+const movieGrid=document.getElementById('movieGrid'),searchInput=document.getElementById('searchInput'),categoryContainer=document.getElementById('categoryContainer'),loader=document.getElementById('loader'),clearSearch=document.getElementById('clearSearch'),resultsCount=document.getElementById('resultsCount'),resultsLabel=document.getElementById('resultsLabel'),libraryCount=document.getElementById('libraryCount'),categoryCount=document.getElementById('categoryCount');
 
-// DOM Elements
-const movieGrid = document.getElementById('movieGrid');
-const searchInput = document.getElementById('searchInput');
-const categoryContainer = document.getElementById('categoryContainer');
-const loader = document.getElementById('loader');
+const jsonFiles=[
+'./movies/movies.json','./movies/anime/anione_in/anione_in.json','./movies/anime/muse_india/muse_india.json','./movies/anime/muse_asia/muse_asia.json','./movies/anime/anione_asia/anione_asia.json','./movies/anime/gundaminfo/gundaminfo.json','./movies/anime/animelog/animelog.json','./movies/bengali/bengali.json',
+'./movies/cartoons/cartoons.json','./movies/cartoons/bandbudh_aur_budbak/bandbudh_aur_budbak.json','./movies/cartoons/bapu/bapu.json','./movies/cartoons/bas_karo_henry/bas_karo_henry.json','./movies/cartoons/ben_10/ben_10.json','./movies/cartoons/chacha_bhatija/chacha_bhatija.json','./movies/cartoons/chhota_bheem/chhota_bheem.json','./movies/cartoons/doraemon/doraemon.json','./movies/cartoons/eena_meena_deeka/eena_meena_deeka.json','./movies/cartoons/fukrey_boyzzz/fukrey_boyzzz.json','./movies/cartoons/gattu_battu/gattu_battu.json','./movies/cartoons/golmaal_jr/golmaal_jr.json','./movies/cartoons/guru_aur_bhole/guru_aur_bhole.json','./movies/cartoons/honey_bunny_ka_jholmaal/honey_bunny_ka_jholmaal.json','./movies/cartoons/inspector_chingum/inspector_chingum.json','./movies/cartoons/keymon_ache/keymon_ache.json','./movies/cartoons/kris_ki_school_journey/kris_ki_school_journey.json','./movies/cartoons/little_singham/little_singham.json','./movies/cartoons/masha_and_the_bear/masha_and_the_bear.json','./movies/cartoons/mighty_raju/mighty_raju.json','./movies/cartoons/motu_patlu/motu_patlu.json','./movies/cartoons/motu_patlu_vs_robots/motu_patlu_vs_robots.json','./movies/cartoons/mr_bean/mr_bean.json','./movies/cartoons/ninja_hattori/ninja_hattori.json','./movies/cartoons/oggy_and_the_cockroaches/oggy_and_the_cockroaches.json','./movies/cartoons/pakdam_pakdai/pakdam_pakdai.json','./movies/cartoons/peppa_pig/peppa_pig.json','./movies/cartoons/pokemon/pokemon.json','./movies/cartoons/roll_no_21/roll_no_21.json','./movies/cartoons/rudra/rudra.json','./movies/cartoons/shinchan/shinchan.json','./movies/cartoons/shiva/shiva.json','./movies/cartoons/super_bheem/super_bheem.json','./movies/cartoons/tik_tak_tail/tik_tak_tail.json','./movies/cartoons/tom_and_jerry/tom_and_jerry.json','./movies/cartoons/vir_the_robot_boy/vir_the_robot_boy.json','./movies/cartoons/zig_and_sharko/zig_and_sharko.json',
+'./movies/comedy/comedy.json','./movies/english/english.json','./movies/hindi/hindi.json','./movies/hollywood/hollywood.json','./movies/kannada/kannada.json','./movies/marathi/marathi.json','./movies/other/other.json','./movies/taarak_mehta/taarak_mehta.json','./movies/tamil/tamil.json','./movies/telugu/telugu.json','./movies/yam_hain_hum/yam_hain_hum.json'];
 
-// Utilities
-const formatViews = (views) => {
-    if (views >= 1000000) return (views / 1000000).toFixed(1) + 'M views';
-    if (views >= 1000) return (views / 1000).toFixed(1) + 'K views';
-    return views + ' views';
-};
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const formatViews=v=>{const n=Number(v)||0;if(n>=1e6)return(n/1e6).toFixed(1)+'M views';if(n>=1e3)return(n/1e3).toFixed(1)+'K views';return n+' views'};
+const formatDuration=v=>{const n=Math.max(0,Number(v)||0),h=Math.floor(n/3600),m=Math.floor(n%3600/60),s=Math.floor(n%60);return h?`${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`:`${m}:${String(s).padStart(2,'0')}`};
+const titleCase=v=>String(v||'other').split('/').pop().replace(/_/g,' ').replace(/\w/g,c=>c.toUpperCase());
+const thumbFor=m=>m.thumbnail||(m.id?`https://img.youtube.com/vi/${encodeURIComponent(m.id)}/hqdefault.jpg`:'');
 
-const formatDuration = (seconds) => {
-    const h = Math.floor(seconds / 3600);
-    const m = Math.floor((seconds % 3600) / 60);
-    const s = Math.floor(seconds % 60);
-    if (h > 0) return `${h}:${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
-    return `${m}:${s.toString().padStart(2, '0')}`;
-};
+async function fetchMovies(){
+if(movieGrid)movieGrid.style.display='none';if(loader)loader.style.display='flex';
+try{
+const cacheKey='mini-yt-hub:data:v2';let cached=null;try{cached=JSON.parse(sessionStorage.getItem(cacheKey)||'null')}catch(_){}
+const responses=await Promise.allSettled(jsonFiles.map(url=>fetch(url,{cache:'force-cache'}).then(r=>r.ok?r.json():Promise.reject(new Error(`HTTP ${r.status}`)))));
+const fetched=[],seen=new Set();
+responses.forEach(result=>{if(result.status!=='fulfilled')return;const data=result.value||{},items=Array.isArray(data.movies)?data.movies:Array.isArray(data.episodes)?data.episodes:[],fallback=data.category||'other';items.forEach(item=>{if(!item||!item.id||seen.has(item.id))return;seen.add(item.id);fetched.push({...item,title:String(item.title||'Untitled'),uploader:String(item.uploader||'Unknown'),category:String(item.category||fallback),view_count:Number(item.view_count)||0,duration:Number(item.duration)||0})})});
+allMovies=fetched.length?fetched:(cached?.movies||[]);filteredMovies=[...allMovies];
+if(fetched.length)try{sessionStorage.setItem(cacheKey,JSON.stringify({movies:fetched}))}catch(_){}
+updateStats();setupCategories();renderMovies();if(document.getElementById('videoPlayer'))setupPlayer();
+}catch(error){console.error('MINI YT HUB:',error);if(movieGrid)movieGrid.innerHTML='<div class="empty-state"><strong>Unable to load the library</strong><span>Please refresh and try again.</span></div>'}
+finally{if(loader)loader.style.display='none';if(movieGrid)movieGrid.style.display='grid'}}
 
-const jsonFiles = [
-    './movies/movies.json',
-    './movies/anime/anione_in/anione_in.json',
-    './movies/anime/muse_india/muse_india.json',
-    './movies/anime/muse_asia/muse_asia.json',
-    './movies/anime/anione_asia/anione_asia.json',
-    './movies/anime/gundaminfo/gundaminfo.json',
-    './movies/anime/animelog/animelog.json',
-    './movies/bengali/bengali.json',
-    './movies/cartoons/cartoons.json',
-    './movies/cartoons/bandbudh_aur_budbak/bandbudh_aur_budbak.json',
-    './movies/cartoons/bapu/bapu.json',
-    './movies/cartoons/bas_karo_henry/bas_karo_henry.json',
-    './movies/cartoons/ben_10/ben_10.json',
-    './movies/cartoons/chacha_bhatija/chacha_bhatija.json',
-    './movies/cartoons/chhota_bheem/chhota_bheem.json',
-    './movies/cartoons/doraemon/doraemon.json',
-    './movies/cartoons/eena_meena_deeka/eena_meena_deeka.json',
-    './movies/cartoons/fukrey_boyzzz/fukrey_boyzzz.json',
-    './movies/cartoons/gattu_battu/gattu_battu.json',
-    './movies/cartoons/golmaal_jr/golmaal_jr.json',
-    './movies/cartoons/guru_aur_bhole/guru_aur_bhole.json',
-    './movies/cartoons/honey_bunny_ka_jholmaal/honey_bunny_ka_jholmaal.json',
-    './movies/cartoons/inspector_chingum/inspector_chingum.json',
-    './movies/cartoons/keymon_ache/keymon_ache.json',
-    './movies/cartoons/kris_ki_school_journey/kris_ki_school_journey.json',
-    './movies/cartoons/little_singham/little_singham.json',
-    './movies/cartoons/masha_and_the_bear/masha_and_the_bear.json',
-    './movies/cartoons/mighty_raju/mighty_raju.json',
-    './movies/cartoons/motu_patlu/motu_patlu.json',
-    './movies/cartoons/motu_patlu_vs_robots/motu_patlu_vs_robots.json',
-    './movies/cartoons/mr_bean/mr_bean.json',
-    './movies/cartoons/ninja_hattori/ninja_hattori.json',
-    './movies/cartoons/oggy_and_the_cockroaches/oggy_and_the_cockroaches.json',
-    './movies/cartoons/pakdam_pakdai/pakdam_pakdai.json',
-    './movies/cartoons/peppa_pig/peppa_pig.json',
-    './movies/cartoons/pokemon/pokemon.json',
-    './movies/cartoons/roll_no_21/roll_no_21.json',
-    './movies/cartoons/rudra/rudra.json',
-    './movies/cartoons/shinchan/shinchan.json',
-    './movies/cartoons/shiva/shiva.json',
-    './movies/cartoons/super_bheem/super_bheem.json',
-    './movies/cartoons/tik_tak_tail/tik_tak_tail.json',
-    './movies/cartoons/tom_and_jerry/tom_and_jerry.json',
-    './movies/cartoons/vir_the_robot_boy/vir_the_robot_boy.json',
-    './movies/cartoons/zig_and_sharko/zig_and_sharko.json',
-    './movies/comedy/comedy.json',
-    './movies/english/english.json',
-    './movies/hindi/hindi.json',
-    './movies/hollywood/hollywood.json',
-    './movies/kannada/kannada.json',
-    './movies/marathi/marathi.json',
-    './movies/other/other.json',
-    './movies/taarak_mehta/taarak_mehta.json',
-    './movies/tamil/tamil.json',
-    './movies/telugu/telugu.json',
-    './movies/yam_hain_hum/yam_hain_hum.json'
-];
+function updateStats(){const cats=new Set(allMovies.map(m=>m.category).filter(Boolean));if(libraryCount)libraryCount.textContent=allMovies.length.toLocaleString();if(categoryCount)categoryCount.textContent=cats.size.toLocaleString();if(resultsCount)resultsCount.textContent=`(${filteredMovies.length.toLocaleString()})`;if(resultsLabel)resultsLabel.textContent=currentCategory==='all'?'All videos':titleCase(currentCategory)}
+function setupCategories(){if(!categoryContainer)return;const cats=[...new Set(allMovies.map(m=>m.category).filter(Boolean))].sort((a,b)=>titleCase(a).localeCompare(titleCase(b)));categoryContainer.innerHTML='<button class="category-btn active" data-category="all">All</button>'+cats.map(c=>`<button class="category-btn" data-category="${esc(c)}">${esc(titleCase(c))}</button>`).join('')}
+function renderMovies(){if(!movieGrid)return;const visible=filteredMovies.slice(0,renderLimit);if(!visible.length){movieGrid.innerHTML='<div class="empty-state"><strong>No videos found</strong><span>Try another search or category.</span></div>';updateStats();return}const fragment=document.createDocumentFragment();visible.forEach(movie=>{const card=document.createElement('a');card.className='movie-card';card.href=`player.html?id=${encodeURIComponent(movie.id)}`;card.innerHTML=`<div class="thumbnail-wrapper"><img src="${esc(thumbFor(movie))}" alt="" class="movie-thumb" loading="lazy" decoding="async" width="480" height="270"><span class="duration-badge">${formatDuration(movie.duration)}</span></div><div class="movie-info"><h3 class="movie-title">${esc(movie.title)}</h3><div class="movie-meta"><span class="movie-uploader">${esc(movie.uploader)}</span><span>${formatViews(movie.view_count)}</span></div></div>`;const img=card.querySelector('img');img.addEventListener('load',()=>img.classList.add('loaded'),{once:true});img.addEventListener('error',()=>{img.classList.add('error');img.removeAttribute('src')},{once:true});fragment.appendChild(card)});movieGrid.replaceChildren(fragment);updateStats()}
+function filterMovies(){const term=(searchInput?.value||'').trim().toLowerCase();filteredMovies=allMovies.filter(m=>{const haystack=`${m.title} ${m.uploader} ${m.category}`.toLowerCase();return(!term||haystack.includes(term))&&(currentCategory==='all'||m.category===currentCategory)});renderLimit=40;renderMovies();if(clearSearch)clearSearch.hidden=!term}
+categoryContainer?.addEventListener('click',e=>{const btn=e.target.closest('.category-btn');if(!btn)return;categoryContainer.querySelectorAll('.category-btn').forEach(b=>b.classList.remove('active'));btn.classList.add('active');currentCategory=btn.dataset.category;filterMovies()});
+searchInput?.addEventListener('input',()=>{clearTimeout(searchTimer);searchTimer=setTimeout(filterMovies,120)});
+clearSearch?.addEventListener('click',()=>{searchInput.value='';currentCategory='all';categoryContainer?.querySelectorAll('.category-btn').forEach(b=>b.classList.toggle('active',b.dataset.category==='all'));filterMovies();searchInput.focus()});
+window.addEventListener('scroll',()=>{if(window.innerHeight+window.scrollY<document.documentElement.scrollHeight-600)return;if(renderLimit<filteredMovies.length){renderLimit+=40;renderMovies()}},{passive:true});
 
-const fetchMovies = async () => {
-    try {
-        if(movieGrid) movieGrid.style.display = 'none';
-        if(loader) loader.style.display = 'flex';
-        
-        let fetchedMovies = [];
-        const seenIds = new Set();
-        
-        // Fetch all files in parallel
-        const responses = await Promise.allSettled(
-            jsonFiles.map(url => fetch(url).then(res => res.json()))
-        );
-        
-        responses.forEach(result => {
-            if (result.status === 'fulfilled') {
-                const data = result.value;
-                // Some files use 'movies', some use 'episodes'
-                let items = [];
-                if (data.movies) items = data.movies;
-                else if (data.episodes) items = data.episodes;
-                
-                // Add default category if missing
-                const defaultCat = data.category || 'other';
-                
-                items.forEach(item => {
-                    if (!seenIds.has(item.id)) {
-                        seenIds.add(item.id);
-                        item.category = item.category || defaultCat;
-                        item.uploader = item.uploader || 'Unknown';
-                        item.view_count = item.view_count || 0;
-                        item.duration = item.duration || 0;
-                        fetchedMovies.push(item);
-                    }
-                });
-            }
-        });
-        
-        allMovies = fetchedMovies;
-        filteredMovies = [...allMovies];
-        
-        if (movieGrid) {
-            setupCategories();
-            renderMovies();
-        }
-        
-        // For player page
-        if (document.getElementById('videoPlayer')) {
-            setupPlayer();
-        }
-    } catch (error) {
-        console.error('Error fetching movies:', error);
-        if (movieGrid) {
-            movieGrid.innerHTML = '<div style="color: #ff2a5f; text-align:center; width:100%; grid-column: 1/-1;">Failed to load movies.</div>';
-        }
-    } finally {
-        if(loader) loader.style.display = 'none';
-        if(movieGrid) movieGrid.style.display = 'grid';
-    }
-};
-
-// Render Movies
-const renderMovies = () => {
-    if (!movieGrid) return;
-    
-    movieGrid.innerHTML = '';
-    
-    if (filteredMovies.length === 0) {
-        movieGrid.innerHTML = '<div style="color: var(--text-secondary); text-align:center; width:100%; grid-column: 1/-1; padding: 2rem;">No movies found.</div>';
-        return;
-    }
-    
-    // Render only first 100 to avoid performance issues if JSON is huge, but here let's render up to 200
-    const moviesToRender = filteredMovies.slice(0, 200);
-    
-    moviesToRender.forEach(movie => {
-        const card = document.createElement('a');
-        card.className = 'movie-card';
-        card.href = `player.html?id=${movie.id}`;
-        
-        card.innerHTML = `
-            <div class="thumbnail-wrapper">
-                <img src="${movie.thumbnail || `https://img.youtube.com/vi/${movie.id}/maxresdefault.jpg`}" alt="${movie.title}" class="movie-thumb" loading="lazy">
-                <span class="duration-badge">${formatDuration(movie.duration)}</span>
-            </div>
-            <div class="movie-info">
-                <h3 class="movie-title">${movie.title}</h3>
-                <div class="movie-meta">
-                    <span class="movie-uploader">${movie.uploader}</span>
-                    <span class="movie-views">${formatViews(movie.view_count)}</span>
-                </div>
-            </div>
-        `;
-        
-        movieGrid.appendChild(card);
-    });
-};
-
-// Categories Setup
-const setupCategories = () => {
-    if (!categoryContainer) return;
-    
-    // Extract unique categories
-    const categories = new Set(allMovies.map(m => m.category).filter(Boolean));
-    
-    let html = `<button class="category-btn active" data-category="all">All</button>`;
-    
-    categories.forEach(cat => {
-        const displayCat = cat.charAt(0).toUpperCase() + cat.slice(1).replace(/_/g, ' ');
-        html += `<button class="category-btn" data-category="${cat}">${displayCat}</button>`;
-    });
-    
-    categoryContainer.innerHTML = html;
-    
-    // Add Event Listeners
-    categoryContainer.querySelectorAll('.category-btn').forEach(btn => {
-        btn.addEventListener('click', (e) => {
-            // Update active class
-            categoryContainer.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
-            e.target.classList.add('active');
-            
-            currentCategory = e.target.dataset.category;
-            filterMovies();
-        });
-    });
-};
-
-// Filter logic
-const filterMovies = () => {
-    const searchTerm = searchInput ? searchInput.value.toLowerCase() : '';
-    
-    filteredMovies = allMovies.filter(movie => {
-        const matchesSearch = movie.title.toLowerCase().includes(searchTerm) || 
-                              movie.uploader.toLowerCase().includes(searchTerm) ||
-                              movie.category.toLowerCase().includes(searchTerm);
-        const matchesCategory = currentCategory === 'all' || movie.category === currentCategory;
-        
-        return matchesSearch && matchesCategory;
-    });
-    
-    renderMovies();
-};
-
-if (searchInput) {
-    searchInput.addEventListener('input', filterMovies);
+function setupPlayer(){
+const id=new URLSearchParams(location.search).get('id'),movie=allMovies.find(m=>String(m.id)===String(id));
+if(!movie){document.querySelector('.player-container').innerHTML='<div class="empty-state"><strong>Video not found</strong><a href="index.html">Return to MINI HUB</a></div>';return}
+document.title=`${movie.title} - MINI YT HUB`;const iframe=document.getElementById('videoPlayer');if(iframe)iframe.src=`https://www.youtube.com/embed/${encodeURIComponent(movie.id)}?autoplay=1&rel=0`;
+document.getElementById('videoTitle').textContent=movie.title;document.getElementById('videoViews').textContent=formatViews(movie.view_count);document.getElementById('videoDate').textContent=titleCase(movie.category);document.getElementById('uploaderInitial').textContent=(movie.uploader||'?').charAt(0).toUpperCase();document.getElementById('uploaderName').textContent=movie.uploader||'Unknown';
+const related=allMovies.filter(m=>m.id!==movie.id&&m.category===movie.category).slice(0,15),fallback=related.length<10?allMovies.filter(m=>m.id!==movie.id&&m.category!==movie.category).slice(0,15-related.length):[],list=document.getElementById('recommendationsList');if(list)list.innerHTML=[...related,...fallback].map(item=>`<a class="rec-card" href="player.html?id=${encodeURIComponent(item.id)}"><img src="${esc(thumbFor(item))}" class="rec-thumb" alt="" loading="lazy" decoding="async"><div class="rec-info"><div class="rec-title">${esc(item.title)}</div><div class="rec-meta">${esc(item.uploader)} • ${formatViews(item.view_count)}</div></div></a>`).join('')
 }
-
-
-// Player Logic
-const setupPlayer = () => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const videoId = urlParams.get('id');
-    
-    if (!videoId) {
-        document.querySelector('.player-container').innerHTML = '<h2>Video not found</h2>';
-        return;
-    }
-    
-    const movie = allMovies.find(m => m.id === videoId);
-    
-    if (movie) {
-        // Set document title
-        document.title = `${movie.title} - MINI HUB`;
-        
-        // Setup Player
-        document.getElementById('videoPlayer').src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-        document.getElementById('videoTitle').textContent = movie.title;
-        document.getElementById('videoViews').textContent = formatViews(movie.view_count);
-        document.getElementById('videoDate').textContent = movie.category.charAt(0).toUpperCase() + movie.category.slice(1);
-        document.getElementById('uploaderInitial').textContent = movie.uploader.charAt(0).toUpperCase();
-        document.getElementById('uploaderName').textContent = movie.uploader;
-        
-        // Setup Recommendations
-        const recContainer = document.getElementById('recommendationsList');
-        recContainer.innerHTML = '';
-        
-        // Get related movies (same category, exclude current)
-        let related = allMovies.filter(m => m.category === movie.category && m.id !== videoId);
-        
-        // If not enough related, just add random ones
-        if (related.length < 10) {
-            related = [...related, ...allMovies.filter(m => m.category !== movie.category && m.id !== videoId)].slice(0, 15);
-        } else {
-            related = related.slice(0, 15);
-        }
-        
-        related.forEach(rec => {
-            const el = document.createElement('a');
-            el.className = 'rec-card';
-            el.href = `player.html?id=${rec.id}`;
-            el.innerHTML = `
-                <img src="${rec.thumbnail}" class="rec-thumb" alt="thumbnail">
-                <div class="rec-info">
-                    <div class="rec-title">${rec.title}</div>
-                    <div class="rec-meta">${rec.uploader} • ${formatViews(rec.view_count)}</div>
-                </div>
-            `;
-            recContainer.appendChild(el);
-        });
-    }
-};
-
-
-// Initialize
-document.addEventListener('DOMContentLoaded', fetchMovies);
+document.addEventListener('DOMContentLoaded',fetchMovies);
