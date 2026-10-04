@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-03T22:25:20.856253Z",
+    "last_updated": "2026-10-04T02:00:18.107177Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 130,
+    "total_episodes": 131,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -361,7 +361,7 @@
             "title": "Island of the Giant Pokémon | FULL EPISODE 17 | Season 1",
             "url": "https://www.youtube.com/watch?v=R-GNznqs7cI",
             "duration": 1343,
-            "view_count": 3811828,
+            "view_count": 3815107,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/R-GNznqs7cI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClkw4JXBqmJOpQg_Nz8orJ4JKLYw"
@@ -411,7 +411,7 @@
             "title": "ENTER PIKACHU!  [FULL EPISODE] 📺 | Pokémon Journeys: The Series Episode 1",
             "url": "https://www.youtube.com/watch?v=8SJSS_CB6jE",
             "duration": 1433,
-            "view_count": 8755279,
+            "view_count": 8755759,
             "uploader": "The Official Pokémon YouTube channel",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/8SJSS_CB6jE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzbkdFPLMRxMksAn81dlT7osQHUg"
@@ -461,7 +461,7 @@
             "title": "Enter The Dragonite  | POKÉMON FULL EPISODE 56 | Season 2",
             "url": "https://www.youtube.com/watch?v=bAE1pgjx8Hk",
             "duration": 1310,
-            "view_count": 3463738,
+            "view_count": 3464732,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/bAE1pgjx8Hk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLTeANKGNBnFnDjFHmf7Ou1OszuQ"
@@ -1231,7 +1231,7 @@
             "title": "Pokémon Double Trouble | FULL EPISODE 52 | Season 2",
             "url": "https://www.youtube.com/watch?v=sTj8xUZfceg",
             "duration": 1307,
-            "view_count": 1947117,
+            "view_count": 1948342,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/sTj8xUZfceg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS2McwJAuxYUzf8U9D8kjOlmVq7A"
@@ -1305,6 +1305,16 @@
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/hOSXkiZ_8zY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4yLIMXot-7bEhOBJIymG3-HM0ww"
+        },
+        {
+            "id": "mDGVc3Sc_H4",
+            "title": "Beach Blank-out Blastoise | POKÉMON FULL EPISODE 5 | Season 2",
+            "url": "https://www.youtube.com/watch?v=mDGVc3Sc_H4",
+            "duration": 1417,
+            "view_count": 6040618,
+            "uploader": "Pokémon TV",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/mDGVc3Sc_H4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVob_Ooq68-USMMpaY2Al796xD5Q"
         }
     ]
 }
