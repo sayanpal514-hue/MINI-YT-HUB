@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-10-08T14:55:12.177111Z",
+    "last_updated": "2026-10-08T20:20:49.788734Z",
     "show_name": "My Hero Academia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for My Hero Academia.",
-    "total_episodes": 73,
+    "total_episodes": 74,
     "episodes": [
         {
             "id": "9brrbcdbZZs",
             "title": "My Hero Academia Season 1 Episode 1 In Hindi Dubbed |Dude Anime",
             "url": "https://www.youtube.com/watch?v=9brrbcdbZZs",
             "duration": 1068,
-            "view_count": 30738,
+            "view_count": 30757,
             "uploader": "Dude Anime",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/9brrbcdbZZs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9RNfjL1_n_VOsynVTL6DmDlty0Q"
@@ -71,10 +71,10 @@
             "title": "My Hero Academia the MOVIE 2 HEROES ABRIDGED",
             "url": "https://www.youtube.com/watch?v=2EFMRwOW8_I",
             "duration": 1988,
-            "view_count": 1683942,
+            "view_count": 1685698,
             "uploader": "JoyRide",
             "category": "anime/my_hero_academia",
-            "thumbnail": "https://i.ytimg.com/vi/2EFMRwOW8_I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgim097LBhjg6gQg4KgB&rs=AOn4CLA18uGjuz7fksyZHiOqzGfUhKWrkQ&usqp=CBU"
+            "thumbnail": "https://i.ytimg.com/vi/2EFMRwOW8_I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmEiI5JQWMN9PiQe1NoFthoeP5ag"
         },
         {
             "id": "na4UD1YBWeQ",
@@ -441,7 +441,7 @@
             "title": "The ENTIRE Story Of MY HERO ACADEMIA In 326 Minutes",
             "url": "https://www.youtube.com/watch?v=4yEl2_zAtdc",
             "duration": 19581,
-            "view_count": 748162,
+            "view_count": 750239,
             "uploader": "JarAnime",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/4yEl2_zAtdc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5zZmfR_gS6un76jfwkMoH9Sh74A"
@@ -735,6 +735,16 @@
             "uploader": "MrBeast",
             "category": "anime/my_hero_academia",
             "thumbnail": "https://i.ytimg.com/vi/plN7JMbadRg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPjG6OeOsgIeIbEHSbdEWuctityQ"
+        },
+        {
+            "id": "e6Cw1Ux8wVg",
+            "title": "MHA Abridged Episode 2",
+            "url": "https://www.youtube.com/watch?v=e6Cw1Ux8wVg",
+            "duration": 757,
+            "view_count": 2098604,
+            "uploader": "Yusho Productions",
+            "category": "anime/my_hero_academia",
+            "thumbnail": "https://i.ytimg.com/vi/e6Cw1Ux8wVg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApEkual3QaMAiOkVoZbbgrnRrzig"
         }
     ]
 }
