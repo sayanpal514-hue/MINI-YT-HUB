@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-10-09T13:43:44.213592Z",
+    "last_updated": "2026-10-09T19:10:18.741634Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 79,
+    "total_episodes": 80,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": 305439,
+            "view_count": 305448,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -21,7 +21,7 @@
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832,
-            "view_count": 781930,
+            "view_count": 781937,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -84,7 +84,7 @@
             "view_count": 2524,
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/okrDjARHANo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCfDdvn8l8vSXmwAXuowvomOfXw-Q"
+            "thumbnail": "https://i.ytimg.com/vi/okrDjARHANo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxDWzgaefqUtuBjzFfaR9N0dBcWQ"
         },
         {
             "id": "HmjKQ0mHfsA",
@@ -194,7 +194,7 @@
             "view_count": 90905,
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/5iupWuAJa6Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB1ckGGgm8K-J4ugN0f_R43fNstzw"
+            "thumbnail": "https://i.ytimg.com/vi/5iupWuAJa6Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvD-URq-etEMderKsQrTj8FRkjMQ"
         },
         {
             "id": "ypjJ4w3mT_w",
@@ -795,6 +795,16 @@
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/ey4nq87QvVk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDQg2vgWmPpKt7Ve_TcVvGdM-ecJw"
+        },
+        {
+            "id": "kIR6Ms2SQ8g",
+            "title": "Tik Tak Tail | Tak Turns Vegetarian | Funny Cartoon Compilation | WildBrain Happy Kids",
+            "url": "https://www.youtube.com/watch?v=kIR6Ms2SQ8g",
+            "duration": 854,
+            "view_count": 1865,
+            "uploader": "WildBrain Sunshine City",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/kIR6Ms2SQ8g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5UAaIs82qh4iL45aohMl5jnmDhA"
         }
     ]
 }
