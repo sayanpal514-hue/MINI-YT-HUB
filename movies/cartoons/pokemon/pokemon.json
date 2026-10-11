@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-11T01:03:34.649753Z",
+    "last_updated": "2026-10-11T07:14:55.848154Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 137,
+    "total_episodes": 138,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -341,7 +341,7 @@
             "title": "Kalos, Where Dreams and Adventures Begin  [FULL EPISODE] 📺 | Pokémon the Series: XY Episode 1",
             "url": "https://www.youtube.com/watch?v=SeJkcF6gYjA",
             "duration": 1283,
-            "view_count": 7004934,
+            "view_count": 7005193,
             "uploader": "The Official Pokémon YouTube channel",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/SeJkcF6gYjA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_eYBumXeW8tt6zGlcvcZ_3PLVOg"
@@ -481,7 +481,7 @@
             "title": "Play with Fire! | POKÉMON FULL EPISODE 61 | Season 5",
             "url": "https://www.youtube.com/watch?v=inxZmZi0pEk",
             "duration": 1274,
-            "view_count": 1912798,
+            "view_count": 1913654,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/inxZmZi0pEk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSyOBK0Qxy3cSc0ZbNk3O20rPv-A"
@@ -1231,7 +1231,7 @@
             "title": "Pokémon Double Trouble | FULL EPISODE 52 | Season 2",
             "url": "https://www.youtube.com/watch?v=sTj8xUZfceg",
             "duration": 1307,
-            "view_count": 1964190,
+            "view_count": 1965679,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/sTj8xUZfceg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS2McwJAuxYUzf8U9D8kjOlmVq7A"
@@ -1301,7 +1301,7 @@
             "title": "Charizard's Burning Ambitions! | POKÉMON FULL EPISODE 18 | Season 3",
             "url": "https://www.youtube.com/watch?v=hOSXkiZ_8zY",
             "duration": 1361,
-            "view_count": 2196846,
+            "view_count": 2206862,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/hOSXkiZ_8zY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4yLIMXot-7bEhOBJIymG3-HM0ww"
@@ -1375,6 +1375,16 @@
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/9IymXcXl4fk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwybhRubXDx93Bk8T2U4FO9lEFCg"
+        },
+        {
+            "id": "SpYyPHhvCFQ",
+            "title": "Bulbasaur’s Mysterious Garden | POKÉMON FULL EPISODE 48 | Season 1",
+            "url": "https://www.youtube.com/watch?v=SpYyPHhvCFQ",
+            "duration": 1343,
+            "view_count": 4383014,
+            "uploader": "Pokémon TV",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/SpYyPHhvCFQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCafaoUTl8J6JD8MUfN5rjW9pOlAg"
         }
     ]
 }

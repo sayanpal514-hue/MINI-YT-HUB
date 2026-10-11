@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-10-11T01:03:34.705195Z",
+    "last_updated": "2026-10-11T07:14:55.676181Z",
     "show_name": "Pakdam Pakdai",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pakdam Pakdai.",
-    "total_episodes": 37,
+    "total_episodes": 38,
     "episodes": [
         {
             "id": "7SplSrjetxU",
             "title": "Doggy Don और चूहो की हुई बदमाशी शांत | Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=7SplSrjetxU",
             "duration": 1369,
-            "view_count": 887913,
+            "view_count": 888814,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/7SplSrjetxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdmO31Fha8sS58WtYTGog_hC2ACg"
@@ -171,7 +171,7 @@
             "title": "Pakdam Pakdai | Full Episode | Mice Brothers की मस्ती: Doggy Don और Colonel को डराना! 🐭😱",
             "url": "https://www.youtube.com/watch?v=wMRhi-F6Zdw",
             "duration": 1060,
-            "view_count": 563997,
+            "view_count": 564103,
             "uploader": "Sonic Gang",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/wMRhi-F6Zdw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB763vOQBIWTOArkhSZUY-9KjFJCQ"
@@ -251,7 +251,7 @@
             "title": "Halwayi Colonel ने किया कमाल 😱🍬| Pakdam Pakdai",
             "url": "https://www.youtube.com/watch?v=8Hs5tY2bnsY",
             "duration": 1412,
-            "view_count": 793596,
+            "view_count": 794826,
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/8Hs5tY2bnsY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzA5u0WNxXOlBmc90XjYkfNvTICw"
@@ -375,6 +375,16 @@
             "uploader": "Pakdam Pakdai",
             "category": "cartoons/pakdam_pakdai",
             "thumbnail": "https://i.ytimg.com/vi/7WBhFztXrEs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlsByDH33LD5uagZAnhdMqggDyug"
+        },
+        {
+            "id": "IQXdjsCPaZM",
+            "title": "Pakdam Pakdai | Cartoon In Hindi | Full Episode",
+            "url": "https://www.youtube.com/watch?v=IQXdjsCPaZM",
+            "duration": 1693,
+            "view_count": 79,
+            "uploader": "CARTOON VIDEO CHANNEL",
+            "category": "cartoons/pakdam_pakdai",
+            "thumbnail": "https://i.ytimg.com/vi/IQXdjsCPaZM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhyIDwoPzAP&rs=AOn4CLCDbvfbektG7OaFLLoAzKOMK4-0NQ"
         }
     ]
 }
