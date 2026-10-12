@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-12T01:43:52.681679Z",
+    "last_updated": "2026-10-12T08:13:02.072987Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 25,
+    "total_episodes": 26,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -176,10 +176,10 @@
             "title": "बेकार भोजन | Bas Karo Henry | बच्चों के लिए कार्टून | Hindi Cartoons",
             "url": "https://www.youtube.com/watch?v=mIPXHZ5mMX8",
             "duration": 3601,
-            "view_count": 3945490,
+            "view_count": 3945741,
             "uploader": "Bas Karo Henry",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/mIPXHZ5mMX8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWJNCBniwaKC1Y5gWVrYA4eC9k3w",
+            "thumbnail": "https://i.ytimg.com/vi/mIPXHZ5mMX8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBdXizDfBlhaf3tlgHOqkT1SF2GeQ",
             "show_name": "Various Cartoons"
         },
         {
@@ -279,6 +279,17 @@
             "uploader": "islami paigam",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/nwxDupLmQdU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoC2lmbS2_09midGXeJhMYOhLa3g",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "QT3KJoWO0OQ",
+            "title": "गुप्त आश्चर्य और अधिक | एपिसोड संकलन | Bas Karo Henry | Hindi Cartoons",
+            "url": "https://www.youtube.com/watch?v=QT3KJoWO0OQ",
+            "duration": 2636,
+            "view_count": 2188920,
+            "uploader": "Bas Karo Henry",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/QT3KJoWO0OQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDZLgHJYdLEL5CPeN_VK9BVHjNa_A",
             "show_name": "Various Cartoons"
         }
     ]
