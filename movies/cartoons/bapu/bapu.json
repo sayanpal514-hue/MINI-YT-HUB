@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-11T22:35:11.001159Z",
+    "last_updated": "2026-10-12T01:43:52.800540Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 91,
+    "total_episodes": 92,
     "episodes": [
         {
             "id": "RJrIfDkjpeQ",
@@ -41,7 +41,7 @@
             "title": "Labhu Shaq chaggan is Chor  | Bapu Catoon Ep -1 | and Hindi cartoon |",
             "url": "https://www.youtube.com/watch?v=tvT3j09ZBR0",
             "duration": 677,
-            "view_count": 7334,
+            "view_count": 7335,
             "uploader": "BAPU KIDS PLAY TV",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/tvT3j09ZBR0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaWQ-KK5Jtp7WKWYRqtdhnOlEx4Q"
@@ -211,7 +211,7 @@
             "title": "चमकीली चाऊमीन का झोल | Moral Stories for Children in Hindi | बच्चों की कहानियाँ | Kids Videos",
             "url": "https://www.youtube.com/watch?v=_r9fTbKkYn0",
             "duration": 718,
-            "view_count": 47994685,
+            "view_count": 47994689,
             "uploader": "Sony YAY!",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/_r9fTbKkYn0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkUhtIbint98wAgAXSuTLe9amyyw"
@@ -915,6 +915,16 @@
             "uploader": "Sabzi Toons",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/2PVUV9M52Xc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsXMeZCb0TPTEmv-p74OsXNBz44w&usqp=CBQ"
+        },
+        {
+            "id": "ec0IYt8P_k4",
+            "title": "घनश्याम भूत की आखरी Wish | Paap-O-Meter Full Episode | Moral Stories for Kids | Funny Videos",
+            "url": "https://www.youtube.com/watch?v=ec0IYt8P_k4",
+            "duration": 689,
+            "view_count": 4047621,
+            "uploader": "Sony YAY!",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/ec0IYt8P_k4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-FOQaq8i_zc2BcZ_xlbEDvWwvzg"
         }
     ]
 }

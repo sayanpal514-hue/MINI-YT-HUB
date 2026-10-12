@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-11T22:35:10.943693Z",
+    "last_updated": "2026-10-12T01:43:52.725021Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 80,
+    "total_episodes": 81,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
@@ -14,14 +14,14 @@
             "view_count": 305492,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w&usqp=CBQ"
+            "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
         },
         {
             "id": "1sARdYKPDL0",
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832,
-            "view_count": 782000,
+            "view_count": 782001,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -134,7 +134,7 @@
             "view_count": 1265,
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/xFYSMFbTVjk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC0d3rZYtSZ0uWlqbj4mGb9hp5Cqg"
+            "thumbnail": "https://i.ytimg.com/vi/xFYSMFbTVjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLvR-EV6QtfYMLpiXVQAKWzcv6sw"
         },
         {
             "id": "AytL2hvnADI",
@@ -805,6 +805,16 @@
             "uploader": "WildBrain Sunshine City",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/kIR6Ms2SQ8g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5UAaIs82qh4iL45aohMl5jnmDhA"
+        },
+        {
+            "id": "uUTb00nyHWA",
+            "title": "Tik Tak Tail | Furniture Trouble | Funny Cartoon Compilation | Videos For Kids",
+            "url": "https://www.youtube.com/watch?v=uUTb00nyHWA",
+            "duration": 854,
+            "view_count": 3588,
+            "uploader": "WildBrain Circus ",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/uUTb00nyHWA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmRc1OGj1gQ5P3hBPHuN7AZlVEBA"
         }
     ]
 }
