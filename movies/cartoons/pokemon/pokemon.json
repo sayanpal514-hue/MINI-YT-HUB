@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-14T17:35:28.034432Z",
+    "last_updated": "2026-10-14T20:58:36.972995Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 139,
+    "total_episodes": 140,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -341,10 +341,10 @@
             "title": "Kalos, Where Dreams and Adventures Begin  [FULL EPISODE] 📺 | Pokémon the Series: XY Episode 1",
             "url": "https://www.youtube.com/watch?v=SeJkcF6gYjA",
             "duration": 1283,
-            "view_count": 7008390,
+            "view_count": 7008609,
             "uploader": "The Official Pokémon YouTube channel",
             "category": "cartoons/pokemon",
-            "thumbnail": "https://i.ytimg.com/vi/SeJkcF6gYjA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBK5TIYJuEYXTu3dawr8iJDItFSWw"
+            "thumbnail": "https://i.ytimg.com/vi/SeJkcF6gYjA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_eYBumXeW8tt6zGlcvcZ_3PLVOg"
         },
         {
             "id": "yteSsb4_QTU",
@@ -461,7 +461,7 @@
             "title": "Enter The Dragonite  | POKÉMON FULL EPISODE 56 | Season 2",
             "url": "https://www.youtube.com/watch?v=bAE1pgjx8Hk",
             "duration": 1310,
-            "view_count": 3520366,
+            "view_count": 3522426,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/bAE1pgjx8Hk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLTeANKGNBnFnDjFHmf7Ou1OszuQ"
@@ -481,20 +481,20 @@
             "title": "Play with Fire! | POKÉMON FULL EPISODE 61 | Season 5",
             "url": "https://www.youtube.com/watch?v=inxZmZi0pEk",
             "duration": 1274,
-            "view_count": 1922287,
+            "view_count": 1922763,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
-            "thumbnail": "https://i.ytimg.com/vi/inxZmZi0pEk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCNbGPJFGpLDgJ1WlnEjTaUrUuSvw"
+            "thumbnail": "https://i.ytimg.com/vi/inxZmZi0pEk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSyOBK0Qxy3cSc0ZbNk3O20rPv-A"
         },
         {
             "id": "XaWreTXENiY",
             "title": "A Tail with a Twist | POKÉMON FULL EPISODE 8 | Season 6",
             "url": "https://www.youtube.com/watch?v=XaWreTXENiY",
             "duration": 1274,
-            "view_count": 1097399,
+            "view_count": 1098988,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
-            "thumbnail": "https://i.ytimg.com/vi/XaWreTXENiY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAdOEoZh6Fq6b8tWptjbqPgUUNN1A"
+            "thumbnail": "https://i.ytimg.com/vi/XaWreTXENiY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-rHvJzhruXBwV_FWgqPe_FxoRQA"
         },
         {
             "id": "fA153nrEu_o",
@@ -581,7 +581,7 @@
             "title": "Can't Beat the Heat | POKÉMON FULL EPISODE 60 | Season 5",
             "url": "https://www.youtube.com/watch?v=dHPTV4AHUyc",
             "duration": 1274,
-            "view_count": 4521073,
+            "view_count": 4536866,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/dHPTV4AHUyc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdqUbugHfbtViyxDesJ-JzQxVovA"
@@ -1191,7 +1191,7 @@
             "title": "Snow Way Out! | POKÉMON FULL EPISODE 10 | Season 2",
             "url": "https://www.youtube.com/watch?v=8Gr8rpuXE0Y",
             "duration": 1292,
-            "view_count": 3479780,
+            "view_count": 3481703,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/8Gr8rpuXE0Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQzOmKhcO94AGa_9Py6Bkgnx40Ow"
@@ -1211,7 +1211,7 @@
             "title": "The Little Big Horn! | POKÉMON FULL EPISODE 9 | Season 3",
             "url": "https://www.youtube.com/watch?v=enDB30PCPlw",
             "duration": 1362,
-            "view_count": 1018307,
+            "view_count": 1050188,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/enDB30PCPlw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkcfQEf2FgFN06k-TPZkVYN0H2nQ"
@@ -1251,7 +1251,7 @@
             "title": "Sparks Fly for Magnemite | POKÉMON FULL EPISODE 29 | Season 1",
             "url": "https://www.youtube.com/watch?v=f8mWMqLO88A",
             "duration": 1342,
-            "view_count": 2447476,
+            "view_count": 2450174,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/f8mWMqLO88A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxl0kNnSh6F1gvNvQJtUdqSMMq2A"
@@ -1261,7 +1261,7 @@
             "title": "Charizard Chills | POKÉMON FULL EPISODE 49 | Season 2",
             "url": "https://www.youtube.com/watch?v=R9SQMo70NY8",
             "duration": 1358,
-            "view_count": 2959297,
+            "view_count": 2974385,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/R9SQMo70NY8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdoCNZGeE_Jhm9uz_j4VxPFF1rMw"
@@ -1271,7 +1271,7 @@
             "title": "Liko & Roy's Adventures Continue! | TWO Full Episodes 📺 | Pokémon Horizons: Season 2",
             "url": "https://www.youtube.com/watch?v=gUDSyBRhtUU",
             "duration": 2621,
-            "view_count": 266965,
+            "view_count": 270517,
             "uploader": "The Official Pokémon YouTube channel",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/gUDSyBRhtUU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOdY6LOAqG5H7uzTqipNAtk5UlXQ"
@@ -1291,7 +1291,7 @@
             "title": "Welcome to Naranja Academy! 📺 [FULL EPISODE] | Pokémon Horizons: Season 2, Episode 1",
             "url": "https://www.youtube.com/watch?v=VmTSAWTQhmE",
             "duration": 1314,
-            "view_count": 392270,
+            "view_count": 394837,
             "uploader": "The Official Pokémon YouTube channel",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/VmTSAWTQhmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkH426CMc6V6aeHavDvizgRIQ-Hw"
@@ -1301,10 +1301,10 @@
             "title": "Charizard's Burning Ambitions! | POKÉMON FULL EPISODE 18 | Season 3",
             "url": "https://www.youtube.com/watch?v=hOSXkiZ_8zY",
             "duration": 1361,
-            "view_count": 2213476,
+            "view_count": 2215959,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
-            "thumbnail": "https://i.ytimg.com/vi/hOSXkiZ_8zY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDVJqBmBo2mrYRlH3PoCZ00ePxV_g"
+            "thumbnail": "https://i.ytimg.com/vi/hOSXkiZ_8zY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4yLIMXot-7bEhOBJIymG3-HM0ww"
         },
         {
             "id": "mDGVc3Sc_H4",
@@ -1395,6 +1395,16 @@
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/oV5q1W-jrkg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH35h_JZEuo5LdI38KhjQCEWIPSg"
+        },
+        {
+            "id": "gUbVcf2g1n8",
+            "title": "Doraemon New Movie nobita aur antariksh ke rakhwale (2025) Dual Hindi dubbed movie #1080p",
+            "url": "https://www.youtube.com/watch?v=gUbVcf2g1n8",
+            "duration": 6056,
+            "view_count": 3680,
+            "uploader": "M4meer King",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/gUbVcf2g1n8/hqdefault_custom_2.jpg?sqp=CKTYv9YG-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0r3XCsEzhbP9hc2eN0_-_1sKVkg"
         }
     ]
 }
