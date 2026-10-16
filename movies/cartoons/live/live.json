@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-04T13:29:46.606120Z",
+    "last_updated": "2026-10-16T15:31:43.629083Z",
     "show_name": "LIVE",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for LIVE.",
-    "total_episodes": 9,
+    "total_episodes": 10,
     "episodes": [
         {
             "id": "B_5RPAixkG4",
@@ -103,6 +103,17 @@
             "uploader": "Cartoon Network",
             "category": "cartoons/live",
             "thumbnail": "https://i.ytimg.com/vi/aPGvK6tJMXk/hq720.jpg?v=695d33d3&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkM84d7UoRJfYIkBIKfIl6jyElaw",
+            "show_name": "LIVE"
+        },
+        {
+            "id": "_RdBYV6TLV0",
+            "title": "🔴 LIVE: SEASON 01 | FULL EPISODES | Courage the Cowardly Dog | #halloween #classiccartoons",
+            "url": "https://www.youtube.com/watch?v=_RdBYV6TLV0",
+            "duration": null,
+            "view_count": null,
+            "uploader": "Courage the Cowardly Dog",
+            "category": "cartoons/live",
+            "thumbnail": "https://i.ytimg.com/vi/_RdBYV6TLV0/hq720.jpg?v=6ad0d06d&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDetnDQAea3_kYYC6IrCbE74oHuJA",
             "show_name": "LIVE"
         }
     ]

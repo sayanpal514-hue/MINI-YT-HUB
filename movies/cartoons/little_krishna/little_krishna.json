@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-10-16T15:31:43.722059Z",
+    "show_name": "Little Krishna",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Little Krishna.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "MX3iVV7Y6GI",
+            "title": "Little Krishna - Vrindavan Ka Dulara -  वृन्दावन का दुलारा",
+            "url": "https://www.youtube.com/watch?v=MX3iVV7Y6GI",
+            "duration": 5105,
+            "view_count": 70478622,
+            "uploader": "Big Animation",
+            "category": "cartoons/little_krishna",
+            "thumbnail": "https://i.ytimg.com/vi/MX3iVV7Y6GI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu41aWfHnCywGCqsd2ZkFBsR2d1A",
+            "show_name": "Little Krishna"
+        }
+    ]
+}

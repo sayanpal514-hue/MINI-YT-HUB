@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-16T11:32:45.110307Z",
-    "total_movies": 161,
+    "last_updated": "2026-10-16T15:31:43.770188Z",
+    "total_movies": 173,
     "movies": [
         {
             "id": "brMlsMTIMS4",
@@ -27,7 +27,7 @@
             "title": "Poran Jay Jolia Re (2009) | পরান যায় জলিয়া রে ফুল মুভি | Dev Subhashree Ganguly Bangla Full Movie",
             "url": "https://www.youtube.com/watch?v=sRuWSt-FwQo",
             "duration": 8409,
-            "view_count": 8777006,
+            "view_count": 8782467,
             "uploader": "LR BANGLA MEDIA",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/sRuWSt-FwQo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs6p1k3wkavQfJ3uWKdpgTjub1gQ"
@@ -357,7 +357,7 @@
             "title": "Khokha Babu Bangala Full movie /Dev / Super Hit #viralvideo #trending #viral #youtube #movie#viral",
             "url": "https://www.youtube.com/watch?v=22MRolnrBrw",
             "duration": 9356,
-            "view_count": 21772889,
+            "view_count": 21779458,
             "uploader": "Badshah",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/22MRolnrBrw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQKXynf8hDaHDefZcSUFCuec4OaA"
@@ -757,7 +757,7 @@
             "title": "Tonic Bengali full movie || DEV || FULL Movie HD",
             "url": "https://www.youtube.com/watch?v=OpkxgQTjlFo",
             "duration": 4248,
-            "view_count": 42933,
+            "view_count": 72527,
             "uploader": "MOVIE FIXED",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/OpkxgQTjlFo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWLiy5N-5b_6XHvwxTadY0OzWOxQ"
@@ -907,7 +907,7 @@
             "title": "Challenge (चैलेंज) | Dev | Subhashree | Bhojpuri Full Movie | Superhit Bhojpuri Movie | SVF Movies",
             "url": "https://www.youtube.com/watch?v=shwxMOEZkGE",
             "duration": 8393,
-            "view_count": 3370723,
+            "view_count": 3499441,
             "uploader": "SVF Movies",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/shwxMOEZkGE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtCbCvInsYCimRCqH10R41xrszNA"
@@ -1327,7 +1327,7 @@
             "title": "Dhumketu Bengali full movie | Kolkata Bangla new movie Dev | Bangla new movie",
             "url": "https://www.youtube.com/watch?v=Or_Rl8F9EMY",
             "duration": 6744,
-            "view_count": 105021,
+            "view_count": 108809,
             "uploader": "Md Rimon 1000k",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/Or_Rl8F9EMY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkq8HWffRvMSRZQJ5jxiGGmtmr3g"
@@ -1611,6 +1611,126 @@
             "uploader": "Daily Life With Salam",
             "category": "bengali/dev",
             "thumbnail": "https://i.ytimg.com/vi/6ZOawBEWvNg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq5FcjvJbYrHgfehgJYnpMUkZNYQ"
+        },
+        {
+            "id": "IQ9UAyOdefU",
+            "title": "Rangbaaz (রংবাজ) | Dev | Koel Mallick | Bangla New Movie 2026",
+            "url": "https://www.youtube.com/watch?v=IQ9UAyOdefU",
+            "duration": 7253,
+            "view_count": 884,
+            "uploader": "Finance Spectrum",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/IQ9UAyOdefU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP1dUBgN4We0AhP5c0yO4D3gMxqg"
+        },
+        {
+            "id": "tMU72XzOgn8",
+            "title": "Khokababu (খোকাবাবু) | Dev & Subhashree Ganguly | Bengali Movie",
+            "url": "https://www.youtube.com/watch?v=tMU72XzOgn8",
+            "duration": 8337,
+            "view_count": 4666,
+            "uploader": "SHUVO 1M",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/tMU72XzOgn8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARsoCInaN6wu0klT4s0g8hH-xz2g"
+        },
+        {
+            "id": "kpA0ZbLz_SY",
+            "title": "Herogiri (হিরোগিরি মুভি ২০২৬) Bengali Movie Full HD | Dev, Mithun Chakraborty, Koel Mallick Movie HD",
+            "url": "https://www.youtube.com/watch?v=kpA0ZbLz_SY",
+            "duration": 10162,
+            "view_count": 12323,
+            "uploader": "Comida sin Regla",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/kpA0ZbLz_SY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7l-nlX_KTfUBffNalEVjqR9KFEA"
+        },
+        {
+            "id": "u4jItb2Cnq4",
+            "title": "DeSu7 (দেশু ৭) Full Movie | Dev | Subhashree Ganguly | Anirban | বাংলা মুভি | Music Company Movie",
+            "url": "https://www.youtube.com/watch?v=u4jItb2Cnq4",
+            "duration": 8340,
+            "view_count": 6328,
+            "uploader": "Music Company",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/u4jItb2Cnq4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbzL3H_m5SB8rRL3_L3DTQrruv7w"
+        },
+        {
+            "id": "zVjxYT_1IBc",
+            "title": "Sedin Dekha Hoyechilo (2010) | Dev Srabanti Bangla Movie | সেদিন দেখা হয়েছিল মুভি",
+            "url": "https://www.youtube.com/watch?v=zVjxYT_1IBc",
+            "duration": 14335,
+            "view_count": 393,
+            "uploader": "Mx -Back mx",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/zVjxYT_1IBc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDODkftwMgf-GxUOlQAUvD8DbUXdw"
+        },
+        {
+            "id": "6BkVylOjNgI",
+            "title": "Raghu Dakat (রঘু ডাকাত) | Dev Bangla Movie 2026 | Idhika Paul | Anirban | Movie Review | Cinema Boat",
+            "url": "https://www.youtube.com/watch?v=6BkVylOjNgI",
+            "duration": 9019,
+            "view_count": 614028,
+            "uploader": "Cinema Boat",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/6BkVylOjNgI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmyXItvQPFO08ZnscamyRjOB9xOA"
+        },
+        {
+            "id": "2EJk2SUtft0",
+            "title": "Poran Jai Jolia Re Full Movie | পরান যায় জ্বলিয়া রে বাংলা সিনেমা | Dev, Subhasree New HD 2026",
+            "url": "https://www.youtube.com/watch?v=2EJk2SUtft0",
+            "duration": 7596,
+            "view_count": 3044058,
+            "uploader": "MH World",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/2EJk2SUtft0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8MfFjXFzDOagZagfQiG2dGMkwrg"
+        },
+        {
+            "id": "O76B2JPPpNo",
+            "title": "Herogiri (হিরোগিরি মুভি  2026) Bengali Movie Full HD | Dev, Mithun Chakraborty, Koel Mallick Movie ",
+            "url": "https://www.youtube.com/watch?v=O76B2JPPpNo",
+            "duration": 11152,
+            "view_count": 15842,
+            "uploader": "Shuvo hasan",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/O76B2JPPpNo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfo8UPfG0G6ogh0fWGwyJAyc72Ow"
+        },
+        {
+            "id": "WSPTv3NmHrg",
+            "title": "I Love you (আই লাভ ইউ) Bengali full movie Dev Payel Tapas Pal #bengali#dev #bengalimovi#bangla",
+            "url": "https://www.youtube.com/watch?v=WSPTv3NmHrg",
+            "duration": 10014,
+            "view_count": 45201,
+            "uploader": "Us sahil0_0sk ",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/WSPTv3NmHrg/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIE8oRjAP&rs=AOn4CLADDFVoie0kS96KtU5WHEihMH0rpQ"
+        },
+        {
+            "id": "msnerTLldRk",
+            "title": "KHADAAN 2 (খাদান 2) Dev Bangla Movie 2026 | Dev | Koel Mallick | Soojit Dutta | Bangla Cinema",
+            "url": "https://www.youtube.com/watch?v=msnerTLldRk",
+            "duration": 9173,
+            "view_count": 2509048,
+            "uploader": "Cinema Boat",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/msnerTLldRk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5b61e2xgoNYjdy7snMGoFufthqw"
+        },
+        {
+            "id": "Th483fQYZD8",
+            "title": "Password | Hindi Full Movies | Dev , Parambrata , Paoli Dam , Rukmini , Adrit Roy",
+            "url": "https://www.youtube.com/watch?v=Th483fQYZD8",
+            "duration": 7199,
+            "view_count": 16745811,
+            "uploader": "BOLLYWOOD DHAMAKA MOVIES",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/Th483fQYZD8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBrurD_Ehd20VHqHvNUocspbiwTA"
+        },
+        {
+            "id": "F0McOi9SL6I",
+            "title": "Bazzimaat - Bengali Full Movie | Soham | Subhasree | Ranjit Mallick",
+            "url": "https://www.youtube.com/watch?v=F0McOi9SL6I",
+            "duration": 9546,
+            "view_count": 4081861,
+            "uploader": "Bengali Movies- Angel Digital",
+            "category": "bengali/dev",
+            "thumbnail": "https://i.ytimg.com/vi/F0McOi9SL6I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApxFEK3GaFPCycaaC76tEFDQ9BUQ"
         }
     ]
 }
