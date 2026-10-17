@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-01T11:43:41.438771Z",
+    "last_updated": "2026-10-17T00:03:02.613461Z",
     "show_name": "The Daltons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for The Daltons.",
-    "total_episodes": 2,
+    "total_episodes": 3,
     "episodes": [
         {
             "id": "3oQeng2v6ik",
@@ -26,6 +26,17 @@
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/the_daltons",
             "thumbnail": "https://i.ytimg.com/vi/HgVGKXjZ4BM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeZv8SxfHR0vd6g4--zcX3Joqy-A",
+            "show_name": "The Daltons"
+        },
+        {
+            "id": "4k5iK5oKD0A",
+            "title": "हिन्दी The Daltons - डाल्टन का हीरा (Season 2) Hindi Cartoon",
+            "url": "https://www.youtube.com/watch?v=4k5iK5oKD0A",
+            "duration": 3941,
+            "view_count": 4276900,
+            "uploader": "The Daltons Hindi - हिन्दी",
+            "category": "cartoons/the_daltons",
+            "thumbnail": "https://i.ytimg.com/vi/4k5iK5oKD0A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUnJDuevtUDdarsUdZ2U4WqEpYXg",
             "show_name": "The Daltons"
         }
     ]
