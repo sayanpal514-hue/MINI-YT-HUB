@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-17T23:36:34.659343Z",
+    "last_updated": "2026-10-18T01:30:13.622583Z",
     "show_name": "Bapu",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Bapu.",
-    "total_episodes": 108,
+    "total_episodes": 110,
     "episodes": [
         {
             "id": "RJrIfDkjpeQ",
@@ -201,7 +201,7 @@
             "title": "Motu Patlu aur Bapu Ki Seekh ��️  Gandhi Jayanti Special | Motu-Patlu",
             "url": "https://www.youtube.com/watch?v=4zv_rXmoDmE",
             "duration": 6556,
-            "view_count": 3392470,
+            "view_count": 3392532,
             "uploader": "Sonic Gang Motu Patlu ",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/4zv_rXmoDmE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFddBXOSqrDzLB69Y1idXy-XdLfQ"
@@ -1081,10 +1081,30 @@
             "title": "Motu Patlu ने पकड़ा John का खतरनाक Plan! | Motu Patlu | मोटू पतलू",
             "url": "https://www.youtube.com/watch?v=CYCUAkbRKAM",
             "duration": 656,
-            "view_count": 72023,
+            "view_count": 72121,
             "uploader": "Sonic Gang",
             "category": "cartoons/bapu",
             "thumbnail": "https://i.ytimg.com/vi/CYCUAkbRKAM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw0b3ZIOi5-c0ftp7UTiHU4rMYOA"
+        },
+        {
+            "id": "pATXPU6VsRI",
+            "title": "Motu Patlu Cartoons In Hindi |  Animated Series | Water Problem | Wow Kidz",
+            "url": "https://www.youtube.com/watch?v=pATXPU6VsRI",
+            "duration": 675,
+            "view_count": 11990003,
+            "uploader": "WowKidz",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/pATXPU6VsRI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArqurqXdQVUB5wCpulZiMAY8ETHg"
+        },
+        {
+            "id": "tACkNQUULio",
+            "title": "Motu Patlu | मोटू पतलू | Full Episode | Baby Dinosaur",
+            "url": "https://www.youtube.com/watch?v=tACkNQUULio",
+            "duration": 734,
+            "view_count": 75432662,
+            "uploader": "Sonic Gang",
+            "category": "cartoons/bapu",
+            "thumbnail": "https://i.ytimg.com/vi/tACkNQUULio/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIVycA_NuvqchX8i345CwkZS5E6Q"
         }
     ]
 }
