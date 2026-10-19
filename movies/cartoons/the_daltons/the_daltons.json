@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-17T00:03:02.613461Z",
+    "last_updated": "2026-10-19T23:56:55.017044Z",
     "show_name": "The Daltons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for The Daltons.",
-    "total_episodes": 3,
+    "total_episodes": 4,
     "episodes": [
         {
             "id": "3oQeng2v6ik",
@@ -37,6 +37,17 @@
             "uploader": "The Daltons Hindi - हिन्दी",
             "category": "cartoons/the_daltons",
             "thumbnail": "https://i.ytimg.com/vi/4k5iK5oKD0A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUnJDuevtUDdarsUdZ2U4WqEpYXg",
+            "show_name": "The Daltons"
+        },
+        {
+            "id": "fvOjNpHtujY",
+            "title": "हिन्दी The Daltons 🌵 डाल्टन और पागल वैज्ञानिक | कार्टून | Hindi Cartoons",
+            "url": "https://www.youtube.com/watch?v=fvOjNpHtujY",
+            "duration": 3512,
+            "view_count": 74306,
+            "uploader": "The Daltons Hindi - हिन्दी",
+            "category": "cartoons/the_daltons",
+            "thumbnail": "https://i.ytimg.com/vi/fvOjNpHtujY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLH_ByWr4ATmFHEbVJH2JIY3LUbw",
             "show_name": "The Daltons"
         }
     ]
