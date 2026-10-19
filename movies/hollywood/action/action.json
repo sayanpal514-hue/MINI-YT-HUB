@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-19T15:07:09.198361Z",
-    "total_movies": 310,
+    "last_updated": "2026-10-19T20:39:11.552440Z",
+    "total_movies": 312,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -27,7 +27,7 @@
             "title": "CIA AGENT: MISSION MATRIX - Full Hollywood Movie Hindi Dubbed | Elliot, Amy T | Sci-Fi Action Movie",
             "url": "https://www.youtube.com/watch?v=UCZx3uiAWeg",
             "duration": 4210,
-            "view_count": 787654,
+            "view_count": 788498,
             "uploader": "Rising Nova Premiere",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/UCZx3uiAWeg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6h53cDwOw7rcUdedXR2vZgmnUXQ"
@@ -117,7 +117,7 @@
             "title": "LADY XTERMINATOR - Hollywood Action Movie Hindi Dubbed | Hollywood Movie Hindi Dubbed Full Action HD",
             "url": "https://www.youtube.com/watch?v=AD7POAou3qo",
             "duration": 4666,
-            "view_count": 3158784,
+            "view_count": 3159270,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/AD7POAou3qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWiNG7YIVYJMI360VSj2s2ACB7Yg"
@@ -317,7 +317,7 @@
             "title": "DOUBLE CROSSFIRE - Full Hollywood Action Movie Hindi Dubbed | Phil, Ted| Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=xvezWMXaMKY",
             "duration": 4611,
-            "view_count": 425866,
+            "view_count": 426646,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/xvezWMXaMKY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaqx9Lve_7D7whkEfxPBGuQWOr_A"
@@ -347,7 +347,7 @@
             "title": "Red Dragon (2026) Full Movie Hindi Dubbed | Psychological Crime Thriller | Hollywood Movie HD",
             "url": "https://www.youtube.com/watch?v=ruORwA5j3aQ",
             "duration": 8184,
-            "view_count": 1376721,
+            "view_count": 1381891,
             "uploader": "Hollywood Hindi Dub",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/ruORwA5j3aQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTzguzMX1y5OQ1hWwQ5vB5hG3Pxg"
@@ -717,7 +717,7 @@
             "title": "TIGER OF TIJUANA - Full Hollywood Action Movie Hindi Dubbed | Ray, Gary| Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=D8cryJ4osoo",
             "duration": 5301,
-            "view_count": 109029,
+            "view_count": 109120,
             "uploader": "Rising Nova Premiere",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/D8cryJ4osoo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6-B3mRzWBzdbdnW-AjTuArFEQGA"
@@ -3101,6 +3101,26 @@
             "uploader": "RDC Movie",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/NUmEpRt0px0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpKETRMOXUQO9pJUxpQzEofWb5dw"
+        },
+        {
+            "id": "M-7hDFKeudY",
+            "title": "SECRET GUARD (Hindi Dubbed) Full Movie 2026 | Ram Pothineni | New South Indian Hindi Action Movie",
+            "url": "https://www.youtube.com/watch?v=M-7hDFKeudY",
+            "duration": 7518,
+            "view_count": 1310495,
+            "uploader": "Super High Pictures",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/M-7hDFKeudY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbnBGAU5zLWEAUjoKXL-pLIoN7pQ"
+        },
+        {
+            "id": "E1bATw_HXUs",
+            "title": "बेखौफ कातिल (4k) Hollywood Action Movie Hindi Dubbed | Janphen Inthajak | Action Thriller Move",
+            "url": "https://www.youtube.com/watch?v=E1bATw_HXUs",
+            "duration": 4902,
+            "view_count": 3025,
+            "uploader": "VEE Entertainment",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/E1bATw_HXUs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHMatSQ3meAUHj0gNXmhJHeMaDDQ"
         }
     ]
 }
