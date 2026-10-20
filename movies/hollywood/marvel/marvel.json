@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-20T21:17:18.875696Z",
-    "total_movies": 267,
+    "last_updated": "2026-10-20T23:56:13.390871Z",
+    "total_movies": 268,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
@@ -1917,10 +1917,10 @@
             "title": "Venom - 3 - Full Movie Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=brHmdT414J8",
             "duration": 8189,
-            "view_count": 17645,
+            "view_count": 17891,
             "uploader": "Captain Movies · 24M views · 2 days ago ...",
             "category": "hollywood/marvel",
-            "thumbnail": "https://i.ytimg.com/vi/brHmdT414J8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjhg_rVBhjg6gQg4KgB&rs=AOn4CLDWCg2ibhApYA-omQHmJc4TMY5XVg&usqp=CBU"
+            "thumbnail": "https://i.ytimg.com/vi/brHmdT414J8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGhmAHsHorMtvN9GjAyNXnJa0e-Q"
         },
         {
             "id": "-EzdXQr11HY",
@@ -2671,6 +2671,16 @@
             "uploader": "Motion Studioz",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/xexWeRf4sNw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgi77dLWBhjg6gQg4KgB&rs=AOn4CLBy8lTXVLrCrWJdbRLOeB7oDYl7qw&usqp=CBU"
+        },
+        {
+            "id": "QM9I4_swvW4",
+            "title": "Avengers: Endgame Full Movie | avengers  Movie in Hindi.new Hollywood in Hindi dubbed",
+            "url": "https://www.youtube.com/watch?v=QM9I4_swvW4",
+            "duration": 5627,
+            "view_count": 124,
+            "uploader": "Razz bol tu",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/QM9I4_swvW4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIX_CZR8yWuWfN3XoC8UtM-g-0Hw"
         }
     ]
 }
