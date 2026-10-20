@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-10-20T07:45:50.862330Z",
+    "last_updated": "2026-10-20T13:08:40.285080Z",
     "show_name": "Fairy Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Fairy Tail.",
-    "total_episodes": 176,
+    "total_episodes": 177,
     "episodes": [
         {
             "id": "pGN56s0f3lo",
             "title": "Weakest Orphan Is Trained By A Legendary Dragon And Becomes The Powerful Mage Explained in hindi",
             "url": "https://www.youtube.com/watch?v=pGN56s0f3lo",
             "duration": 5075,
-            "view_count": 1076445,
+            "view_count": 1076802,
             "uploader": "Anisole",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/pGN56s0f3lo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-rL2dDT0O90ksZhoUPwCpZXs-hg"
@@ -101,7 +101,7 @@
             "title": "The Shahi Designer Fairy | 💖Heart touching Story in Hindi @SparkTalesHindi",
             "url": "https://www.youtube.com/watch?v=SGcw4Bm_AWg",
             "duration": 1202,
-            "view_count": 1984670,
+            "view_count": 1985434,
             "uploader": "Sparky Tales Hindi",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/SGcw4Bm_AWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABKDKgTn4Qp-hrq7IVBelgXNHMEQ"
@@ -1765,6 +1765,16 @@
             "uploader": "AnimeFlick",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/fL_DYTtoDkI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlYjGqG6nzC7vmtbPYoo-pzvIgsA"
+        },
+        {
+            "id": "9usdX1mT7h0",
+            "title": "The girl who laughed at everything in Hindi | @HindiFairyTales",
+            "url": "https://www.youtube.com/watch?v=9usdX1mT7h0",
+            "duration": 686,
+            "view_count": 503346,
+            "uploader": "Hindi Fairy Tales",
+            "category": "anime/fairy_tail",
+            "thumbnail": "https://i.ytimg.com/vi/9usdX1mT7h0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCso-_rsWCAqm3LScgcWX16vD_cUw"
         }
     ]
 }
