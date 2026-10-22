@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-22T14:46:20.805708Z",
-    "total_movies": 278,
+    "last_updated": "2026-10-22T18:57:39.284976Z",
+    "total_movies": 279,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
@@ -37,7 +37,7 @@
             "title": "KINGSMAN Part 1 Hindi Dubbed Movie 2022",
             "url": "https://www.youtube.com/watch?v=dXc7iPfCBZA",
             "duration": 7111,
-            "view_count": 2211031,
+            "view_count": 2211551,
             "uploader": "MovieMorsels",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/dXc7iPfCBZA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAAaEho8fuGO-OcBDTB2-9_3bjqw"
@@ -277,7 +277,7 @@
             "title": "New Marvels Hindi Dubbed Full Movie 2026 | Venom | Hindi Dubbed Action Movies | Game Movie",
             "url": "https://www.youtube.com/watch?v=Dz3yKFxUbyY",
             "duration": 6971,
-            "view_count": 29336,
+            "view_count": 29414,
             "uploader": "Hindi Dub Cinematic",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/Dz3yKFxUbyY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh1ZYh5HjZ6uw74bExDTPsznfLiQ"
@@ -2707,10 +2707,10 @@
             "title": "WHITE WOLF : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies",
             "url": "https://www.youtube.com/watch?v=RZ0smtvE40I",
             "duration": 6023,
-            "view_count": 21076,
+            "view_count": 23194,
             "uploader": "Joy Drama",
             "category": "hollywood/marvel",
-            "thumbnail": "https://i.ytimg.com/vi/RZ0smtvE40I/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBpP7xiRTnFyaAtL0NefjHAiNVimw"
+            "thumbnail": "https://i.ytimg.com/vi/RZ0smtvE40I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcPBujAaA5T0evcKkx81K7jWHJ5w"
         },
         {
             "id": "4aX9XfRXJwc",
@@ -2781,6 +2781,16 @@
             "uploader": "Tabler",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/5k3OMl02wDo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaA1_zD7mTI3h0lR8skSPC3uBeOQ"
+        },
+        {
+            "id": "ECT_b0FqLu4",
+            "title": "DEATH ORDER : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies",
+            "url": "https://www.youtube.com/watch?v=ECT_b0FqLu4",
+            "duration": 5686,
+            "view_count": 158400,
+            "uploader": "Joy Drama",
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/ECT_b0FqLu4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbWc6yTab8ZjJCr_nVqrnojauQMA"
         }
     ]
 }
