@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-24T23:41:47.656835Z",
-    "total_movies": 333,
+    "last_updated": "2026-10-25T01:37:56.782550Z",
+    "total_movies": 335,
     "movies": [
         {
             "id": "-KOsMJ4DgdI",
@@ -117,7 +117,7 @@
             "title": "LADY XTERMINATOR - Hollywood Action Movie Hindi Dubbed | Hollywood Movie Hindi Dubbed Full Action HD",
             "url": "https://www.youtube.com/watch?v=AD7POAou3qo",
             "duration": 4666,
-            "view_count": 3165759,
+            "view_count": 3165681,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/AD7POAou3qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWiNG7YIVYJMI360VSj2s2ACB7Yg"
@@ -137,7 +137,7 @@
             "title": "TOP MISSION - Hollywood Movie Hindi Dubbed | Thomas Gibson, Graham Greene, Louise L | Action Movies",
             "url": "https://www.youtube.com/watch?v=OiyM7fS1-3U",
             "duration": 5369,
-            "view_count": 3829589,
+            "view_count": 3829621,
             "uploader": "Hindi Cinema Talkies",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/OiyM7fS1-3U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4U3M8C7YXAytgHckz3wLeP_XxQQ"
@@ -157,7 +157,7 @@
             "title": "DRUG MAFIA Full Hollywood Movie Hindi Dubbed | Hu Guofang, Zhao Jing, Li Meng | Chinese Action Movie",
             "url": "https://www.youtube.com/watch?v=uzN63h-Li98",
             "duration": 5430,
-            "view_count": 1736456,
+            "view_count": 1736507,
             "uploader": "Dimension Pictures",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/uzN63h-Li98/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpHVjBW93OHhmZEufYE576EDiH2Q"
@@ -317,7 +317,7 @@
             "title": "DOUBLE CROSSFIRE - Full Hollywood Action Movie Hindi Dubbed | Phil, Ted| Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=xvezWMXaMKY",
             "duration": 4611,
-            "view_count": 435508,
+            "view_count": 435433,
             "uploader": "Majestic Movies Hindi",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/xvezWMXaMKY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaqx9Lve_7D7whkEfxPBGuQWOr_A"
@@ -3331,6 +3331,26 @@
             "uploader": "Taal Tanda Studio",
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/J3Bokycq8aQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY9knB_-y8d31ZOKVBnIWgIZ9YDA"
+        },
+        {
+            "id": "WPED_bzZQ3o",
+            "title": "Commando Action NEW MOVIE | Hollywood Full Movie Hindi Dubbed | Hollywood Action Thriller Movie",
+            "url": "https://www.youtube.com/watch?v=WPED_bzZQ3o",
+            "duration": 4967,
+            "view_count": 67361,
+            "uploader": "Cobra 11: Dabang Police Force",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/WPED_bzZQ3o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqj7iw7eCHVdu2CSyR4O9rs2YwQQ"
+        },
+        {
+            "id": "YcUYxDSyxPM",
+            "title": "RONNY THE RULER (2026) South ACTION BLOCKBUSTER Release | New Hindi Dubbed Movies Kiran Raj Samiksha",
+            "url": "https://www.youtube.com/watch?v=YcUYxDSyxPM",
+            "duration": 8065,
+            "view_count": 330646,
+            "uploader": "South Hindi Dubbed",
+            "category": "hollywood/action",
+            "thumbnail": "https://i.ytimg.com/vi/YcUYxDSyxPM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPxFUK7klxuakIBpJIuQrcUdiKnw"
         }
     ]
 }
