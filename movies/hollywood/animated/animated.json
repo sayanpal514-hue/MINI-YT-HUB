@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-26T19:35:19.717304Z",
+    "last_updated": "2026-10-26T23:19:47.131407Z",
     "total_movies": 224,
     "movies": [
         {
@@ -77,20 +77,20 @@
             "title": "THE MONKEY KING: REBORN | Hindi Dubbed Movie - English Subs | Blockbuster Animation Hollywood Movie",
             "url": "https://www.youtube.com/watch?v=JZBNOq-IxPk",
             "duration": 5041,
-            "view_count": 5897473,
+            "view_count": 5897866,
             "uploader": "Dishoom Films",
             "category": "hollywood/animated",
-            "thumbnail": "https://i.ytimg.com/vi/JZBNOq-IxPk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjb5K3SBhjg6gQg4KgB&rs=AOn4CLDZx8rgoNheD-sA1EHZyiHmJdS7Jg&usqp=CBU"
+            "thumbnail": "https://i.ytimg.com/vi/JZBNOq-IxPk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYKKparESb2wH9fQzmY4lpZMy6mQ"
         },
         {
             "id": "ifkJGlvTudk",
             "title": "The Wind Guardians | Hindi Dubbed Movie with English Subs | Blockbuster Animation Movie Hindi Dubbed",
             "url": "https://www.youtube.com/watch?v=ifkJGlvTudk",
             "duration": 5727,
-            "view_count": 6220191,
+            "view_count": 6225107,
             "uploader": "Dishoom Films",
             "category": "hollywood/animated",
-            "thumbnail": "https://i.ytimg.com/vi/ifkJGlvTudk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBWpuRPjNhfXpZ4Jscx-Bt54-F7Sw"
+            "thumbnail": "https://i.ytimg.com/vi/ifkJGlvTudk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb6baDOWphYO7Xoxho1pjOmqoK_g"
         },
         {
             "id": "vV5OAOhgzQI",
@@ -147,7 +147,7 @@
             "title": "Full Robot Movie in Hindi Dubbed || Animated Movie Dubbed in Hindi And Urdu || Kids Movies in Hindi",
             "url": "https://www.youtube.com/watch?v=Abz6QJXrGzg",
             "duration": 6334,
-            "view_count": 638563,
+            "view_count": 638994,
             "uploader": "MG Entertainment",
             "category": "hollywood/animated",
             "thumbnail": "https://i.ytimg.com/vi/Abz6QJXrGzg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOoNxNLM_YImOxoqIdl3DAB1tONg"
@@ -427,10 +427,10 @@
             "title": "ROBO GIRL - Hollywood Movie Hindi Dubbed | Sebastian Cavazza, Stoya | Full Romantic Sci-fi Movie",
             "url": "https://www.youtube.com/watch?v=KmKFmgZ8TzQ",
             "duration": 3822,
-            "view_count": 4996801,
+            "view_count": 4999455,
             "uploader": "Rising Nova Hindi",
             "category": "hollywood/animated",
-            "thumbnail": "https://i.ytimg.com/vi/KmKFmgZ8TzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjDwf6_Bhjg6gQg4KgB&rs=AOn4CLDnKNZO6pb707_nKObGmo5r7a8Wvw&usqp=CBU"
+            "thumbnail": "https://i.ytimg.com/vi/KmKFmgZ8TzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ2GbHXaYOm5AGYGUztbeqXoMbiA"
         },
         {
             "id": "R2OtytBiXew",
@@ -657,7 +657,7 @@
             "title": "Avatar 3 Full Movie Hindi Dubbed 2025 | War From Ashes | Full Action Adventure Movie | Game Movie",
             "url": "https://www.youtube.com/watch?v=EbmMi4Tzr2E",
             "duration": 4972,
-            "view_count": 1527930,
+            "view_count": 2210387,
             "uploader": "Hindi Dub Cinematic",
             "category": "hollywood/animated",
             "thumbnail": "https://i.ytimg.com/vi/EbmMi4Tzr2E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRUWKQT2aXyy4PoGR6RH4DmpoEDA"
@@ -787,8 +787,8 @@
             "title": "Aladdin Hindi Dubbed | 3D 4K Full Movie",
             "url": "https://www.youtube.com/watch?v=etXaoPdpz_Y",
             "duration": 3754,
-            "view_count": 285583,
-            "uploader": "MOTV Cinema",
+            "view_count": 295352,
+            "uploader": "MOTV Cinema and MOTV Cinema Hindi",
             "category": "hollywood/animated",
             "thumbnail": "https://i.ytimg.com/vi/etXaoPdpz_Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzOv1xlx32w63HFaJS-uRugXcC9g"
         },
@@ -927,7 +927,7 @@
             "title": "Kochadaiiyaan (Hindi Dubbed) | Rajinikanth & Deepika Padukone | 3D Animated Action Movie",
             "url": "https://www.youtube.com/watch?v=MB3sf5par1I",
             "duration": 6809,
-            "view_count": 5047893,
+            "view_count": 5054085,
             "uploader": "Eros Universe Super Cinema",
             "category": "hollywood/animated",
             "thumbnail": "https://i.ytimg.com/vi/MB3sf5par1I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAax5brig_Z7zg8PbtdR9rHkwPtqw"
@@ -1127,7 +1127,7 @@
             "title": "Haddi mera buddy the Movie Hindi Dubbed | Billy and Mandy's Big Boogey Adventure in Hindi full movie",
             "url": "https://www.youtube.com/watch?v=utS4Mc_K0mE",
             "duration": 4811,
-            "view_count": 502539,
+            "view_count": 506056,
             "uploader": "barchie endgame",
             "category": "hollywood/animated",
             "thumbnail": "https://i.ytimg.com/vi/utS4Mc_K0mE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPyz7a12bLwXOfLf1TwoUcoXMMtQ"
@@ -1347,10 +1347,10 @@
             "title": "Suzume | The Movie | Full Movie Hindi Dubbed | 4k Resolution | New Anime Movie | #suzume #anime #cat",
             "url": "https://www.youtube.com/watch?v=glubM5ITcIw",
             "duration": 7286,
-            "view_count": 1661285,
+            "view_count": 1663797,
             "uploader": "Transform Gaming",
             "category": "hollywood/animated",
-            "thumbnail": "https://i.ytimg.com/vi/glubM5ITcIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjfx87VBhjg6gQg4KgB&rs=AOn4CLDrvOqSp8UvU5-sh9OoHET8xSYQvQ&usqp=CBU"
+            "thumbnail": "https://i.ytimg.com/vi/glubM5ITcIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRRpdlVkhIB1HP48JMvPXLyuAgWA"
         },
         {
             "id": "5hkLR3Vff04",
@@ -1437,10 +1437,10 @@
             "title": "Troll full movie in Hindi dubbed Hollywood",
             "url": "https://www.youtube.com/watch?v=_7eN7sOaYs0",
             "duration": 6021,
-            "view_count": 7647144,
+            "view_count": 7698676,
             "uploader": "NEW MOVIE HUB_ADI",
             "category": "hollywood/animated",
-            "thumbnail": "https://i.ytimg.com/vi/_7eN7sOaYs0/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAk2rruJrml29245h1O5fykl8fHBA"
+            "thumbnail": "https://i.ytimg.com/vi/_7eN7sOaYs0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzTF9T18TSGH4fSY4UlgeqsaY5TA"
         },
         {
             "id": "XI-M-lg-_5U",
@@ -1487,7 +1487,7 @@
             "title": "Mowgli: The Jungle Book Hindi Dubbed | 2026 New Movie | 3D 4K Full Movie",
             "url": "https://www.youtube.com/watch?v=rOy7B8ZGjfo",
             "duration": 3602,
-            "view_count": 253112,
+            "view_count": 256901,
             "uploader": "MOTV Cinema and MOTV Cinema Hindi",
             "category": "hollywood/animated",
             "thumbnail": "https://i.ytimg.com/vi/rOy7B8ZGjfo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrs7h89M37QkvGU9sWRBbg82ytYA"
@@ -2007,10 +2007,10 @@
             "title": "The Royal Cat Hindi Dubbed Full movie 2026  Adventure Film for kids #cartoonmovie #animation ",
             "url": "https://www.youtube.com/watch?v=qxjWLJcxf94",
             "duration": 5878,
-            "view_count": 148636,
+            "view_count": 149756,
             "uploader": "@yt Anime09",
             "category": "hollywood/animated",
-            "thumbnail": "https://i.ytimg.com/vi/qxjWLJcxf94/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgj32NHWBhjg6gQg4KgB&rs=AOn4CLCZ6PdonIIeCCDUp_PSc7TBGCsQWg&usqp=CBU"
+            "thumbnail": "https://i.ytimg.com/vi/qxjWLJcxf94/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJmNNb0mpvTmBJrPYjV8JvmyOSQ"
         },
         {
             "id": "_VqQezjbLes",
@@ -2097,7 +2097,7 @@
             "title": "HOOK | Hollywood Movie Hindi Dubbed | Robin Williams | Full Fantasy Adventure Movie In Hindi",
             "url": "https://www.youtube.com/watch?v=-owHrxQNjck",
             "duration": 6034,
-            "view_count": 106969,
+            "view_count": 331106,
             "uploader": "Hollywood Clip Flicks",
             "category": "hollywood/animated",
             "thumbnail": "https://i.ytimg.com/vi/-owHrxQNjck/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjU0UHDwPwZ0HZX7wwEPmbHhICg"
@@ -2157,7 +2157,7 @@
             "title": "Noah's Ark | Hindi Dubbed Full Movie | Hollywood Fantasy Adventure Movie | Superhit Animation Film",
             "url": "https://www.youtube.com/watch?v=WOFtr-QGkqU",
             "duration": 5640,
-            "view_count": 213,
+            "view_count": 308,
             "uploader": "KATHAKALP",
             "category": "hollywood/animated",
             "thumbnail": "https://i.ytimg.com/vi/WOFtr-QGkqU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf5VltIagteZ0FRKSZv2yFMfWSBg"
