@@ -1,20 +1,20 @@
 {
-    "last_updated": "2026-11-01T00:43:37.189074Z",
+    "last_updated": "2026-11-01T06:59:51.080822Z",
     "show_name": "One Piece",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for One Piece.",
-    "total_episodes": 70,
+    "total_episodes": 71,
     "episodes": [
         {
             "id": "jPX2ndKV2Xw",
             "title": "One Piece Episode 1: Hindi Dubbed - The Start of an Epic Adventure!",
             "url": "https://www.youtube.com/watch?v=jPX2ndKV2Xw",
             "duration": 818,
-            "view_count": 127989,
+            "view_count": 128286,
             "uploader": "Nandani Art",
             "category": "anime/one_piece",
-            "thumbnail": "https://i.ytimg.com/vi/jPX2ndKV2Xw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg8IFwocjAP&rs=AOn4CLCvo1qUPCn0-dovpYZtYA9wtKhYsg"
+            "thumbnail": "https://i.ytimg.com/vi/jPX2ndKV2Xw/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg8IFwocjAPuAL3GA==&rs=AOn4CLBDuXwQEaLPxFPNwBoYl4n1jKdPYA"
         },
         {
             "id": "jh5Znp9DXWM",
@@ -101,10 +101,10 @@
             "title": "One Piece Season 1| Episode 1| Hindi dubbed  Eest blue ",
             "url": "https://www.youtube.com/watch?v=Gr6hJF-Hc1w",
             "duration": 1601,
-            "view_count": 18730,
+            "view_count": 18782,
             "uploader": "Habibi anime -galaxy ",
             "category": "anime/one_piece",
-            "thumbnail": "https://i.ytimg.com/vi/Gr6hJF-Hc1w/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhyIDgoPjAP&rs=AOn4CLDH_5HvJaSqc2pgf29-zAiiMVh0ig"
+            "thumbnail": "https://i.ytimg.com/vi/Gr6hJF-Hc1w/hqdefault.jpg?sqp=-oaymwE6COADEI4CSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhyIDgoPjAPuAL3GA==&rs=AOn4CLDw4nFv0WemIfUefRLwxkmldQfABA"
         },
         {
             "id": "bV1q7sIlzYg",
@@ -431,10 +431,10 @@
             "title": "One Piece Film: Gold(hindi dubbed) (japanese).                ",
             "url": "https://www.youtube.com/watch?v=tntGnD200B8",
             "duration": 7209,
-            "view_count": 15092,
+            "view_count": 15156,
             "uploader": "Movie_hub4",
             "category": "anime/one_piece",
-            "thumbnail": "https://i.ytimg.com/vi/tntGnD200B8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSrkpvghH6-aD2DEQ79gHcd1s_ew"
+            "thumbnail": "https://i.ytimg.com/vi/tntGnD200B8/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAiGJXPDSxTpMxwxEXBnFeGLcSQdw"
         },
         {
             "id": "p8w91C8OtQ8",
@@ -705,6 +705,16 @@
             "uploader": "Doraemon & shinchan ",
             "category": "anime/one_piece",
             "thumbnail": "https://i.ytimg.com/vi/Q3FWdy8u_yQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHuQWYibEBB2681t0b_YZKO4HzJQ"
+        },
+        {
+            "id": "o0GuHqHfcj0",
+            "title": "One piece episode 2 in Hindi dubbed best anime Hindi edit",
+            "url": "https://www.youtube.com/watch?v=o0GuHqHfcj0",
+            "duration": 1201,
+            "view_count": 6473,
+            "uploader": "Karan_Era",
+            "category": "anime/one_piece",
+            "thumbnail": "https://i.ytimg.com/vi/o0GuHqHfcj0/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA7b0vjjJrWlRUw3FwrVgH9CQ1xTg"
         }
     ]
 }
