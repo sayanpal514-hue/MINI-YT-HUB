@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-11-02T01:48:39.594279Z",
+    "last_updated": "2026-11-02T08:33:17.536397Z",
     "show_name": "Tik Tak Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Tik Tak Tail.",
-    "total_episodes": 95,
+    "total_episodes": 96,
     "episodes": [
         {
             "id": "1nIa1cEjxKY",
             "title": "Tik tak tail Non Stop entertainment",
             "url": "https://www.youtube.com/watch?v=1nIa1cEjxKY",
             "duration": 1684,
-            "view_count": 306087,
+            "view_count": 306094,
             "uploader": "Nature",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1nIa1cEjxKY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIF8oRTAP&rs=AOn4CLAtVLrg_4vkCvkIWcLDj8lnKYyQ9w"
@@ -21,7 +21,7 @@
             "title": "Tik Tak Tail Rabbit Tak Funny Cartoon Compilation",
             "url": "https://www.youtube.com/watch?v=1sARdYKPDL0",
             "duration": 832,
-            "view_count": 782375,
+            "view_count": 782377,
             "uploader": "FHKidsTV - Funny Happy Kids TV",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/1sARdYKPDL0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4M_7NIxRiiOJIU-P5LEGig_iQA"
@@ -41,7 +41,7 @@
             "title": "Tik Tak Tail | Rabbit Tak | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=NYFQQplBlkM",
             "duration": 832,
-            "view_count": 1567,
+            "view_count": 1566,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/NYFQQplBlkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM-7j5zey1pEU048AuHZyNw_GCwQ"
@@ -141,7 +141,7 @@
             "title": "Tik Tak Tail | Kerala Adventure | Funny Cartoon Compilation | Wildbrain Cartoons For Kids",
             "url": "https://www.youtube.com/watch?v=AytL2hvnADI",
             "duration": 849,
-            "view_count": 754,
+            "view_count": 755,
             "uploader": "WildBrain Preschool",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/AytL2hvnADI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiPMWVlLN5kwyGRqp1uV7jfH9e_A"
@@ -481,10 +481,10 @@
             "title": "Tik Tak Tail | Picture Perfect | Cartoon Compilation | Cartoons for Children | WildBrain Cartoons",
             "url": "https://www.youtube.com/watch?v=fM6cptmN_l0",
             "duration": 844,
-            "view_count": 4206,
+            "view_count": 4214,
             "uploader": "WildBrain Kids",
             "category": "cartoons/tik_tak_tail",
-            "thumbnail": "https://i.ytimg.com/vi/fM6cptmN_l0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDNLzHjxSEy03N9dUp418WyWs3irg"
+            "thumbnail": "https://i.ytimg.com/vi/fM6cptmN_l0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYcWkQotY15LfjTJK_upZyLiI7kQ"
         },
         {
             "id": "5u8hF7rBaVw",
@@ -955,6 +955,16 @@
             "uploader": "WildBrain Action Arena",
             "category": "cartoons/tik_tak_tail",
             "thumbnail": "https://i.ytimg.com/vi/0EYgjBSmxt0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvjxef_egKqk_1EhwMupUGWmTvyg"
+        },
+        {
+            "id": "6A86q7kWFb4",
+            "title": "Tik Tak Tail | New Compilation 2018 | Cartoon For Kids #1",
+            "url": "https://www.youtube.com/watch?v=6A86q7kWFb4",
+            "duration": 896,
+            "view_count": 23639,
+            "uploader": "Wow Toons English",
+            "category": "cartoons/tik_tak_tail",
+            "thumbnail": "https://i.ytimg.com/vi/6A86q7kWFb4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzJBdr1GQwZi8etds1wYh_RAcGGg"
         }
     ]
 }
