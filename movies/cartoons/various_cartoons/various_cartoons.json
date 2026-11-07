@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-07T14:43:38.545406Z",
+    "last_updated": "2026-11-07T19:09:18.888166Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 28,
+    "total_episodes": 29,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -312,6 +312,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/_-y3AYHEBQc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD7jEb9TkjBCvgpzg4brmpmNZhwFQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "2UYFbGwDoDo",
+            "title": "अब घर नहीं!  Oggy and the Cockroaches हिंदी  Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=2UYFbGwDoDo",
+            "duration": 3985,
+            "view_count": 903934,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/2UYFbGwDoDo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC35fz4E3FSWkkCcmt1dAZc5XQ68w",
             "show_name": "Various Cartoons"
         }
     ]
