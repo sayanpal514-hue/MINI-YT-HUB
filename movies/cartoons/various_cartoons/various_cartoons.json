@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-08T15:15:50.336340Z",
+    "last_updated": "2026-11-08T19:44:25.826240Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 29,
+    "total_episodes": 30,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -176,7 +176,7 @@
             "title": "बेकार भोजन | Bas Karo Henry | बच्चों के लिए कार्टून | Hindi Cartoons",
             "url": "https://www.youtube.com/watch?v=mIPXHZ5mMX8",
             "duration": 3601,
-            "view_count": 4001729,
+            "view_count": 4002358,
             "uploader": "Bas Karo Henry",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/mIPXHZ5mMX8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWJNCBniwaKC1Y5gWVrYA4eC9k3w",
@@ -323,6 +323,17 @@
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/2UYFbGwDoDo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC35fz4E3FSWkkCcmt1dAZc5XQ68w",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "Yma6eXBGAvY",
+            "title": "Kaal Is Here to Destroy the Singhamverse!😈| Little Singham🦁| Singhamverse Vs Kaalverse | Full Movie🤩",
+            "url": "https://www.youtube.com/watch?v=Yma6eXBGAvY",
+            "duration": 2645,
+            "view_count": 37605,
+            "uploader": "Pogo",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/Yma6eXBGAvY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpEAy34fbRm8kIw0e8_ZY2YvRsiQ",
             "show_name": "Various Cartoons"
         }
     ]
