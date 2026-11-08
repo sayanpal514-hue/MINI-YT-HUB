@@ -24,6 +24,55 @@ const formatDuration = (seconds) => {
     return `${m}:${s.toString().padStart(2, '0')}`;
 };
 
+// Fisher-Yates shuffle (in-place)
+const shuffleArray = (arr) => {
+    for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+};
+
+// Pick N random items from an array (non-destructive)
+const pickRandom = (arr, n) => {
+    const copy = [...arr];
+    shuffleArray(copy);
+    return copy.slice(0, n);
+};
+
+// Rotating offset so the visible slice changes on every reload
+const getRotationOffset = (len) => {
+    const stored = parseInt(localStorage.getItem('rotationOffset') || '0', 10);
+    const next = (stored + 1) % Math.max(len, 1);
+    localStorage.setItem('rotationOffset', String(next));
+    return stored;
+};
+
+// Interleave items from each category so the "All" feed is a real mix
+const buildMixedFeed = (movies) => {
+    const byCat = {};
+    movies.forEach(m => {
+        (byCat[m.category] = byCat[m.category] || []).push(m);
+    });
+    Object.values(byCat).forEach(shuffleArray);
+
+    const cats = shuffleArray(Object.keys(byCat));
+    const mixed = [];
+    let added = true;
+
+    while (added) {
+        added = false;
+        for (const cat of cats) {
+            const next = byCat[cat].shift();
+            if (next) {
+                mixed.push(next);
+                added = true;
+            }
+        }
+    }
+    return mixed;
+};
+
 const jsonFiles = [
     './movies/movies.json',
     './movies/anime/anione_in/anione_in.json',
@@ -85,17 +134,17 @@ const jsonFiles = [
 
 const fetchMovies = async () => {
     try {
-        if(movieGrid) movieGrid.style.display = 'none';
-        if(loader) loader.style.display = 'flex';
-        
+        if (movieGrid) movieGrid.style.display = 'none';
+        if (loader) loader.style.display = 'flex';
+
         let fetchedMovies = [];
         const seenIds = new Set();
-        
+
         // Fetch all files in parallel
         const responses = await Promise.allSettled(
             jsonFiles.map(url => fetch(url).then(res => res.json()))
         );
-        
+
         responses.forEach(result => {
             if (result.status === 'fulfilled') {
                 const data = result.value;
@@ -103,10 +152,10 @@ const fetchMovies = async () => {
                 let items = [];
                 if (data.movies) items = data.movies;
                 else if (data.episodes) items = data.episodes;
-                
+
                 // Add default category if missing
                 const defaultCat = data.category || 'other';
-                
+
                 items.forEach(item => {
                     if (!seenIds.has(item.id)) {
                         seenIds.add(item.id);
@@ -119,15 +168,16 @@ const fetchMovies = async () => {
                 });
             }
         });
-        
+
         allMovies = fetchedMovies;
+        shuffleArray(allMovies); // randomize base order per reload
         filteredMovies = [...allMovies];
-        
+
         if (movieGrid) {
             setupCategories();
             renderMovies();
         }
-        
+
         // For player page
         if (document.getElementById('videoPlayer')) {
             setupPlayer();
@@ -138,30 +188,37 @@ const fetchMovies = async () => {
             movieGrid.innerHTML = '<div style="color: #ff2a5f; text-align:center; width:100%; grid-column: 1/-1;">Failed to load movies.</div>';
         }
     } finally {
-        if(loader) loader.style.display = 'none';
-        if(movieGrid) movieGrid.style.display = 'grid';
+        if (loader) loader.style.display = 'none';
+        if (movieGrid) movieGrid.style.display = 'grid';
     }
 };
 
 // Render Movies
 const renderMovies = () => {
     if (!movieGrid) return;
-    
+
     movieGrid.innerHTML = '';
-    
+
     if (filteredMovies.length === 0) {
         movieGrid.innerHTML = '<div style="color: var(--text-secondary); text-align:center; width:100%; grid-column: 1/-1; padding: 2rem;">No movies found.</div>';
         return;
     }
-    
-    // Render only first 100 to avoid performance issues if JSON is huge, but here let's render up to 200
-    const moviesToRender = filteredMovies.slice(0, 200);
-    
+
+    const MAX = 200;
+    const total = filteredMovies.length;
+    const offset = getRotationOffset(total);
+
+    // Rotate + wrap so we always see up to MAX items, but a different start point each reload
+    const moviesToRender = [];
+    for (let i = 0; i < Math.min(MAX, total); i++) {
+        moviesToRender.push(filteredMovies[(offset + i) % total]);
+    }
+
     moviesToRender.forEach(movie => {
         const card = document.createElement('a');
         card.className = 'movie-card';
         card.href = `player.html?id=${movie.id}`;
-        
+
         card.innerHTML = `
             <div class="thumbnail-wrapper">
                 <img src="${movie.thumbnail || `https://img.youtube.com/vi/${movie.id}/maxresdefault.jpg`}" alt="${movie.title}" class="movie-thumb" loading="lazy">
@@ -175,7 +232,7 @@ const renderMovies = () => {
                 </div>
             </div>
         `;
-        
+
         movieGrid.appendChild(card);
     });
 };
@@ -183,26 +240,26 @@ const renderMovies = () => {
 // Categories Setup
 const setupCategories = () => {
     if (!categoryContainer) return;
-    
+
     // Extract unique categories
     const categories = new Set(allMovies.map(m => m.category).filter(Boolean));
-    
+
     let html = `<button class="category-btn active" data-category="all">All</button>`;
-    
+
     categories.forEach(cat => {
         const displayCat = cat.charAt(0).toUpperCase() + cat.slice(1).replace(/_/g, ' ');
         html += `<button class="category-btn" data-category="${cat}">${displayCat}</button>`;
     });
-    
+
     categoryContainer.innerHTML = html;
-    
+
     // Add Event Listeners
     categoryContainer.querySelectorAll('.category-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
             // Update active class
             categoryContainer.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
             e.target.classList.add('active');
-            
+
             currentCategory = e.target.dataset.category;
             filterMovies();
         });
@@ -212,16 +269,23 @@ const setupCategories = () => {
 // Filter logic
 const filterMovies = () => {
     const searchTerm = searchInput ? searchInput.value.toLowerCase() : '';
-    
+
     filteredMovies = allMovies.filter(movie => {
-        const matchesSearch = movie.title.toLowerCase().includes(searchTerm) || 
+        const matchesSearch = movie.title.toLowerCase().includes(searchTerm) ||
                               movie.uploader.toLowerCase().includes(searchTerm) ||
                               movie.category.toLowerCase().includes(searchTerm);
         const matchesCategory = currentCategory === 'all' || movie.category === currentCategory;
-        
+
         return matchesSearch && matchesCategory;
     });
-    
+
+    // "All" gets a strict interleaved mix; specific categories get a random shuffle
+    if (currentCategory === 'all' && !searchTerm) {
+        filteredMovies = buildMixedFeed(filteredMovies);
+    } else {
+        shuffleArray(filteredMovies);
+    }
+
     renderMovies();
 };
 
@@ -234,18 +298,18 @@ if (searchInput) {
 const setupPlayer = () => {
     const urlParams = new URLSearchParams(window.location.search);
     const videoId = urlParams.get('id');
-    
+
     if (!videoId) {
         document.querySelector('.player-container').innerHTML = '<h2>Video not found</h2>';
         return;
     }
-    
+
     const movie = allMovies.find(m => m.id === videoId);
-    
+
     if (movie) {
         // Set document title
         document.title = `${movie.title} - MINI HUB`;
-        
+
         // Setup Player
         document.getElementById('videoPlayer').src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
         document.getElementById('videoTitle').textContent = movie.title;
@@ -253,27 +317,28 @@ const setupPlayer = () => {
         document.getElementById('videoDate').textContent = movie.category.charAt(0).toUpperCase() + movie.category.slice(1);
         document.getElementById('uploaderInitial').textContent = movie.uploader.charAt(0).toUpperCase();
         document.getElementById('uploaderName').textContent = movie.uploader;
-        
+
         // Setup Recommendations
         const recContainer = document.getElementById('recommendationsList');
         recContainer.innerHTML = '';
-        
+
         // Get related movies (same category, exclude current)
         let related = allMovies.filter(m => m.category === movie.category && m.id !== videoId);
-        
-        // If not enough related, just add random ones
+
+        // If not enough related, top up with other categories
         if (related.length < 10) {
-            related = [...related, ...allMovies.filter(m => m.category !== movie.category && m.id !== videoId)].slice(0, 15);
-        } else {
-            related = related.slice(0, 15);
+            related = [...related, ...allMovies.filter(m => m.category !== movie.category && m.id !== videoId)];
         }
-        
+
+        // Shuffle and cap at 15
+        related = pickRandom(related, 15);
+
         related.forEach(rec => {
             const el = document.createElement('a');
             el.className = 'rec-card';
             el.href = `player.html?id=${rec.id}`;
             el.innerHTML = `
-                <img src="${rec.thumbnail}" class="rec-thumb" alt="thumbnail">
+                <img src="${rec.thumbnail || `https://img.youtube.com/vi/${rec.id}/maxresdefault.jpg`}" class="rec-thumb" alt="thumbnail">
                 <div class="rec-info">
                     <div class="rec-title">${rec.title}</div>
                     <div class="rec-meta">${rec.uploader} • ${formatViews(rec.view_count)}</div>
