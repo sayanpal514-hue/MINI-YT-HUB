@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-08T19:44:25.826240Z",
+    "last_updated": "2026-11-08T23:17:38.553085Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 30,
+    "total_episodes": 31,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -55,10 +55,10 @@
             "title": "नया खिलौना  Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=E7tCnT5LFLA",
             "duration": 3592,
-            "view_count": 837097,
+            "view_count": 872812,
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/E7tCnT5LFLA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCcN_rb9oIXSai7wFqRB5m15tiBRw",
+            "thumbnail": "https://i.ytimg.com/vi/E7tCnT5LFLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5biVqf_mJYBdcqqZ9hbOGEcb7tw&usqp=CBQ",
             "show_name": "Various Cartoons"
         },
         {
@@ -319,10 +319,10 @@
             "title": "अब घर नहीं!  Oggy and the Cockroaches हिंदी  Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=2UYFbGwDoDo",
             "duration": 3985,
-            "view_count": 903934,
+            "view_count": 984430,
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/2UYFbGwDoDo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC35fz4E3FSWkkCcmt1dAZc5XQ68w",
+            "thumbnail": "https://i.ytimg.com/vi/2UYFbGwDoDo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC35fz4E3FSWkkCcmt1dAZc5XQ68w&usqp=CBQ",
             "show_name": "Various Cartoons"
         },
         {
@@ -330,10 +330,21 @@
             "title": "Kaal Is Here to Destroy the Singhamverse!😈| Little Singham🦁| Singhamverse Vs Kaalverse | Full Movie🤩",
             "url": "https://www.youtube.com/watch?v=Yma6eXBGAvY",
             "duration": 2645,
-            "view_count": 37605,
+            "view_count": 37923,
             "uploader": "Pogo",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/Yma6eXBGAvY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpEAy34fbRm8kIw0e8_ZY2YvRsiQ",
+            "thumbnail": "https://i.ytimg.com/vi/Yma6eXBGAvY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpEAy34fbRm8kIw0e8_ZY2YvRsiQ&usqp=CBQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "8UBqeWovDvY",
+            "title": "ज़हरीला भोजन Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=8UBqeWovDvY",
+            "duration": 3978,
+            "view_count": 162237,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/8UBqeWovDvY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKXsQOjbEAzbgbbYnyxxNtHQR4oQ&usqp=CBQ",
             "show_name": "Various Cartoons"
         }
     ]
