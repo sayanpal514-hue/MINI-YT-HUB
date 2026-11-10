@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-10T18:43:28.300079Z",
+    "last_updated": "2026-11-10T23:51:29.738938Z",
     "show_name": "Muse Asia",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Muse Asia.",
-    "total_episodes": 13,
+    "total_episodes": 14,
     "episodes": [
         {
             "id": "0tGgNE8lv-o",
@@ -147,6 +147,17 @@
             "uploader": null,
             "category": "anime/muse_asia",
             "thumbnail": "https://i.ytimg.com/vi/7qV6Pk80_jY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0Bg2urjr0FgsW-SqDfGTQW-27Yw",
+            "channel": null
+        },
+        {
+            "id": "uoQuNFXCWDU",
+            "title": "《The Exiled Heavy Knight Knows How to Game the System》 - Looking back with Ruche",
+            "url": "https://www.youtube.com/watch?v=uoQuNFXCWDU",
+            "duration": 536,
+            "view_count": 355,
+            "uploader": null,
+            "category": "anime/muse_asia",
+            "thumbnail": "https://i.ytimg.com/vi/uoQuNFXCWDU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjD_svXBhjg6gQg4KgB&rs=AOn4CLAaw7T6CtfwEYinhpx5x88MtvtJEQ&usqp=CBU",
             "channel": null
         }
     ]
