@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-10-18T14:49:14.317218Z",
+    "last_updated": "2026-11-10T03:04:18.777295Z",
     "show_name": "DORAEMON THE BIRTH OF JAPAN",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for DORAEMON THE BIRTH OF JAPAN.",
-    "total_episodes": 1,
+    "total_episodes": 2,
     "episodes": [
         {
             "id": "384aieIHVBI",
@@ -15,6 +15,17 @@
             "uploader": "M4meer King",
             "category": "cartoons/doraemon_the_birth_of_japan",
             "thumbnail": "https://i.ytimg.com/vi/384aieIHVBI/hq720_custom_3.jpg?sqp=COy209YG-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDOl9Ok3c-qll7SCGV_Fbd73zzp_g",
+            "show_name": "DORAEMON THE BIRTH OF JAPAN"
+        },
+        {
+            "id": "rkx-TXeEOmw",
+            "title": "DORAEMON THE BIRTH OF JAPAN | FULL MOVE HINDI DUBBED | 2021 LATEST MOVEI | #DORAEMON #NOBITA #RABIUL",
+            "url": "https://www.youtube.com/watch?v=rkx-TXeEOmw",
+            "duration": 4866,
+            "view_count": 7863,
+            "uploader": "Cid team official 32",
+            "category": "cartoons/doraemon_the_birth_of_japan",
+            "thumbnail": "https://i.ytimg.com/vi/rkx-TXeEOmw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpD9Tw0h4OpvXD6aKvvvXsGoZtuw",
             "show_name": "DORAEMON THE BIRTH OF JAPAN"
         }
     ]
