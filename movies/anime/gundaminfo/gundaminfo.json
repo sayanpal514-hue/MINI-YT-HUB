@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-11T03:27:27.174493Z",
+    "last_updated": "2026-11-11T11:26:31.487017Z",
     "show_name": "Gundaminfo",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Gundaminfo.",
-    "total_episodes": 105,
+    "total_episodes": 115,
     "episodes": [
         {
             "id": "WFC8TBSPqFw",
@@ -1159,6 +1159,116 @@
             "uploader": null,
             "category": "anime/gundaminfo",
             "thumbnail": "https://i.ytimg.com/vi/4bnvMGOdRo4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWL-kb5bwhQCHoiUSg7A5KBOGe4g",
+            "channel": null
+        },
+        {
+            "id": "uMby8m_cGyM",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode10",
+            "url": "https://www.youtube.com/watch?v=uMby8m_cGyM",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/uMby8m_cGyM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn3H2p5O1QrGgwzQC9wbqKbkQNKA",
+            "channel": null
+        },
+        {
+            "id": "bIAFK7OLOs8",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode9",
+            "url": "https://www.youtube.com/watch?v=bIAFK7OLOs8",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/bIAFK7OLOs8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZNA1EZF2f7Gzq_V9y8dpFYjx67w",
+            "channel": null
+        },
+        {
+            "id": "aEbuf904Cpw",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode8",
+            "url": "https://www.youtube.com/watch?v=aEbuf904Cpw",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/aEbuf904Cpw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxQDQw1mLDolqLmPmRlcRJ6w77bQ",
+            "channel": null
+        },
+        {
+            "id": "6o9JddAT5Rw",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode7",
+            "url": "https://www.youtube.com/watch?v=6o9JddAT5Rw",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/6o9JddAT5Rw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2nJBW6ww0WiBalFtelVyjMP9vUQ",
+            "channel": null
+        },
+        {
+            "id": "lIbD1StF5Nw",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode6",
+            "url": "https://www.youtube.com/watch?v=lIbD1StF5Nw",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/lIbD1StF5Nw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTJVqB6pPt8bUBduR0vNTB2emBeg",
+            "channel": null
+        },
+        {
+            "id": "Fr1h6ntPIrE",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode5",
+            "url": "https://www.youtube.com/watch?v=Fr1h6ntPIrE",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/Fr1h6ntPIrE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlnovjh1h7p-ab1-wciUjl-Ii8JQ",
+            "channel": null
+        },
+        {
+            "id": "WFbpz03CuaI",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode4",
+            "url": "https://www.youtube.com/watch?v=WFbpz03CuaI",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/WFbpz03CuaI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpftYXxSVn9WmjZRTFIfdWw4N6XQ",
+            "channel": null
+        },
+        {
+            "id": "DMVdbd_YsVM",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode3",
+            "url": "https://www.youtube.com/watch?v=DMVdbd_YsVM",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/DMVdbd_YsVM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK1wLWsV6MF2lIzHXO_OXaKClIwQ",
+            "channel": null
+        },
+        {
+            "id": "beu95yrJfHI",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode2",
+            "url": "https://www.youtube.com/watch?v=beu95yrJfHI",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/beu95yrJfHI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPrdroKiGhJy7QrtAB1MpIaIgjOw",
+            "channel": null
+        },
+        {
+            "id": "4AbgG1rVFrk",
+            "title": "【EN Dub】Mobile Suit Gundam SEED DESTINY - Episode1",
+            "url": "https://www.youtube.com/watch?v=4AbgG1rVFrk",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/gundaminfo",
+            "thumbnail": "https://i.ytimg.com/vi/4AbgG1rVFrk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDAPLwlcvqMI7hRGe7eJYoVCjelQ",
             "channel": null
         }
     ]

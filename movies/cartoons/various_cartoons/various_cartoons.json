@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-11T03:27:27.254882Z",
+    "last_updated": "2026-11-11T11:26:31.453048Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 31,
+    "total_episodes": 32,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -341,10 +341,21 @@
             "title": "ज़हरीला भोजन Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
             "url": "https://www.youtube.com/watch?v=8UBqeWovDvY",
             "duration": 3978,
-            "view_count": 162237,
+            "view_count": 486218,
             "uploader": "Oggy Hindi - हिन्दी",
             "category": "cartoons/various_cartoons",
-            "thumbnail": "https://i.ytimg.com/vi/8UBqeWovDvY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKXsQOjbEAzbgbbYnyxxNtHQR4oQ&usqp=CBQ",
+            "thumbnail": "https://i.ytimg.com/vi/8UBqeWovDvY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKXsQOjbEAzbgbbYnyxxNtHQR4oQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "qEQ8FOabDYg",
+            "title": "यह पागलपन है! Oggy and the Cockroaches हिंदी Hindi Cartoons for Kids",
+            "url": "https://www.youtube.com/watch?v=qEQ8FOabDYg",
+            "duration": 3561,
+            "view_count": 1806330,
+            "uploader": "Oggy Hindi - हिन्दी",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/qEQ8FOabDYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ7Gzl0o6S-i4dPqbQMhpEGbPmYg",
             "show_name": "Various Cartoons"
         }
     ]
