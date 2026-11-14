@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-14T16:04:46.849863Z",
-    "total_movies": 417,
+    "last_updated": "2026-11-14T20:46:49.359134Z",
+    "total_movies": 418,
     "movies": [
         {
             "id": "HnFME0c_DFY",
@@ -197,8 +197,8 @@
             "title": "GOD OF TITANS - Full Hollywood Action Movie Hindi Dubbed | Marcus S | Hindi Action Adventure Movie",
             "url": "https://www.youtube.com/watch?v=EyKWd6pZIOo",
             "duration": 5647,
-            "view_count": 294110,
-            "uploader": "Rising Nova Premiere",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/EyKWd6pZIOo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvBTMLmYTEfdK0IvT61SSO1l5Yrg"
         },
@@ -317,8 +317,8 @@
             "title": "LOST IN AFRICA - Hollywood Movie Hindi Dubbed | Alexandra Neldel, Max von Thun | Adventure Movie",
             "url": "https://www.youtube.com/watch?v=H1xWUDI2L0o",
             "duration": 5534,
-            "view_count": 6018670,
-            "uploader": "Rising Nova Hindi",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/H1xWUDI2L0o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI3T-aIKpRx5S6DqNg8ZQkFPfXfw"
         },
@@ -4171,6 +4171,16 @@
             "uploader": null,
             "category": "hollywood/adventure",
             "thumbnail": "https://i.ytimg.com/vi/ysLUnlVI8hM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsF6DEKN0SXtlnPLobHJajkrX2Lw"
+        },
+        {
+            "id": "zNjlJV5d0ME",
+            "title": "खतरनाक जंगल, खूंखार सैनिक | New Hollywood Action Movie 2026 | Hollywood Movie Hindi Dubbed",
+            "url": "https://www.youtube.com/watch?v=zNjlJV5d0ME",
+            "duration": 5375,
+            "view_count": null,
+            "uploader": null,
+            "category": "hollywood/adventure",
+            "thumbnail": "https://i.ytimg.com/vi/zNjlJV5d0ME/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYvK6g_va1rWBEPdRusYDL06Bx1A"
         }
     ]
 }
