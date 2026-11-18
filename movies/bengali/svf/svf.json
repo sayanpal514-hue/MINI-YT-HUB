@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-18T03:19:06.266296Z",
+    "last_updated": "2026-11-18T11:46:52.006959Z",
     "total_movies": 94,
     "movies": [
         {
@@ -7,8 +7,8 @@
             "title": "Mama Bhagne (মামা ভাগ্নে) | Full Bengali Movie | Prosenjit Chatterjee | Ranjit Mullick | SVF Movies",
             "url": "https://www.youtube.com/watch?v=bR_3h9c96_A",
             "duration": 8799,
-            "view_count": 7353599,
-            "uploader": "SVF Movies",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/bR_3h9c96_A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr7dVcMBXXJFNatHTkxkG4Lqeqg"
         },
@@ -27,8 +27,8 @@
             "title": "Josh | জোশ (2010) Bengali Full HD Movie | Jeet | Srabanti | SVF #jeetnewmovie #josh",
             "url": "https://www.youtube.com/watch?v=3OCnNxEJbZA",
             "duration": 8955,
-            "view_count": 35142408,
-            "uploader": "SVF Entertainment",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/3OCnNxEJbZA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT_BOhjMn-IyuQ8nWLlSt9Jd8arg"
         },
@@ -47,8 +47,8 @@
             "title": "Haripada Bandwala (হরিপদ ব্যান্ডওয়ালা) | Ankush, Nusrat | New Bangla Movie | V Series Entertainment",
             "url": "https://www.youtube.com/watch?v=bG4Vqw0_178",
             "duration": 7236,
-            "view_count": 18528045,
-            "uploader": "V Series Entertainment",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/bG4Vqw0_178/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4qClfnuGDpEtLI0KKszXINWA7Xg"
         },
@@ -87,8 +87,8 @@
             "title": "Super Hit Jamai 420 Full Movie | জামাই ৪২০ |  Ankush Soham | Hiran | Payel Mimi | SVF Classic",
             "url": "https://www.youtube.com/watch?v=_EJm37nOrME",
             "duration": 11520,
-            "view_count": 6988626,
-            "uploader": "Entertainment 2026",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/_EJm37nOrME/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7EAXJTWtMBE57mt_mKwugGysFHA"
         },
@@ -117,18 +117,18 @@
             "title": "Bibhas (বিভাস) | | Full Bengali Movie | YT Chhobighor | SVF Movies",
             "url": "https://www.youtube.com/watch?v=tVRjR-oerMQ",
             "duration": 7667,
-            "view_count": 805595,
-            "uploader": "SVF Movies",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
-            "thumbnail": "https://i.ytimg.com/vi/tVRjR-oerMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjMzbCGBhjg6gQg4KgB&rs=AOn4CLAFbVDrBbSJPv1vZmA9LRONDg2lxA&usqp=CBU"
+            "thumbnail": "https://i.ytimg.com/vi/tVRjR-oerMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBak8A41scV1j25ZO6VsSfQNUS79A"
         },
         {
             "id": "NaYGX5C9nG0",
             "title": "Aandha Prem (অন্ধ প্রেম) | Full Bengali Film | Prosenjit Chatterjee | Rachna Banerjee | SVF Movies",
             "url": "https://www.youtube.com/watch?v=NaYGX5C9nG0",
             "duration": 8170,
-            "view_count": 24273705,
-            "uploader": "SVF Movies",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/NaYGX5C9nG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7tbuGRl_9iyGsnmasatdzg8yoPA"
         },
@@ -194,11 +194,11 @@
         },
         {
             "id": "fvMuOPblq3c",
-            "title": "Bastir Meye Radha (বস্তির মেয়ে রাধা) | Full Bengali Movie | Chiranjeet | Rituparna | SVF Movies",
+            "title": "Bastir Meye Radha (বস্তির মেয়ে রাধা) | Full Bengali Movie | Chiranjeet | Rituparna | SVF Movies",
             "url": "https://www.youtube.com/watch?v=fvMuOPblq3c",
             "duration": 10432,
-            "view_count": 3985619,
-            "uploader": "SVF Movies",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/fvMuOPblq3c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0flR0KeKdsovQIfBMckXx1L4chQ"
         },
@@ -217,8 +217,8 @@
             "title": "Tarikh | Full Bengali Movie | Saswata Chatterjee | Ritwick Chakraborty | Raima Sen | Churni Ganguly",
             "url": "https://www.youtube.com/watch?v=UWTotk2fZ50",
             "duration": 6914,
-            "view_count": 2008514,
-            "uploader": "SVF Movies",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/UWTotk2fZ50/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4d4uFbow73kaGQYVG02QQes8HGA"
         },
@@ -227,8 +227,8 @@
             "title": "Minister Fatakeshto | Full Assamese Action Movie | Mithun Chakraborty | Debashree | Koel |SVF Bharat",
             "url": "https://www.youtube.com/watch?v=Gm-oZgKq-7g",
             "duration": 8011,
-            "view_count": 1767787,
-            "uploader": "SVF Bharat",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/Gm-oZgKq-7g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbHYZekYt0u431Rw9-vLhp-zMcdA"
         },
@@ -357,8 +357,8 @@
             "title": "Amazon Obhijaan (अमेज़न अभियान) | Full Hindi Movie | Dev | Kamaleshwar Mukherjee | SVF Bharat",
             "url": "https://www.youtube.com/watch?v=X6vvzUVtKF8",
             "duration": 8304,
-            "view_count": 7205978,
-            "uploader": "SVF Bharat",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/X6vvzUVtKF8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuTozzQ3WeX98aWGteNRdzOqcMbw"
         },
@@ -387,8 +387,8 @@
             "title": "Gangster (গেংষ্টাৰ) | Full Assamese Action Movie | Yash Dasgupta | Mimi Chakraborty | SVF Movies",
             "url": "https://www.youtube.com/watch?v=mwADDokL2iw",
             "duration": 8308,
-            "view_count": 5673191,
-            "uploader": "SVF Movies",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/mwADDokL2iw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6_AEF8sqMycSEyEPfzPNmQaPsWA"
         },
@@ -567,8 +567,8 @@
             "title": "Kelor Kirti (2016) l 2K Ultra HD l Dev Jisshu Ankush Soham Mimi Nusrat l Bangla Comedy Video",
             "url": "https://www.youtube.com/watch?v=0-PeEWxDNVU",
             "duration": 8349,
-            "view_count": 910054,
-            "uploader": "Lumi Verse",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/svf",
             "thumbnail": "https://i.ytimg.com/vi/0-PeEWxDNVU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3K3Ki4nUVONtbW0hV29n61HyAyQ"
         },
