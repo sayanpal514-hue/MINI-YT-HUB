@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-20T07:54:26.024557Z",
+    "last_updated": "2026-11-20T16:30:37.308236Z",
     "show_name": "Doraemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Doraemon.",
-    "total_episodes": 559,
+    "total_episodes": 560,
     "episodes": [
         {
             "id": "P_0yQVifMp0",
@@ -2564,8 +2564,8 @@
             "title": "Doraemon Hindi Cartoon | Doraemon New Episode ",
             "url": "https://www.youtube.com/watch?v=rIlnsoJ0L7k",
             "duration": 642,
-            "view_count": 110851,
-            "uploader": "Nostalgic Toons",
+            "view_count": null,
+            "uploader": null,
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/rIlnsoJ0L7k/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBgAWAAuADigIMCAAQARhlIFwoUjAP&rs=AOn4CLC5B7iDPgcFapt7KUg-rxVRCP_59w"
         },
@@ -3796,8 +3796,8 @@
             "title": "doreamon old episode in hindi",
             "url": "https://www.youtube.com/watch?v=5BCe0OfbXlw",
             "duration": 1259,
-            "view_count": 368835,
-            "uploader": "Classic Playz",
+            "view_count": null,
+            "uploader": null,
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/5BCe0OfbXlw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIFIoQDAP&rs=AOn4CLArvFyLQ4Fu_SWOxeaWo0oUvCVdaQ"
         },
@@ -5276,8 +5276,8 @@
             "title": "Doraemon New Episode 12 September  2026 – Doraemon Cartoon –Doraemon In Hindi – Doraemon Movie ",
             "url": "https://www.youtube.com/watch?v=IqKsTLnPOAc",
             "duration": 2023,
-            "view_count": 1046398,
-            "uploader": "Catriona Boyd",
+            "view_count": null,
+            "uploader": null,
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/IqKsTLnPOAc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlov1VxFoRE_UKFedKuJ-PX9jmXg"
         },
@@ -5603,6 +5603,16 @@
             "uploader": "DORAEMON MOVIE 1",
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/2bhrORis-GY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCICScszHi3G1jd416i0sF7jXXWNA"
+        },
+        {
+            "id": "lrpaJ7-Hy-Y",
+            "title": "Doremon New Episode In Hindi",
+            "url": "https://www.youtube.com/watch?v=lrpaJ7-Hy-Y",
+            "duration": 1541,
+            "view_count": null,
+            "uploader": null,
+            "category": "cartoons/doraemon",
+            "thumbnail": "https://i.ytimg.com/vi/lrpaJ7-Hy-Y/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIF0oRDAP&rs=AOn4CLA2TPW34TfGnANJxjRKUz_BqJbpLg"
         }
     ]
 }

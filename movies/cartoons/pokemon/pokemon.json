@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-20T07:54:26.319150Z",
+    "last_updated": "2026-11-20T16:30:37.335467Z",
     "show_name": "Pokemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Pokemon.",
-    "total_episodes": 157,
+    "total_episodes": 160,
     "episodes": [
         {
             "id": "mT_WId1WygI",
@@ -311,7 +311,7 @@
             "title": "The Flame Pokémon-athon! | FULL EPISODE 32 | Season 1",
             "url": "https://www.youtube.com/watch?v=RYdXQlBjjPI",
             "duration": 1343,
-            "view_count": 3500837,
+            "view_count": 3502578,
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/RYdXQlBjjPI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCznL3EiW8DiZCz7_8cHrMiuidWZA"
@@ -1575,6 +1575,36 @@
             "uploader": "Pokémon TV",
             "category": "cartoons/pokemon",
             "thumbnail": "https://i.ytimg.com/vi/4GHQtiQQFYo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA_xZiGABH5AvzJZKlCwExpHTrqoA"
+        },
+        {
+            "id": "qWsheKRxUDs",
+            "title": "Breakdown Of Darkest Adult Moments In Pokemon | In-Depth Hindi Commentary |",
+            "url": "https://www.youtube.com/watch?v=qWsheKRxUDs",
+            "duration": 3291,
+            "view_count": 8385,
+            "uploader": "Pokedon 2",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/qWsheKRxUDs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPeqnFBUc5B2h7PjThFOM-bn2iaw"
+        },
+        {
+            "id": "4Q56a3ctjZg",
+            "title": "Naruto Vs Mecha Naruto Full Fight | Naruto Shippuden badass & Funny Moments In Hindi",
+            "url": "https://www.youtube.com/watch?v=4Q56a3ctjZg",
+            "duration": 1271,
+            "view_count": 188507,
+            "uploader": "POKENATION ",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/4Q56a3ctjZg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtFX-OzsAplrgWmw33YH4T7uKfvw"
+        },
+        {
+            "id": "UnEDzDC_Gc4",
+            "title": "Pokémon Sun And Moon ( Alola's New Journey Begins ) PART -1 Hindi Dubbed",
+            "url": "https://www.youtube.com/watch?v=UnEDzDC_Gc4",
+            "duration": 923,
+            "view_count": 74795,
+            "uploader": "Dream World Animez",
+            "category": "cartoons/pokemon",
+            "thumbnail": "https://i.ytimg.com/vi/UnEDzDC_Gc4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQp1bheeI9P8YrkCvH3M4bK8thdQ"
         }
     ]
 }
