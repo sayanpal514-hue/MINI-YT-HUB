@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-20T16:30:37.308236Z",
+    "last_updated": "2026-11-20T22:49:02.621044Z",
     "show_name": "Doraemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Doraemon.",
-    "total_episodes": 560,
+    "total_episodes": 561,
     "episodes": [
         {
             "id": "P_0yQVifMp0",
@@ -4626,8 +4626,8 @@
             "title": "Doraemon I am Nobiko episode in hindi ",
             "url": "https://www.youtube.com/watch?v=5FC34qpTkNw",
             "duration": 1475,
-            "view_count": 67969,
-            "uploader": "Amna Gill",
+            "view_count": null,
+            "uploader": null,
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/5FC34qpTkNw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB0AaAAuADigIMCAAQARhSIFsoZTAP&rs=AOn4CLDBub3OGD8aUUPJq2bnLg-nP5p0nA"
         },
@@ -5613,6 +5613,16 @@
             "uploader": null,
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/lrpaJ7-Hy-Y/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIF0oRDAP&rs=AOn4CLA2TPW34TfGnANJxjRKUz_BqJbpLg"
+        },
+        {
+            "id": "yCx1gcAgVxA",
+            "title": "Doraemon Latest Episode 2026 | Hindi Dubbed | No Zoom Effect Full Episode",
+            "url": "https://www.youtube.com/watch?v=yCx1gcAgVxA",
+            "duration": 2279,
+            "view_count": null,
+            "uploader": "Holy Quran 400",
+            "category": "cartoons/doraemon",
+            "thumbnail": "https://i.ytimg.com/vi/yCx1gcAgVxA/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARg0IGUoWzAP&rs=AOn4CLAAevQFSFm39cJcZEwQvhbMvWOWOA&usqp=CBQ"
         }
     ]
 }
