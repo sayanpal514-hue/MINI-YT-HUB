@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-21T18:23:00.137997Z",
+    "last_updated": "2026-11-21T23:35:48.128309Z",
     "show_name": "Doraemon",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Doraemon.",
-    "total_episodes": 568,
+    "total_episodes": 569,
     "episodes": [
         {
             "id": "P_0yQVifMp0",
@@ -471,7 +471,7 @@
             "title": "doremon new episode 1 23 September 2024 full episode",
             "url": "https://www.youtube.com/watch?v=jmPqaiOnkk0",
             "duration": 1299,
-            "view_count": 448491,
+            "view_count": 449055,
             "uploader": "IMAMBUX7331 Sahtio (Imambux7331)",
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/jmPqaiOnkk0/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhKIFooZTAP&rs=AOn4CLCFhZ9vxtovfdSP9fBgR1quZMhfkA"
@@ -2564,8 +2564,8 @@
             "title": "Doraemon Hindi Cartoon | Doraemon New Episode ",
             "url": "https://www.youtube.com/watch?v=rIlnsoJ0L7k",
             "duration": 642,
-            "view_count": null,
-            "uploader": null,
+            "view_count": 111362,
+            "uploader": "Nostalgic Toons",
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/rIlnsoJ0L7k/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBgAWAAuADigIMCAAQARhlIFwoUjAP&rs=AOn4CLC5B7iDPgcFapt7KUg-rxVRCP_59w"
         },
@@ -5693,6 +5693,16 @@
             "uploader": "@ TPX-Edits",
             "category": "cartoons/doraemon",
             "thumbnail": "https://i.ytimg.com/vi/RXWv0wMrlf4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg2IFkoZTAP&rs=AOn4CLDwv7nh52DVx19k33kpyxOgRVQrXA"
+        },
+        {
+            "id": "h1nfScDWo3I",
+            "title": "Doraemon new episode in hindi - without zoom effect - doraemon cartoon - #Doraemonnew episode",
+            "url": "https://www.youtube.com/watch?v=h1nfScDWo3I",
+            "duration": 2236,
+            "view_count": 27590,
+            "uploader": "Kamil Rahman vlogs",
+            "category": "cartoons/doraemon",
+            "thumbnail": "https://i.ytimg.com/vi/h1nfScDWo3I/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB0gaAAuADigIMCAAQARgiIFsocjAP&rs=AOn4CLAUiTYuMkY8NEcBE_adrcPu4kHydg"
         }
     ]
 }

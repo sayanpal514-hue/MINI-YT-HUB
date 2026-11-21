@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-21T18:23:00.429501Z",
-    "total_movies": 702,
+    "last_updated": "2026-11-21T23:35:48.085976Z",
+    "total_movies": 703,
     "movies": [
         {
             "id": "036GFtLrTZ0",
@@ -57,8 +57,8 @@
             "title": "Gariber Samman | গরিবের সম্মান - Full Movie | Anju Ghosh | Rituparna Sengupta | Tota Roy Chowdhury",
             "url": "https://www.youtube.com/watch?v=pEK347IIxWA",
             "duration": 8416,
-            "view_count": 3845787,
-            "uploader": "Bengali Movies- Angel Digital",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/family_drama",
             "thumbnail": "https://i.ytimg.com/vi/pEK347IIxWA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHT8qn66aOI96X94Nwim2whuErlw"
         },
@@ -87,8 +87,8 @@
             "title": "61 No. Garpar Lane | Bengali Movie | Soumitra Chatterjee, Kharaj , Sudipta, Priyanshu, Chandrayee",
             "url": "https://www.youtube.com/watch?v=chNNQVk0NmQ",
             "duration": 8406,
-            "view_count": 11475821,
-            "uploader": "Bongo India",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/family_drama",
             "thumbnail": "https://i.ytimg.com/vi/chNNQVk0NmQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqYxcN-SilbhyacPxi1TWs7f9Ddw"
         },
@@ -1147,8 +1147,8 @@
             "title": "Mukhujjey Paribar - Bengali Full Movie | Anup Kumar | Bhanu Bandopadhyay | Jahar Ganguly",
             "url": "https://www.youtube.com/watch?v=eM4kE4kBQY8",
             "duration": 8103,
-            "view_count": 183430,
-            "uploader": "Bengali Movies- Angel Digital",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/family_drama",
             "thumbnail": "https://i.ytimg.com/vi/eM4kE4kBQY8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYq4-13_GSffuPCDt1D8sB3nGKUA"
         },
@@ -2007,8 +2007,8 @@
             "title": "Pratibha | প্রতিভা | Romantic Family Movie | Full HD | Ranjit Mallick, Satabdi Roy",
             "url": "https://www.youtube.com/watch?v=Ci-DhsWg1AI",
             "duration": 7422,
-            "view_count": 3435023,
-            "uploader": "Bengali Movies- Angel Digital",
+            "view_count": null,
+            "uploader": null,
             "category": "bengali/family_drama",
             "thumbnail": "https://i.ytimg.com/vi/Ci-DhsWg1AI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOe58NpTwyQ2xFJXq79SxHROf6mQ"
         },
@@ -7021,6 +7021,16 @@
             "uploader": "Tolly Stream ",
             "category": "bengali/family_drama",
             "thumbnail": "https://i.ytimg.com/vi/00Ez-SGvZVM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT_4xhRSR4a6rPhEgDSPSpi1TbMg"
+        },
+        {
+            "id": "5IAdN8yDbP0",
+            "title": "টাউট পরিবার - Taut Poribar | Mosharraf Karim | Robena Reza Jui | Full Natok | Bangla New Natok 2026",
+            "url": "https://www.youtube.com/watch?v=5IAdN8yDbP0",
+            "duration": 4815,
+            "view_count": null,
+            "uploader": null,
+            "category": "bengali/family_drama",
+            "thumbnail": "https://i.ytimg.com/vi/5IAdN8yDbP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLNC8T-5s8feYvussD_2S5pYvlAA"
         }
     ]
 }

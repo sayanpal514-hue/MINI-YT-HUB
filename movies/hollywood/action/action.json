@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-21T18:23:00.111762Z",
+    "last_updated": "2026-11-21T23:35:48.057748Z",
     "total_movies": 428,
     "movies": [
         {
@@ -177,8 +177,8 @@
             "title": "THE TIGRESS - Full Hollywood Action Movie Hindi Dubbed | Terry M, Greg | Hindi Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=HnFME0c_DFY",
             "duration": 5319,
-            "view_count": 782193,
-            "uploader": "Rising Nova Premiere",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/HnFME0c_DFY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXQjvmXI6u_Zm8yQhDEm9Ugw2O3w"
         },
@@ -190,7 +190,7 @@
             "view_count": null,
             "uploader": null,
             "category": "hollywood/action",
-            "thumbnail": "https://i.ytimg.com/vi/jnVrEPe73xw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDKCNG1opfWwoz2xsBbldj6-CjHjg"
+            "thumbnail": "https://i.ytimg.com/vi/jnVrEPe73xw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiuwVeUiyGEIp8DSPZ8uS5reXaMQ"
         },
         {
             "id": "9Tw7oOVaUEE",
@@ -287,8 +287,8 @@
             "title": "GOD OF TITANS - Full Hollywood Action Movie Hindi Dubbed | Marcus S | Hindi Action Adventure Movie",
             "url": "https://www.youtube.com/watch?v=EyKWd6pZIOo",
             "duration": 5647,
-            "view_count": 309885,
-            "uploader": "Rising Nova Premiere",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/EyKWd6pZIOo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvBTMLmYTEfdK0IvT61SSO1l5Yrg"
         },
@@ -2367,8 +2367,8 @@
             "title": "AGENT X - Hollywood Movie Hindi Dubbed | Hindi Action Movie",
             "url": "https://www.youtube.com/watch?v=jUHBaH3-9RU",
             "duration": 5681,
-            "view_count": 6525652,
-            "uploader": "Majestic Movies Hindi",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/action",
             "thumbnail": "https://i.ytimg.com/vi/jUHBaH3-9RU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9FoLBfsnWAGiHSIvnIzrx1DgatQ"
         },
