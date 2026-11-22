@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-21T23:35:47.999866Z",
-    "total_movies": 410,
+    "last_updated": "2026-11-22T03:28:56.932706Z",
+    "total_movies": 413,
     "movies": [
         {
             "id": "ZPa4bbw0k5A",
@@ -17,8 +17,8 @@
             "title": "ATLAS 2026 | Hindi Dubbed | New Releaased Space Sci-Fi/Adventure Hollywood Action Full Movie in 4K |",
             "url": "https://www.youtube.com/watch?v=2zZWn9qRHP0",
             "duration": 5006,
-            "view_count": 422032,
-            "uploader": "World Top Movies",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/scifi",
             "thumbnail": "https://i.ytimg.com/vi/2zZWn9qRHP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNrFqxpGRfoQrs3VjCMrRkbkQLYQ"
         },
@@ -1847,8 +1847,8 @@
             "title": "Spacewalker Full Movie | New Hollywood Sci-Fi Hindi Dubbed Thriller Movie  BookMyShow Stream Hindi ",
             "url": "https://www.youtube.com/watch?v=iYLdsibFwIk",
             "duration": 6983,
-            "view_count": 744,
-            "uploader": "babbyvelixu",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/scifi",
             "thumbnail": "https://i.ytimg.com/vi/iYLdsibFwIk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFPDJO-SLNzCU2SPN2EiNLvdsLlg"
         },
@@ -2907,8 +2907,8 @@
             "title": "🔥LUCY 2 (2026) | New Action Movie 2026 | Full Hollywood Action Movie in English 2026",
             "url": "https://www.youtube.com/watch?v=5jJ-KfB5dCM",
             "duration": 5916,
-            "view_count": 123980,
-            "uploader": "CineFlex Entertainment",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/scifi",
             "thumbnail": "https://i.ytimg.com/vi/5jJ-KfB5dCM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF5kqgJNQ8fjBQ7eIZuqyotmYRKQ"
         },
@@ -3857,8 +3857,8 @@
             "title": "DAANAV (2026) Full Horror Movie | Hrithik Roshan, Deepika Padukone | Superhit Hindi Thriller HD",
             "url": "https://www.youtube.com/watch?v=Dv7WxKoc1bk",
             "duration": 8825,
-            "view_count": 2211248,
-            "uploader": "StarFlix Cinema",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/scifi",
             "thumbnail": "https://i.ytimg.com/vi/Dv7WxKoc1bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq1CVvauObVeBhB1oQAy9fUOSLDA"
         },
@@ -4101,6 +4101,36 @@
             "uploader": null,
             "category": "hollywood/scifi",
             "thumbnail": "https://i.ytimg.com/vi/WyTcgZpKiZk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-LjylhuML7eCe9w2eVYqJbiw4XA"
+        },
+        {
+            "id": "WHS5JWIeQKo",
+            "title": "EARTH FALL 2763 | Full Movie | Epic Sci-Fi Adventure (Complete Story)",
+            "url": "https://www.youtube.com/watch?v=WHS5JWIeQKo",
+            "duration": 6686,
+            "view_count": null,
+            "uploader": null,
+            "category": "hollywood/scifi",
+            "thumbnail": "https://i.ytimg.com/vi/WHS5JWIeQKo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfq_Hxt-CYUW3_v_oUrIU19I218w"
+        },
+        {
+            "id": "hTftvugR9Ec",
+            "title": "She Woke Up in the Ruins, Not Fully Human | TERMINATOR: ECHOES OF SKYNET | Full Movie 4K 2026",
+            "url": "https://www.youtube.com/watch?v=hTftvugR9Ec",
+            "duration": 3601,
+            "view_count": null,
+            "uploader": null,
+            "category": "hollywood/scifi",
+            "thumbnail": "https://i.ytimg.com/vi/hTftvugR9Ec/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeaZP2MMh0lx5qS335a6fQiGDTYQ"
+        },
+        {
+            "id": "WEok3Wr30pQ",
+            "title": "Kongzilla: The Complete Saga | Full Movie | Sci-Fi Movie",
+            "url": "https://www.youtube.com/watch?v=WEok3Wr30pQ",
+            "duration": 4130,
+            "view_count": null,
+            "uploader": null,
+            "category": "hollywood/scifi",
+            "thumbnail": "https://i.ytimg.com/vi/WEok3Wr30pQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGZAcv5EXbPN_XtIGKflK5Ekr_Ig"
         }
     ]
 }
