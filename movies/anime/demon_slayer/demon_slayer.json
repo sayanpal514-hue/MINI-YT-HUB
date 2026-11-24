@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-24T02:15:34.981879Z",
+    "last_updated": "2026-11-24T12:31:54.195034Z",
     "show_name": "Demon Slayer",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Demon Slayer.",
-    "total_episodes": 57,
+    "total_episodes": 58,
     "episodes": [
         {
             "id": "Ph8j3TLN_gQ",
@@ -21,8 +21,8 @@
             "title": "Haganezuka Tanjiro Funny Scenes || Demon Slayer In Hindi Dubbed || #S1E25 Part 2 Last Part",
             "url": "https://www.youtube.com/watch?v=jBkxrTY3OLA",
             "duration": 748,
-            "view_count": 1411413,
-            "uploader": "Anime PAR Brothers ",
+            "view_count": null,
+            "uploader": null,
             "category": "anime/demon_slayer",
             "thumbnail": "https://i.ytimg.com/vi/jBkxrTY3OLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeJfxspAzOw0jynQIaU8UOej9f3g"
         },
@@ -111,8 +111,8 @@
             "title": "Muzan Vs All Hashira The Sigma || Demon Slayer In Hindi Dubbed || #S4E8 The End",
             "url": "https://www.youtube.com/watch?v=WMItEI1fRXw",
             "duration": 687,
-            "view_count": 922748,
-            "uploader": "Anime PAR Brothers ",
+            "view_count": null,
+            "uploader": null,
             "category": "anime/demon_slayer",
             "thumbnail": "https://i.ytimg.com/vi/WMItEI1fRXw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm3Re_itBD3Cer0tYzDXWPz_KTLA"
         },
@@ -341,8 +341,8 @@
             "title": "Demon Slayer | [Season 1] | Episode 1/2 (Hindi Dubbed) video",
             "url": "https://www.youtube.com/watch?v=j4yRvO1Uj5M",
             "duration": 669,
-            "view_count": 188335,
-            "uploader": "Hidden Anime Facts 2.0",
+            "view_count": null,
+            "uploader": null,
             "category": "anime/demon_slayer",
             "thumbnail": "https://i.ytimg.com/vi/j4yRvO1Uj5M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe2v043JTDj9zrpzQSEbWJqrZ9kQ"
         },
@@ -575,6 +575,16 @@
             "uploader": "NexaOtaku",
             "category": "anime/demon_slayer",
             "thumbnail": "https://i.ytimg.com/vi/tRHB_-f0NDQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAGcgr7azdEEBVuhDx3fmp-5nKIg"
+        },
+        {
+            "id": "HwwLIgoPl4c",
+            "title": "Demon Slayer In Hindi Dubbed | HASHIRA TRAINING  Funny Scenes | #S4E03",
+            "url": "https://www.youtube.com/watch?v=HwwLIgoPl4c",
+            "duration": 695,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/demon_slayer",
+            "thumbnail": "https://i.ytimg.com/vi/HwwLIgoPl4c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1ynYGvqddM-yszSKTZSQ6BhAwRw"
         }
     ]
 }
