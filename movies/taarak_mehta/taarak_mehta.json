@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-24T12:31:54.502501Z",
-    "total_movies": 962,
+    "last_updated": "2026-11-24T22:46:12.857846Z",
+    "total_movies": 966,
     "movies": [
         {
             "id": "zyaNQQcSwaQ",
@@ -97,10 +97,10 @@
             "title": "Babita की वजह से भीग गए Jethalal और Iyer ! | TMKOC Movies| Taarak Mehta Ka Ooltah Chashmah |",
             "url": "https://www.youtube.com/watch?v=JwzOjXopBlo",
             "duration": 4358,
-            "view_count": 6490917,
-            "uploader": "Taarak Mehta ka Ooltah Chashmah Movies",
+            "view_count": null,
+            "uploader": null,
             "category": "taarak_mehta",
-            "thumbnail": "https://i.ytimg.com/vi/JwzOjXopBlo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBaThsy8IRY032Z7ClOJovf4l32sQ"
+            "thumbnail": "https://i.ytimg.com/vi/JwzOjXopBlo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy3GICb09cfLX-CRfOBrnSK9EBww"
         },
         {
             "id": "pD8pyGiOoug",
@@ -9621,6 +9621,46 @@
             "uploader": null,
             "category": "taarak_mehta",
             "thumbnail": "https://i.ytimg.com/vi/dLR3IZonoZI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhm1rRFz14nMfS0tT_Q_vn3Vjzyw"
+        },
+        {
+            "id": "oiIHMsP_2w0",
+            "title": "Bhide Won't Accept a Gift from Jethalal Movie",
+            "url": "https://www.youtube.com/watch?v=oiIHMsP_2w0",
+            "duration": 3427,
+            "view_count": null,
+            "uploader": null,
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/oiIHMsP_2w0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfGpCmKtHEh7aERIZTeeRRq5A35w"
+        },
+        {
+            "id": "RSnPa4xD49E",
+            "title": "Why Did Bapuji Call Popatlal A Bachelor Box! | FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
+            "url": "https://www.youtube.com/watch?v=RSnPa4xD49E",
+            "duration": 3140,
+            "view_count": null,
+            "uploader": null,
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/RSnPa4xD49E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAer09V3acPKDi1RtDHx5C8EP6naA"
+        },
+        {
+            "id": "q0RWFEEfmQI",
+            "title": "Jetha has a nightmare! | FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
+            "url": "https://www.youtube.com/watch?v=q0RWFEEfmQI",
+            "duration": 2298,
+            "view_count": null,
+            "uploader": null,
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/q0RWFEEfmQI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCJ50drUt5jAXCPYtiT9ceQrthUA"
+        },
+        {
+            "id": "dSN8iupJ-UQ",
+            "title": "Sodhi ने गिरा दिया Bhide का सोडा | TMKOC MOVIES | Taarak Mehta Ka Ooltah Chashmah",
+            "url": "https://www.youtube.com/watch?v=dSN8iupJ-UQ",
+            "duration": 3405,
+            "view_count": null,
+            "uploader": null,
+            "category": "taarak_mehta",
+            "thumbnail": "https://i.ytimg.com/vi/dSN8iupJ-UQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjJp9Bz03kpIhYpR6nDCrjKjb9hA"
         }
     ]
 }
