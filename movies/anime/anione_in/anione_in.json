@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-11-25T05:09:53.301738Z",
+    "last_updated": "2026-11-25T15:39:03.154062Z",
     "show_name": "Anione In",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Anione In.",
-    "total_episodes": 31,
+    "total_episodes": 32,
     "episodes": [
         {
             "id": "r0FAuu-EVsk",
@@ -345,6 +345,17 @@
             "uploader": null,
             "category": "anime/anione_in",
             "thumbnail": "https://i.ytimg.com/vi/EZ2zukSTBAo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLfLMd5go-qPr0qVB3Tj0ODdhPHg",
+            "channel": null
+        },
+        {
+            "id": "YkU5KG6sIfo",
+            "title": "⟪TELUGU DUB⟫ ⟪BLUE LOCK⟫ Episode-4【Ani-One India】",
+            "url": "https://www.youtube.com/watch?v=YkU5KG6sIfo",
+            "duration": null,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/anione_in",
+            "thumbnail": "https://i.ytimg.com/vi/YkU5KG6sIfo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs5Lan_1sNhYW1nHkQHKEb5a1vrg",
             "channel": null
         }
     ]
