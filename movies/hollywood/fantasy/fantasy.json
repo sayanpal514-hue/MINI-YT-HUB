@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-27T00:10:09.039877Z",
-    "total_movies": 412,
+    "last_updated": "2026-11-27T08:37:33.203312Z",
+    "total_movies": 413,
     "movies": [
         {
             "id": "ooIRFpT1xUM",
@@ -327,8 +327,8 @@
             "title": "TREASURE OF NAGADESAM Full Hindi Dubbed Movie | Vedhika, Yogi Babu | Action Fantasy Adventure Movie",
             "url": "https://www.youtube.com/watch?v=uSZFOzYbxgI",
             "duration": 5706,
-            "view_count": 3967275,
-            "uploader": "Hindi Dubbed Movie Talkies",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/fantasy",
             "thumbnail": "https://i.ytimg.com/vi/uSZFOzYbxgI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQjY0ds9RbeyCu1o82yWd3zUc6zQ"
         },
@@ -347,8 +347,8 @@
             "title": "Pancharaakshram - Hindi Dubbed Full Movie | Santhosh Prathap, Madhu Shalini | Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=2nuNtp0-MuA",
             "duration": 6453,
-            "view_count": 2413208,
-            "uploader": "South Action Universe",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/fantasy",
             "thumbnail": "https://i.ytimg.com/vi/2nuNtp0-MuA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhAIGUoZTAP&rs=AOn4CLB2EgTQj-u43O5Tovw7sDS0Wsu67g"
         },
@@ -3187,8 +3187,8 @@
             "title": "Secrets Of Ancient Temple\" (2026) | Hollywood Movie Hindi Dubbed | Historical War Movie | New Movie",
             "url": "https://www.youtube.com/watch?v=ggHhb7yvMBY",
             "duration": 7470,
-            "view_count": 192707,
-            "uploader": "Hollywood Scene Box",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/fantasy",
             "thumbnail": "https://i.ytimg.com/vi/ggHhb7yvMBY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyWczdNc20rR7C9c0wnlpcoSAZnQ"
         },
@@ -3987,8 +3987,8 @@
             "title": "GOD OF TITANS - Full Hollywood Action Movie Hindi Dubbed | Marcus S | Hindi Action Adventure Movie",
             "url": "https://www.youtube.com/watch?v=EyKWd6pZIOo",
             "duration": 5647,
-            "view_count": 317055,
-            "uploader": "Rising Nova Premiere",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/fantasy",
             "thumbnail": "https://i.ytimg.com/vi/EyKWd6pZIOo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvBTMLmYTEfdK0IvT61SSO1l5Yrg"
         },
@@ -4017,8 +4017,8 @@
             "title": "RUDRA MAHAKAL - Hindi Dubbed Full Movie | Upendra Rao, Saloni Aswani | Action Thriller Movie",
             "url": "https://www.youtube.com/watch?v=ztU0B9fGgV0",
             "duration": 6936,
-            "view_count": 1707601,
-            "uploader": "Hindi Dubbed Movie Talkies",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/fantasy",
             "thumbnail": "https://i.ytimg.com/vi/ztU0B9fGgV0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwuhE1JMhaRfLBG-y61gE7NUr9GA"
         },
@@ -4121,6 +4121,16 @@
             "uploader": null,
             "category": "hollywood/fantasy",
             "thumbnail": "https://i.ytimg.com/vi/6ZF2MYKcXRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL11QwC3yxb5nyq2aiUQ5LmiGKYg"
+        },
+        {
+            "id": "ni7Q9cJggTM",
+            "title": "WaitherWar - Hollywood Hindi Dubbed Movie | Horror Action Movie | Hollywood Movie",
+            "url": "https://www.youtube.com/watch?v=ni7Q9cJggTM",
+            "duration": 4794,
+            "view_count": null,
+            "uploader": null,
+            "category": "hollywood/fantasy",
+            "thumbnail": "https://i.ytimg.com/vi/ni7Q9cJggTM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjK9MYhoj8CN-xBRacsMRMj2xY2A"
         }
     ]
 }
