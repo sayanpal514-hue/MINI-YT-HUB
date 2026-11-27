@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-27T08:37:32.964734Z",
-    "total_movies": 417,
+    "last_updated": "2026-11-27T18:27:13.610833Z",
+    "total_movies": 418,
     "movies": [
         {
             "id": "LGpWtBA_SwE",
@@ -3277,8 +3277,8 @@
             "title": "Iron Man 2 Full Movie 2010 | Robert Downey Jr. | Scarlett Johansson | Don Cheadle | Facts | Review",
             "url": "https://www.youtube.com/watch?v=RkoQ_uWZLXo",
             "duration": 7365,
-            "view_count": 67134,
-            "uploader": "Goldberg Movies and 2 more",
+            "view_count": null,
+            "uploader": "Goldberg Movies",
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/RkoQ_uWZLXo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl24nY85gJ9P8MJy2VjLn4eOGYsQ"
         },
@@ -4107,8 +4107,8 @@
             "title": "NAAGRAJ 2 Full Movie In Hindi Dubbed | Prabhas | New South Indian Hindi Dubbed Action Movies 2026",
             "url": "https://www.youtube.com/watch?v=X4cor8_sQwI",
             "duration": 7033,
-            "view_count": 736858,
-            "uploader": "Miniplex Screen",
+            "view_count": null,
+            "uploader": null,
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/X4cor8_sQwI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPWX1SiCMK14Jn8DSs8bHhct_OQ"
         },
@@ -4171,6 +4171,16 @@
             "uploader": null,
             "category": "hollywood/marvel",
             "thumbnail": "https://i.ytimg.com/vi/Q6LbI1KYqMk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdc2ufgwFe9VK9F80thrsqUAAwVg"
+        },
+        {
+            "id": "_hxqzM8UKLU",
+            "title": "Avengers Doomsday Full Movie In Hindi Dubbed | Robert Downey Jr. | Chris Hemsworth |facts& Analysis ",
+            "url": "https://www.youtube.com/watch?v=_hxqzM8UKLU",
+            "duration": 8845,
+            "view_count": null,
+            "uploader": null,
+            "category": "hollywood/marvel",
+            "thumbnail": "https://i.ytimg.com/vi/_hxqzM8UKLU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD54GoaLVJwqzJpp7asz17oUJz0eg"
         }
     ]
 }
