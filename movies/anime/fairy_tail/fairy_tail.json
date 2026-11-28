@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-11-28T01:40:21.273388Z",
+    "last_updated": "2026-11-28T09:26:19.879903Z",
     "show_name": "Fairy Tail",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Fairy Tail.",
-    "total_episodes": 197,
+    "total_episodes": 198,
     "episodes": [
         {
             "id": "pGN56s0f3lo",
             "title": "Weakest Orphan Is Trained By A Legendary Dragon And Becomes The Powerful Mage Explained in hindi",
             "url": "https://www.youtube.com/watch?v=pGN56s0f3lo",
             "duration": 5075,
-            "view_count": 1092492,
-            "uploader": "Anisole",
+            "view_count": null,
+            "uploader": null,
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/pGN56s0f3lo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-rL2dDT0O90ksZhoUPwCpZXs-hg"
         },
@@ -171,8 +171,8 @@
             "title": "प्यार का तड़का | The Secret Ingredient in Hindi | @HindiFairyTales",
             "url": "https://www.youtube.com/watch?v=UISirTf4HKM",
             "duration": 805,
-            "view_count": 3759649,
-            "uploader": "Hindi Fairy Tales",
+            "view_count": null,
+            "uploader": null,
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/UISirTf4HKM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgOhf-DokHLJr0TaHf0GXewOsw6w"
         },
@@ -1975,6 +1975,16 @@
             "uploader": "Hindi Fairy Tales",
             "category": "anime/fairy_tail",
             "thumbnail": "https://i.ytimg.com/vi/JXtnvDe_1OY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSu62Qe3avW5jnP__yk7w46tp6fw"
+        },
+        {
+            "id": "uTmBASCriWs",
+            "title": "अमीर बहन, गरीब बहन | Rich Twin Vs. Poor Twin in Hindi | @HindiFairyTales",
+            "url": "https://www.youtube.com/watch?v=uTmBASCriWs",
+            "duration": 994,
+            "view_count": null,
+            "uploader": null,
+            "category": "anime/fairy_tail",
+            "thumbnail": "https://i.ytimg.com/vi/uTmBASCriWs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALQkaOMst7oBM0K_SXkKRiQGkRww"
         }
     ]
 }
